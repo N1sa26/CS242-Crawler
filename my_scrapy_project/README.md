@@ -11,5 +11,5 @@ On macOS
 
 ```bash
 chmod +x crawler.sh
-./crawler.sh seed.txt 10000 output_dir/
+./crawler.sh seed.txt 10000 3 output_dir/
 ```
