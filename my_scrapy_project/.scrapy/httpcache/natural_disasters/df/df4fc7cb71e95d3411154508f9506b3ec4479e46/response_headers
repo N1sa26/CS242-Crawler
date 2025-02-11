@@ -1,0 +1,24 @@
+Content-Length: 8938
+Content-Type: text/html; charset=UTF-8
+Etag: "guRandomEtag-2146998457-101158573"
+Content-Encoding: gzip
+Onion-Location: https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/world/floods
+X-Gu-Frontend-Git-Commit-Id: 39b40dbe198926be552b0acbfdb282c9de4b76c7
+Accept-Ranges: bytes
+Age: 0
+Date: Tue, 11 Feb 2025 05:42:34 GMT
+Set-Cookie: GU_mvt_id=997480; expires=Mon, 12 May 2025 05:42:34 GMT; path=/; domain=.theguardian.com; Secure
+Set-Cookie: GU_geo_country=US; path=/; Secure
+X-Timer: S1739252555.737984,VS0,VS0,VE189
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests; default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; frame-src https: data:; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src 'self' https://assets.guim.co.uk https://pasteup.guim.co.uk https://interactive.guim.co.uk https://dashboard.ophan.co.uk data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'
+Referrer-Policy: no-referrer-when-downgrade
+Feature-Policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+Permissions-Policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=(), clipboard-read=()
+X-Gu-Edition: us
+Cache-Control: max-age=10, private,no-transform
+Vary: Accept-Encoding,User-Agent
+Alt-Svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400

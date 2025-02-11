@@ -1,0 +1,18 @@
+Content-Length: 2569
+X-Amz-Id-2: N0llrkSRQL0ktQ29guDP7aPmapnFbXB+00ppgGpjqI3Bf4nz2QM6ojHLY+zyUvQ32WyGOoIS/vU=
+X-Amz-Request-Id: NJC0C8P2CKYK5098
+Last-Modified: Tue, 05 Dec 2023 19:58:28 GMT
+Etag: "0d26ef547e51a24e133741f2e963c2e4"
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Version-Id: Z0oJ.gnyWWHCbGJwUU3Zxju1rq0.Wslu
+Accept-Ranges: bytes
+Content-Type: text/html
+Server: AmazonS3
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Date: Tue, 11 Feb 2025 05:42:35 GMT
+Set-Cookie: ng_geolocation=US; path=/; domain=.nbcnews.com; secure; SameSite=None
+Strict-Transport-Security: max-age=2628000 ; preload
+Content-Security-Policy: upgrade-insecure-requests;
+Content-Security-Policy: frame-ancestors 'self' https://*.nbcnews.com https://*.today.com https://*.msnbc.com https://*.telemundo.com https://*.nbcnewstools.net https://*.eonline.com https://*.cnbc.com;
+Akamai-Grn: 0.5060d017.1739252555.237cd11

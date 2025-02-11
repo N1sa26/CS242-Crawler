@@ -1,0 +1,930 @@
+<!DOCTYPE html><html lang="en-US" style="height: 100%;"><head>
+    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://www.vdh.virginia.gov/richmond-city/xmlrpc.php">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,300,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link rel="icon" href="../content/themes/vdh-shared/assets/images/icon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../content/themes/vdh-shared/assets/images/icon.png" type="image/x-icon">
+<!--Google Translate in footer-->
+
+<!--End Google Translate-->
+ <!-- Google Tag Manager -->
+<script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-DFK3DLRMHR&amp;l=dataLayer&amp;cx=c&amp;gtm=457e5280za200zb893922105"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MSXMNQK"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=UA-172313694-1&amp;l=dataLayer&amp;cx=c&amp;gtm=45je5280v893922105za200"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-GYBPJ5F2HN&amp;l=dataLayer&amp;cx=c&amp;gtm=45je5280v893922105za200"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NCCW8C9"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NCCW8C9');</script>
+
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0YTWJS1NFL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0YTWJS1NFL', {cookie_flags: 'SameSite=None;Secure'});
+</script>
+<!-- End Google Tag Manager -->
+
+    <title>Emergency Preparedness and Medical Reserve Corps (MRC) – Richmond City Health Department</title>
+<meta name="robots" content="max-image-preview:large">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel="dns-prefetch" href="//public.tableau.com">
+<link rel="alternate" type="application/rss+xml" title="Richmond City Health Department » Feed" href="https://www.vdh.virginia.gov/richmond-city/feed/">
+<link rel="alternate" type="text/calendar" title="Richmond City Health Department » iCal Feed" href="https://www.vdh.virginia.gov/richmond-city/events/?ical=1">
+		<!-- This site uses the Google Analytics by ExactMetrics plugin v8.3.1 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+		<!-- Note: ExactMetrics is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the ExactMetrics settings panel. -->
+					<!-- No tracking code set -->
+				<!-- / Google Analytics by ExactMetrics -->
+				<!-- This site uses the Google Analytics by MonsterInsights plugin v9.2.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-GYBPJ5F2HN" data-cfasync="false" data-wpfc-render="false" type="text/javascript" async=""></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '9.2.4';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/www.vdh.virginia.gov\/richmond-city\/richmond-city-mrc\/"};
+				if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-GYBPJ5F2HN',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-GYBPJ5F2HN', {"forceSSL":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.vdh.virginia.gov\/richmond-city\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.vdh.virginia.gov/richmond-city/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1" type="text/css" media="all">
+<style id="pdfemb-pdf-embedder-viewer-style-inline-css" type="text/css">
+.wp-block-pdfemb-pdf-embedder-viewer{max-width:none}
+
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="ce_responsive-css" href="https://www.vdh.virginia.gov/content/plugins/simple-embed-code/css/video-container.min.css?ver=2.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="siteorigin-panels-front-css" href="https://www.vdh.virginia.gov/content/plugins/siteorigin-panels/css/front-flex.min.css?ver=2.31.4" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="https://www.vdh.virginia.gov/content/themes/vdh-shared/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="generated-style-css" href="https://www.vdh.virginia.gov/content/themes/vdh-shared/assets/generated/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="vdh-generated-style-print-css" href="https://www.vdh.virginia.gov/content/themes/vdh-shared/assets/generated/print.css" type="text/css" media="print">
+<link rel="stylesheet" id="ie-styles-css" href="https://www.vdh.virginia.gov/content/themes/vdh-shared/assets/ie.css" type="text/css" media="all">
+<link rel="stylesheet" id="custom-styles-css" href="https://www.vdh.virginia.gov/content/themes/vdh-shared/assets/custom.css" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://www.vdh.virginia.gov/richmond-city/wp-includes/css/dashicons.min.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="vdh-shared-style-css" href="https://www.vdh.virginia.gov/content/themes/vdh-main/style.css" type="text/css" media="all">
+<script type="text/javascript" src="https://www.vdh.virginia.gov/content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=9.2.4" id="monsterinsights-frontend-script-js" async="async" data-wp-strategy="async"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id="monsterinsights-frontend-script-js-extra">/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.vdh.virginia.gov\/richmond-city","hash_tracking":"false","v4_id":"G-GYBPJ5F2HN"};/* ]]> */
+</script>
+<script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.1.1.js?ver=6.7.1" id="tableau-js-js"></script>
+<script type="text/javascript" src="https://www.vdh.virginia.gov/richmond-city/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.vdh.virginia.gov/richmond-city/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.vdh.virginia.gov/content/plugins/simple-tableau-viz/js/simple-tableau-viz-public.js?ver=1" id="tableau-init-viz-js-js"></script>
+<script type="text/javascript" src="https://www.vdh.virginia.gov/content/themes/vdh-shared/assets/generated/scripts.js" id="generated-scripts-js"></script>
+<link rel="https://api.w.org/" href="https://www.vdh.virginia.gov/richmond-city/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://www.vdh.virginia.gov/richmond-city/wp-json/wp/v2/pages/20"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.vdh.virginia.gov/richmond-city/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.1">
+<link rel="canonical" href="https://www.vdh.virginia.gov/richmond-city/richmond-city-mrc/">
+<link rel="shortlink" href="https://www.vdh.virginia.gov/richmond-city/?p=20">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.vdh.virginia.gov/richmond-city/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.vdh.virginia.gov%2Frichmond-city%2Frichmond-city-mrc%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.vdh.virginia.gov/richmond-city/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.vdh.virginia.gov%2Frichmond-city%2Frichmond-city-mrc%2F&amp;format=xml">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76692263-2', 'auto');
+  ga('send', 'pageview');
+</script>
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-172313694-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-172313694-1');
+		</script>
+
+	<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.vdh.virginia.gov/richmond-city"><link rel="alternate" href="https://www.vdh.virginia.gov/richmond-city/wp-json/tribe/events/v1/">
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to footer -->
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">
+	var dataLayer_content = {"pageTitle":"Emergency Preparedness and Medical Reserve Corps (MRC) |","pagePostType":"page","pagePostType2":"single-page"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSXMNQK');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->	<style type="text/css">
+			.site-title a,
+		.site-description {
+			color: #6b6b6b;
+		}
+		</style>
+	<style media="all" id="siteorigin-panels-layouts-head">/* Layout 20 */ #pgc-20-0-0 , #pgc-20-1-0 , #pgc-20-5-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pg-20-0 , #pg-20-4 , #pl-20 .so-panel:last-of-type { margin-bottom:0px } #pg-20-1 , #pg-20-5 , #pl-20 .so-panel { margin-bottom:15px } #pgc-20-2-0 { width:66.0602%;width:calc(66.0602% - ( 0.33939776594585 * 55px ) ) } #pgc-20-2-1 { width:33.9398%;width:calc(33.9398% - ( 0.66060223405415 * 55px ) ) } #pg-20-2 { margin-bottom:25px } #pgc-20-3-0 { width:66.1978%;width:calc(66.1978% - ( 0.33802227605396 * 50px ) ) } #pgc-20-3-1 { width:33.8022%;width:calc(33.8022% - ( 0.66197772394604 * 50px ) ) } #pg-20-3 { margin-bottom:30px } #pgc-20-4-0 { width:66.3448%;width:calc(66.3448% - ( 0.33655193845113 * 50px ) ) } #pl-20 #panel-20-4-0-0 { margin:0px 0px 45px 0px } #pl-20 #panel-20-4-0-2 { margin:-25px 0px 25px 0px } #pgc-20-4-1 { width:33.6552%;width:calc(33.6552% - ( 0.66344806154887 * 50px ) ) } #pgc-20-6-0 { width:67.049%;width:calc(67.049% - ( 0.32951048005062 * 55px ) ) } #pgc-20-6-1 { width:32.951%;width:calc(32.951% - ( 0.67048951994938 * 55px ) ) } #pg-20-0.panel-has-style > .panel-row-style, #pg-20-0.panel-no-style , #pg-20-1.panel-has-style > .panel-row-style, #pg-20-1.panel-no-style , #pg-20-2.panel-has-style > .panel-row-style, #pg-20-2.panel-no-style , #pg-20-3.panel-has-style > .panel-row-style, #pg-20-3.panel-no-style , #pg-20-4.panel-has-style > .panel-row-style, #pg-20-4.panel-no-style , #pg-20-5.panel-has-style > .panel-row-style, #pg-20-5.panel-no-style , #pg-20-6.panel-has-style > .panel-row-style, #pg-20-6.panel-no-style { -webkit-align-items:flex-start;align-items:flex-start } #panel-20-0-0-0> .panel-widget-style , #panel-20-4-0-1> .panel-widget-style , #panel-20-6-1-0> .panel-widget-style { color:#6b6b6b } #panel-20-0-0-0 a , #panel-20-2-0-0 a , #panel-20-2-1-0 a , #panel-20-2-1-1 a , #panel-20-3-0-0 a , #panel-20-3-0-1 a , #panel-20-4-0-0 a , #panel-20-4-0-1 a , #panel-20-4-1-0 a , #panel-20-5-0-0 a , #panel-20-6-0-0 a , #panel-20-6-1-0 a { color:#00a6a6 } #pg-20-1> .panel-row-style { padding:20px 0px 0px 0px } #panel-20-2-0-0> .panel-widget-style , #panel-20-2-1-0> .panel-widget-style , #panel-20-2-1-1> .panel-widget-style , #panel-20-3-0-1> .panel-widget-style { color:#6b6b6b;font:"Lato" } #pgc-20-2-1 , #pgc-20-3-1 { align-self:auto } #pg-20-3> .panel-row-style { background-color:#f9f9f9;padding:30px 0px 45px 0px } #panel-20-3-0-0> .panel-widget-style , #panel-20-4-0-0> .panel-widget-style { color:#6b6b6b;padding:0px 0px 25px 0px } #pgc-20-3-1> .panel-cell-style { background-color:#f2f2f2 } #pg-20-4> .panel-row-style { padding:15px 0px 30px 0px } #panel-20-4-1-0> .panel-widget-style { color:#6b6b6b;padding:20px 20px 20px 20px;font:"Lato" } #pg-20-5> .panel-row-style { background-color:#13a5a5 } #panel-20-5-0-0> .panel-widget-style { color:#ffffff;padding:20px 20px 20px 20px } #pg-20-6> .panel-row-style { padding:45px 0px 45px 0px } #panel-20-6-0-0> .panel-widget-style { color:#6b6b6b;padding:0px 10px 0px 0px } @media (max-width:450px){ #pg-20-0.panel-no-style, #pg-20-0.panel-has-style > .panel-row-style, #pg-20-0 , #pg-20-1.panel-no-style, #pg-20-1.panel-has-style > .panel-row-style, #pg-20-1 , #pg-20-2.panel-no-style, #pg-20-2.panel-has-style > .panel-row-style, #pg-20-2 , #pg-20-3.panel-no-style, #pg-20-3.panel-has-style > .panel-row-style, #pg-20-3 , #pg-20-4.panel-no-style, #pg-20-4.panel-has-style > .panel-row-style, #pg-20-4 , #pg-20-5.panel-no-style, #pg-20-5.panel-has-style > .panel-row-style, #pg-20-5 , #pg-20-6.panel-no-style, #pg-20-6.panel-has-style > .panel-row-style, #pg-20-6 { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-20-0 > .panel-grid-cell , #pg-20-0 > .panel-row-style > .panel-grid-cell , #pg-20-1 > .panel-grid-cell , #pg-20-1 > .panel-row-style > .panel-grid-cell , #pg-20-2 > .panel-grid-cell , #pg-20-2 > .panel-row-style > .panel-grid-cell , #pg-20-3 > .panel-grid-cell , #pg-20-3 > .panel-row-style > .panel-grid-cell , #pg-20-4 > .panel-grid-cell , #pg-20-4 > .panel-row-style > .panel-grid-cell , #pg-20-5 > .panel-grid-cell , #pg-20-5 > .panel-row-style > .panel-grid-cell , #pg-20-6 > .panel-grid-cell , #pg-20-6 > .panel-row-style > .panel-grid-cell { width:100%;margin-right:0 } #pgc-20-2-0 , #pgc-20-3-0 , #pgc-20-4-0 { margin-bottom:15px } #pgc-20-6-0 { margin-bottom:5px } #pg-20-6 { margin-bottom:10px } #pl-20 .panel-grid-cell { padding:0 } #pl-20 .panel-grid .panel-grid-cell-empty , #pg-20-1> .panel-row-style { display:none } #pl-20 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px } #pg-20-5> .panel-row-style , #pg-20-6> .panel-row-style { padding:0px 0px 0px 0px }  } </style><style id="sccss">/* Enter Your Custom CSS Here */
+
+/* Header 2 color */
+h2 {
+	color:#00a6a6;}
+
+
+/* Page title color and font */
+.entry-title {
+    color: #00a6a6;
+    font-size: 28px;
+    font-weight: normal;
+    margin: 0px 0 0;
+    text-transform: uppercase;
+}
+
+
+/* Left nav main color */
+body.page #sidebar ul.menu {
+    background: #f9f9f9;
+    margin: 15px 0 0;
+    padding: 0;
+}
+
+/* rhhd all general table properties- table */
+table{
+  border: 0px solid #e0e7e9;
+	vertical-align: top;
+}
+
+/* rhhd all general table properties- table header */
+th{
+  border: 0px solid #e0e7e9;
+	vertical-align: top;
+	background: #00a6a6;
+		padding: 10px;
+}
+
+/* rhhd all general table properties adds padding around table cells */
+td {
+    padding: 10px;
+}
+
+/* Creates table style for list of vax events */
+table.blueTable {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+	vertical-align: top;
+}
+table.blueTable td, table.blueTable th {
+  border: 0px solid #e0e7e9;
+  padding: 15px 15px 15px 15px;
+	vertical-align: top;
+}
+
+table.blueTable th {
+  border: 0px solid #AAAAAA;
+  padding: 15px 15px 15px 15px;
+	background: #6B6B6B;
+}
+
+table.blueTable tr:nth-child(even) {
+  background: #e0e7e9;
+}
+
+table.blueTable tr:nth-child(odd) {
+  background: white;
+}
+
+table.blueTable thead {
+  background: #009C9C;
+  background: -moz-linear-gradient(top, #00A6A6 0%, #00A6A6 66%, #0c9191 100%);
+  background: -webkit-linear-gradient(top, #00A6A6 0%, #00A6A6 66%, #0c9191 100%);
+  background: linear-gradient(to bottom, #00A6A6 0%, #00A6A6 66%, #0c9191 100%);
+}
+table.blueTable thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  border-left: 2px solid #D0E4F5;
+}
+table.blueTable thead th:first-child {
+  border-left: none;
+}
+</style>        <link rel="canonical" href="https://www.vdh.virginia.gov/richmond-city/richmond-city-mrc/">
+    <script async="" src="https://cse.google.com/cse.js?cx=05dc5e032a0fe682a"></script>
+<script src="https://www.google.com/cse/static/element/5c8d58cbdc1332a7/cse_element__en.js?usqp=CAI%3D" type="text/javascript"></script><link type="text/css" href="https://www.google.com/cse/static/element/5c8d58cbdc1332a7/default+en.css" rel="stylesheet"><link type="text/css" href="https://www.google.com/cse/static/style/look/v4/default.css" rel="stylesheet"><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=DAY/d=0/rs=AN8SPfrCcgxoBri2FVMQptvuOBiOsolgBw/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_US.aupjx_hpojY.O/am=ACA/d=1/exm=el_conf/ed=1/rs=AN8SPfr54Y73PjWppN-aBmAxw0iAZIIDgA/m=el_main"></script><style type="text/css">.gsc-control-cse{font-family:arial, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to left,rgba(255,255,255,1),rgba(255,255,255,0))}.gsc-control-cse{border-color:#FFFFFF;background-color:#FFFFFF}input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus{border-color:#CCCCCC}.gsc-search-button-v2,.gsc-search-button-v2:hover,.gsc-search-button-v2:focus{border-color:#3079ED;background-color:#4D90FE;background-image:none;filter:none}.gsc-search-button-v2 svg{fill:#FFFFFF}.gsc-tabHeader.gsc-tabhActive,.gsc-refinementHeader.gsc-refinementhActive{color:#1A73E8;border-color:#1A73E8;background-color:#FFFFFF}.gsc-tabHeader.gsc-tabhInactive,.gsc-refinementHeader.gsc-refinementhInactive{color:#666666;border-color:#666666;background-color:#FFFFFF}.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-webResult.gsc-result:hover{border-color:#FFFFFF;background-color:#FFFFFF}.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#1155CC}.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b{color:#1155CC}.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#1155CC}.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#1155CC}.gsc-cursor-page{color:#1155CC}a.gsc-trailing-more-results:link{color:#1155CC}.gs-webResult:not(.gs-no-results-result):not(.gs-error-result) .gs-snippet,.gs-fileFormatType{color:#333333}.gs-webResult div.gs-visibleUrl{color:#009933}.gs-webResult div.gs-visibleUrl-short{color:#009933}.gs-webResult div.gs-visibleUrl-short{display:none}.gs-webResult div.gs-visibleUrl-long{display:none}.gs-webResult div.gs-visibleUrl-breadcrumb{display:block}.gs-promotion div.gs-visibleUrl-short{display:none}.gs-promotion div.gs-visibleUrl-long{display:block}.gs-promotion div.gs-visibleUrl-breadcrumb{display:none}.gsc-cursor-box{border-color:#FFFFFF}.gsc-results .gsc-cursor-box .gsc-cursor-page{border-color:#666666;background-color:#FFFFFF;color:#666666}.gsc-results .gsc-cursor-box .gsc-cursor-current-page{border-color:#1A73E8;background-color:#FFFFFF;color:#1A73E8}.gsc-webResult.gsc-result.gsc-promotion{border-color:#FFFFFF;background-color:#F6F6F6}.gsc-completion-title{color:#1155CC}.gsc-completion-snippet{color:#333333}.gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link *,.gs-promotion .gs-snippet a:link{color:#1155CC}.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited *,.gs-promotion .gs-snippet a:visited{color:#1155CC}.gs-promotion a.gs-title:hover,.gs-promotion a.gs-title:hover *,.gs-promotion .gs-snippet a:hover{color:#1155CC}.gs-promotion a.gs-title:active,.gs-promotion a.gs-title:active *,.gs-promotion .gs-snippet a:active{color:#1155CC}.gs-promotion .gs-snippet,.gs-promotion .gs-title .gs-promotion-title-right,.gs-promotion .gs-title .gs-promotion-title-right *{color:#333333}.gs-promotion .gs-visibleUrl,.gs-promotion .gs-visibleUrl-short{color:#009933}.gcsc-find-more-on-google{color:#1155CC}.gcsc-find-more-on-google-magnifier{fill:#1155CC}</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:0 9px}.gsib_a{padding:5px 9px 4px 9px}.gscb_a{line-height:27px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}</style><style type="text/css">@import url(https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&family=Roboto:wght@400;500;700&display=swap);.bbar-skipnav{position:absolute;left:-9999px;z-index:999;padding:1rem;background-color:#fff;border:1px solid var(--dark-grey);color:#0079ba;opacity:0;font-family:Roboto,sans-serif}.bbar-skipnav:focus{left:50%;transform:translateX(-50%);opacity:1}body .va-agency-bar-container{font-family:Roboto,sans-serif;z-index:1;position:relative;font-size:16px!important;-webkit-font-smoothing:antialiased}body .va-agency-bar-container button{border-radius:0!important;font-size:88%!important;line-height:1.15!important;box-shadow:none;-webkit-font-smoothing:antialiased;text-shadow:none}body .va-agency-bar-container button:hover{box-shadow:none;border:0;-webkit-font-smoothing:antialiased;text-shadow:none}.bbar-skip{left:50%;position:absolute!important;transform:translateY(-200%);background:#fff}div#after-bbar{position:absolute;left:-999px;width:1px;height:1px}body .va-agency-bar-container ul{font-size:1em}body .va-agency-bar-container a{font-size:1em}#va-agency-bar-resource ul{text-indent:initial;list-style:none}div#va-agency-bar-resource li:before{content:initial}.va-agency-bar-container{font-family:Roboto,sans-serif;z-index:1;position:relative}.va-agency-bar-container a,.va-agency-bar-container b,.va-agency-bar-container p{font-size:initial}.va-agency-bar-container b{font-weight:600}.va-agency-bar-container p{line-height:1.625}p.va-agency-bar-header>a{font-size:1em}p.va-agency-bar-header a[href^="https://"]:before{display:none}.va-agency-bar-container h1,.va-agency-bar-container h2,.va-agency-bar-container h3,.va-agency-bar-container h4,.va-agency-bar-container h5,.va-agency-bar-container p{font-family:Roboto,sans-serif;color:#212121}.va-agency-bar-container .va-agency-bar .cardinal-logo{padding:3px 10px;max-width:90px;margin:initial}.va-agency-bar-container .va-agency-bar .cardinal-logo img{height:auto!important;width:100px!important;max-height:42px;padding:initial;vertical-align:initial;max-width:100%}.va-agency-bar-container .va-agency-bar{display:flex;background:#212121;color:#fff;padding:0!important;font-size:1em!important}.va-agency-logo-select{background:#0c5982;border-radius:0 0 10px 10px;padding:0 10px;position:relative;z-index:2}.va-agency-logo-select img{max-width:65px}.va-agency-logo-select a{display:block;position:relative;top:50%;transform:translateY(calc(-50%))}.va-agency-content{color:#fff;display:inline-block;position:relative;display:flex;padding:5px}p.va-agency-bar-header span{display:block;font-size:.75em;text-transform:initial;font-weight:400;color:#fff;width:initial;background:initial;margin:initial}p.va-agency-bar-header{font-weight:700;font-size:1em;vertical-align:middle;margin:0!important;text-transform:none}p.va-agency-bar-header a{color:#fff;text-decoration:none;font-weight:700;box-shadow:initial}p.va-agency-bar-header a:hover{text-decoration:underline}.va-agency-bar.aatheme-white{background:#fff;border-bottom:1px solid #f2f2f2}.aatheme-white p.va-agency-bar-header>*,.aatheme-white p.va-agency-bar-header>*>*{color:#172b54}p.va-agency-bar-header span a{margin-left:5px;text-decoration:underline;position:relative;font-size:1em;font-weight:500}p.va-agency-bar-header span a::after{content:"";font-size:1.5em;padding-left:2px;height:16px;width:20px;background:#00f;position:static;line-height:1;display:inline-block;vertical-align:middle;background:url(https://www.developer.virginia.gov/media/developer/assets/img/down-arrow.png) no-repeat center;background-size:50%;transform:rotate(0);transition:all .5s}.aatheme-white p.va-agency-bar-header span a::after{background:url(https://www.developer.virginia.gov/media/developer/assets/img/down-arrow-blue.png) no-repeat center;background-size:50%}p.va-agency-bar-header span a.bbarheresHow-open::after{content:"";transform:rotate(180deg)}.va-agency-bar-container .va-agency-bar.va_aagency_bar-open{flex-wrap:wrap}#va-agency-bar-resource #bbarheresHow{display:flex;background:#efefef;max-width:1000px;margin:0 auto;flex-wrap:wrap}#va-agency-bar-resource #bbarheresHow>.resource-item:nth-child(odd){background:#fafafa}#va-agency-bar-resource #bbarheresHow>.resource-item{background:#f5f5f5;padding:15px;flex:1}#va-agency-bar-resource #bbarheresHow #bbarheresHow-close{flex:0 0 100%}.va-agency-bar-container .resource-item-logo-display{background-image:url(https://www.developer.virginia.gov/media/developer/assets/img/bbar_logos-white.svg);height:45px;width:75px;background-size:80%;background-color:#212121;padding:10px;background-repeat:no-repeat;background-position:center}.va-agency-bar-container .aatheme-white+#va-agency-bar-resource .resource-item-logo-display{background-image:url(https://www.developer.virginia.gov/media/developer/assets/img/bbar_logos-blue.svg);background-color:#fff}.va-agency-bar-container .resource-item p{text-transform:initial;margin-bottom:10px;font-size:1em;font-weight:600;color:#212121!important}.va-agency-bar-container #va-agency-bar-resource{background:#eeeded}.va-agency-bar-container .aatheme-black.va-agency-bar.va_aagency_bar-open #va-agency-bar-resource #bbarheresHow{border-bottom:1px solid #eeeded}.va-agency-bar-container .va-agency-bar.va_aagency_bar-open #va-agency-bar-resource{flex-grow:1;width:100%}.va-agency-bar-container .aatheme-white+#va-agency-bar-resource{border-bottom:1px solid #f0efef}.va-agency-bar-container #bbarheresHow .resource-item p{font-size:1em;font-weight:400}.va-agency-bar-container ::selection{background:#891723;color:#fff;text-shadow:none}@media(max-width:575px){p.va-agency-bar-header span a{display:block;margin-left:0}#bbarheresHow{flex-direction:column}}div#va-agency-bar-builder{padding:30px 0}span.bbarmobile-official{display:none!important}@media (max-width:992px){.va-agency-bar-container .va-agency-bar .cardinal-logo img{width:60px!important}.va-agency-bar-container .va-agency-bar{width:100%!important}p.va-agency-bar-header span{display:none;font-size:.85em}p.va-agency-bar-header span a{font-size:.85em}div#va-agency-bar-builder{padding:30px 0}p.va-agency-bar-header span{display:none}p.va-agency-bar-header span.bbarmobile-official span{display:inline-block;margin-right:5px}p.va-agency-bar-header span.bbarmobile-official a{display:inline-block}.va-agency-bar-container p{line-height:1.25!important}p.va-agency-bar-header>a{font-size:.85em!important}p.va-agency-bar-header span.bbarmobile-official a::after{font-size:1.25em;top:-7px}p.va-agency-bar-header span.bbarmobile-official a.bbarheresHow-open::after{font-size:1.25em!important;top:2px!important}}@media(max-width:375px){p.va-agency-bar-header span.bbarmobile-official a{margin-left:0;display:block}}button.bbarServiceResource{font-size:.85em!important;color:#f6f6f6!important;margin:0;text-decoration:none;display:block;font-weight:600;line-height:1;margin-left:auto;padding:12px;background:#383939!important;border:0;font-family:Roboto,sans-serif;text-transform:initial}.bbarServiceResource img{max-width:23px!important;display:inline-block!important;vertical-align:middle;margin:initial!important;margin-right:10px!important;padding:initial!important}#bbar-services{background:#383939;padding:15px;display:flex;font-family:Roboto,sans-serif;justify-content:center;flex-direction:column}#va_aagency_bar #bbar-services p{color:#fff!important;margin-bottom:1em;font-size:1.25em;line-height:1.25;padding-bottom:4px;font-weight:600!important;text-shadow:none}#bbar-services a{color:#fff!important;text-decoration:underline;display:inline-block!important;box-shadow:initial;font-family:Roboto,sans-serif;text-shadow:none}#bbar-services .bbarServicesList a{width:100%}#bbar-services .bbarServicesList a:after{background-image:url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20width%3D%2232%22%20height%3D%22192%22%3E%0A%3Cdefs%3E%3Csymbol%20id%3D%22arrow-ext%22%3E%3Cpath%20d%3D%22M18 5v2h5.6L11.3 19.3l1.4 1.4L25 8.4V14h2V5h-9zM5 9v18h18V14l-2 2v9H7V11h9l2-2H5z%22%2F%3E%3C%2Fsymbol%3E%3C%2Fdefs%3E%3Cuse%20xlink%3Ahref%3D%22%23arrow-ext%22%20x%3D%220%22%20y%3D%220%22%20fill%3D%22%2319191A%22%20%2F%3E%3Cuse%20xlink%3Ahref%3D%22%23arrow-ext%22%20x%3D%220%22%20y%3D%2232%22%20fill%3D%22%23F3F5F9%22%20%2F%3E%3Cuse%20xlink%3Ahref%3D%22%23arrow-ext%22%20x%3D%220%22%20y%3D%2264%22%20fill%3D%22%236B6E6D%22%20%2F%3E%3Cuse%20xlink%3Ahref%3D%22%23arrow-ext%22%20x%3D%220%22%20y%3D%2296%22%20fill%3D%22%239BAAC9%22%20%2F%3E%3Cuse%20xlink%3Ahref%3D%22%23arrow-ext%22%20x%3D%220%22%20y%3D%22128%22%20fill%3D%22%230079BA%22%20%2F%3E%3Cuse%20xlink%3Ahref%3D%22%23arrow-ext%22%20x%3D%220%22%20y%3D%22160%22%20fill%3D%22%233298CF%22%20%2F%3E%3C%2Fsvg%3E');background-position:50% 20%;content:'';font-size:.95em;background-size:1em;width:1em;height:1em;display:inline-block;vertical-align:middle}#bbar-services a:hover{color:#c3c3c3}#bbar-services>div{max-width:1200px!important;margin:0 auto}#site-services li.bbar-service-item{margin-bottom:10px}#global-services li.bbar-service-item{margin-bottom:10px;border-bottom:1px solid #5f5f5f}div#global-services ul{-moz-column-count:2;-moz-column-gap:20px;-webkit-column-count:2;-webkit-column-gap:20px;column-count:2;column-gap:20px;text-indent:initial}li.bbar-service-item button{background:0 0;border:0;color:#fff;font-size:1.1em!important;font-weight:600;padding:5px;width:100%;text-align:left;cursor:pointer;margin:0!important;transition:all 1s;box-shadow:0 0;text-shadow:0 0;text-transform:initial}li.bbar-service-item:before{content:initial}li.bbar-service-item button:hover{background:#ba1a1a}#global-services li.bbar-service-item{margin-bottom:10px!important;border-bottom:1px solid #5f5f5f;list-style:none;font-size:1em}ul.bbarServiceCategoryList ul a{margin:10px 10px 0;display:block;font-size:.9em}.global-services-open#global-services{flex-grow:1}.global-services-open#global-services ul{-moz-column-count:initial;-moz-column-gap:initial;-webkit-column-count:initial;-webkit-column-gap:initial;column-count:initial;column-gap:initial;text-indent:initial}.global-services-open#global-services ul li:before{content:initial}ul.bbarServiceCategoryList{border-left:1px solid #7e7e7e;margin-bottom:20px!important}#bbar-services ul{list-style:none;margin:0}ul.bbarServiceCategoryList li{margin-bottom:15px!important;font-size:1.1em}ul.bbarServiceCategoryList li button{color:#e9e9e9}ul.bbarServiceCategoryList li>button{font-size:.9em;margin-left:10px!important}ul.bbarServicesList{margin-left:15px!important;font-size:1em}button.bbarServiceCategory.bbarbuttonServiceCategory-on{background:#ba1a1a;margin-bottom:10px!important}.bbar-down-arrow{height:5px;width:9px;display:inline-block;margin:5px;background:url(https://www.developer.virginia.gov/media/developer/assets/img/down-arrow.png) no-repeat center;background-size:cover;position:relative;top:3px;transition:all .25s}button.bbarServiceCategory.bbarbuttonServiceCategory-on .bbar-down-arrow{transform:rotate(180deg)}button.bbarSubCatService .bbar-down-arrow{height:5px;width:9px;opacity:.45}button.bbarSubCatService.bbarbuttonServiceSubCategory-on .bbar-down-arrow{transform:rotate(180deg)}span.bbar-ServiceAgencyName{margin:5px 10px 20px;font-size:.75em;line-height:1;display:block;opacity:.85;font-weight:400;color:#fff;width:initial;background:initial;text-shadow:none;font-family:Roboto}li.bbar-service-item button.bbarSubCatService{font-size:.95em!important}div#bbar-services>div img{padding:0!important;margin:0 5px 0!important;display:inline-block!important;height:30px!important;position:relative;top:-5px;max-width:70px}div#bbar-globalsearch{width:100%}div#bbar-service-items{display:flex;width:100%;justify-content:center}div#bbar-service-items>div{padding:10px 30px;transition:all 1s}button.bbarServiceResource:hover{background:#ba1a1a!important;cursor:pointer}button.bbarServiceResource:focus{outline:2px solid #ba1a1a;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;outline-offset:-2px}.va-agency-bar-container button{outline:0}@media (max-width:992px){div#bbar-service-items{flex-direction:column}span.bbarmobile-official{display:flex!important;flex-wrap:wrap;padding-bottom:5px}}@media(max-width:575px){.va-agency-bar-container .va-agency-bar .cardinal-logo img{max-height:35px}.va-agency-bar-container .va-agency-bar{flex-wrap:wrap;align-items:center;justify-content:center}.bbarServiceResource{padding:0 0 5px 0;font-size:10px;display:table;margin:0 0 0 auto}}div#bbar-services #global-services>p{display:flex;border:0}div#va_aagency_bar .bbarServiceResource+.bbarServiceResource img{margin:0 10px!important}div#bbarServiceBar{display:flex;margin:0 0 0 auto}.bbar-close{background:#ba1a1a;padding:10px;margin-left:10px;color:#fff;border:0;display:block;margin:0 auto;vertical-align:middle;font-weight:600;cursor:pointer;max-width:6em}.bbar-close img{max-width:15px;vertical-align:middle;margin:0 auto;margin-right:3px;box-sizing:content-box;display:inline-block;padding:initial}div#va-agency-bar-resource .bbar-close img{position:relative;top:-2px}img+.bbar-close{margin-left:10px;padding:10px 10px!important}img+.bbar-close img{margin:initial!important;max-width:15px!important}span.bbar-close{display:none}@media (max-width:800px){p.va-agency-bar-header span a{display:block}}@media (max-width:705px){p.va-agency-bar-header span.bbarmobile-official a{display:block;margin:0}div#global-services ul{-moz-column-count:initial;-moz-column-gap:initial;-webkit-column-count:initial;-webkit-column-gap:initial;column-count:initial;column-gap:initial;text-indent:initial}}@media (max-width:575px){.va-agency-bar-container .va-agency-bar .cardinal-logo{max-width:initial}.va-agency-bar-container .va-agency-bar .cardinal-logo img{max-height:35px;display:block;margin:0 auto}.va-agency-content{padding:10px}button.bbarServiceResource{width:100%}.va-agency-content{padding:5px 10px}}#va_aagency_bar .sui-layout{display:flex;flex-direction:column;width:100%}#va_aagency_bar .sui-layout-header{border-bottom:1px solid #eee;padding:32px 24px}#va_aagency_bar .sui-layout-body{background:#fcfcfc}#va_aagency_bar .sui-layout-body:after{background:linear-gradient(180deg,#fcfcfc 0,#fff);content:"";display:none;height:80px;position:relative;width:100%}@media (max-width:800px){#va_aagency_bar .sui-layout-body:after{display:none}}#va_aagency_bar .sui-layout-body__inner{display:flex;margin-left:auto;margin-right:auto;max-width:1300px;padding:0 24px}@media (max-width:800px){#va_aagency_bar .sui-layout-body__inner{display:block;padding:0 15px}}@-webkit-keyframes fadein{0%{opacity:0}to{opacity:1}}@keyframes fadein{0%{opacity:0}to{opacity:1}}#va_aagency_bar .sui-layout-sidebar{padding:32px 32px 0 0;width:24%}@media (max-width:975px){#va_aagency_bar .sui-layout-sidebar{padding-right:0}}@media (max-width:800px){#va_aagency_bar .sui-layout-sidebar{background-color:#fcfcfc;display:none;height:100%;left:0;margin:0;overflow:auto;padding:0 15px 30px;position:fixed;top:0;width:100%;z-index:99}}#va_aagency_bar .sui-layout-sidebar--toggled{-webkit-animation:fadein .2s ease-out;animation:fadein .2s ease-out;display:block}@media (max-width:800px){#va_aagency_bar .sui-layout-sidebar-toggle{background-color:#fff;border:1px solid #3a56e4;border-radius:4px;color:#3a56e4;display:block;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;font-weight:700;line-height:1.5;margin-top:20px;padding:10px;width:100%}#va_aagency_bar .sui-layout-sidebar .sui-layout-sidebar-toggle{margin-bottom:20px}}#va_aagency_bar .sui-layout-main{padding:32px 0 32px 32px;width:76%}@media (max-width:800px){#va_aagency_bar .sui-layout-main{padding-left:0;width:100%}}#va_aagency_bar .sui-layout-main-header,#va_aagency_bar .sui-layout-main-header__inner{align-items:center;display:flex;justify-content:space-between;width:100%}#va_aagency_bar .sui-layout-main-header__inner{color:#4a4b4b;font-size:12px}#va_aagency_bar .sui-layout-main-footer{align-items:center;display:flex;justify-content:space-around}#va_aagency_bar .sui-search-error{color:red}#va_aagency_bar .sui-search-error,#va_aagency_bar .sui-search-error.no-error{align-items:center;display:flex;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-weight:400;height:calc(100vh - 180px);justify-content:center;line-height:1.5;margin:auto}#va_aagency_bar .sui-search-error.no-error{color:#333}#va_aagency_bar .sui-facet{border:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-weight:400;line-height:1.5;margin:0;padding:0}#va_aagency_bar .sui-facet+.sui-facet,#va_aagency_bar .sui-sorting+.sui-facet{margin-top:32px}#va_aagency_bar .sui-facet__title{color:#8b9bad;font-size:12px;letter-spacing:1px;padding:0;text-transform:uppercase}#va_aagency_bar .sui-facet__list{font-size:13px;line-height:1.5;margin:8px 0;padding:0}#va_aagency_bar .sui-facet__count{color:#888;display:inline-block;font-size:.85em;margin-left:20px;padding-top:2px}#va_aagency_bar .sui-multi-checkbox-facet{color:#4f4f4f;font-size:13px;margin:8px 0}#va_aagency_bar .sui-multi-checkbox-facet__option-label{align-items:center;cursor:pointer;display:flex;justify-content:space-between}#va_aagency_bar .sui-multi-checkbox-facet__option-input-wrapper{flex:1 1}#va_aagency_bar .sui-multi-checkbox-facet__checkbox{cursor:pointer;margin-right:8px}#va_aagency_bar .sui-multi-checkbox-facet__option-count{color:#888;font-size:.85em;margin-left:24px}#va_aagency_bar .sui-facet-view-more{background:unset;border:unset;color:#3a56e4;cursor:pointer;display:block;font-family:inherit;font-size:13px;line-height:inherit;padding:unset;text-align:left}#va_aagency_bar .sui-facet-view-more:focus,#va_aagency_bar .sui-facet-view-more:hover{background-color:#f8f8f8;outline:4px solid #f8f8f8}#va_aagency_bar .sui-facet-search{margin:6px 0 0}#va_aagency_bar .sui-facet-search__text-input{border:1px solid #ccc;border-radius:4px;font-family:inherit;height:100%;margin:0;outline:0;padding:6px;width:100%}#va_aagency_bar .sui-facet-search__text-input:focus{border:1px solid #3a56e4}#va_aagency_bar .sui-boolean-facet{color:#4f4f4f;font-size:13px;margin:8px 0}#va_aagency_bar .sui-boolean-facet__option-label{align-items:center;cursor:pointer;display:flex;justify-content:space-between}#va_aagency_bar .sui-boolean-facet__option-input-wrapper{flex:1 1}#va_aagency_bar .sui-boolean-facet__checkbox{cursor:pointer;margin-right:8px}#va_aagency_bar .sui-boolean-facet__option-count{color:#888;font-size:.85em;margin-left:24px}#va_aagency_bar .sui-single-option-facet{font-size:13px;list-style:none;margin:8px 0;padding:0}#va_aagency_bar .sui-single-option-facet__item{display:flex;justify-content:space-between}#va_aagency_bar .sui-single-option-facet__link{color:#4f4f4f;font-weight:700;list-style:none;padding:0;position:relative;text-decoration:none}#va_aagency_bar .sui-single-option-facet__link:after{background:rgba(37,139,248,.08);content:"";height:calc(100% + 2px);left:-5px;opacity:0;pointer-events:none;position:absolute;top:-1px;width:calc(100% + 10px)}#va_aagency_bar .sui-single-option-facet__link:focus{color:#3a56e4;font-weight:700;outline:0}#va_aagency_bar .sui-single-option-facet__link:hover{color:#3a56e4;font-weight:700}#va_aagency_bar .sui-single-option-facet__link:hover:after{opacity:1}#va_aagency_bar .sui-single-option-facet__selected{font-weight:900;list-style:none}#va_aagency_bar .sui-single-option-facet__selected a{font-weight:100;padding:0 2px}#va_aagency_bar .sui-single-option-facet__remove{color:#666;margin-left:10px}#va_aagency_bar .rc-pagination{font-family:Arial;font-size:12px;padding:0;-webkit-user-select:none;-ms-user-select:none;user-select:none}#va_aagency_bar .rc-pagination>li{list-style:none}#va_aagency_bar .rc-pagination-total-text{float:left;height:30px;line-height:30px;list-style:none;margin:0 8px 0 0;padding:0}#va_aagency_bar .rc-pagination:after{clear:both;content:" ";display:block;height:0;overflow:hidden;visibility:hidden}#va_aagency_bar .rc-pagination-item{background-color:#fff;border:1px solid #d9d9d9;border-radius:6px;cursor:pointer;float:left;height:28px;line-height:28px;list-style:none;margin-right:8px;min-width:28px;text-align:center}#va_aagency_bar .rc-pagination-item a{color:#666;text-decoration:none}#va_aagency_bar .rc-pagination-item:hover{border-color:#2db7f5}#va_aagency_bar .rc-pagination-item:hover a{color:#2db7f5}#va_aagency_bar .rc-pagination-item-disabled{cursor:not-allowed}#va_aagency_bar .rc-pagination-item-disabled:hover{border-color:#d9d9d9}#va_aagency_bar .rc-pagination-item-disabled:hover a{color:#d9d9d9}#va_aagency_bar .rc-pagination-item-active{background-color:#2db7f5;border-color:#2db7f5}#va_aagency_bar .rc-pagination-item-active a,#va_aagency_bar .rc-pagination-item-active:hover a{color:#fff}#va_aagency_bar .rc-pagination-jump-next:after,#va_aagency_bar .rc-pagination-jump-prev:after{color:#ccc;content:"•••";font-size:12px;letter-spacing:2px;margin-top:1px}#va_aagency_bar .rc-pagination-jump-next:hover:after,#va_aagency_bar .rc-pagination-jump-prev:hover:after{color:#2db7f5}#va_aagency_bar .rc-pagination-jump-prev:hover:after{content:"«"}#va_aagency_bar .rc-pagination-jump-next:hover:after{content:"»"}#va_aagency_bar .rc-pagination-jump-next-custom-icon,#va_aagency_bar .rc-pagination-jump-prev-custom-icon{position:relative}#va_aagency_bar .rc-pagination-jump-next-custom-icon:after,#va_aagency_bar .rc-pagination-jump-prev-custom-icon:after{bottom:0;color:#ccc;content:"•••";display:block;font-size:12px;left:0;letter-spacing:2px;margin:1px auto auto;opacity:1;position:absolute;right:0;top:0;transition:all .2s}#va_aagency_bar .rc-pagination-jump-next-custom-icon .custom-icon-jump-next,#va_aagency_bar .rc-pagination-jump-next-custom-icon .custom-icon-jump-prev,#va_aagency_bar .rc-pagination-jump-prev-custom-icon .custom-icon-jump-next,#va_aagency_bar .rc-pagination-jump-prev-custom-icon .custom-icon-jump-prev{opacity:0;transition:all .2s}#va_aagency_bar .rc-pagination-jump-next-custom-icon:hover:after,#va_aagency_bar .rc-pagination-jump-prev-custom-icon:hover:after{color:#ccc;opacity:0}#va_aagency_bar .rc-pagination-jump-next-custom-icon:hover .custom-icon-jump-next,#va_aagency_bar .rc-pagination-jump-next-custom-icon:hover .custom-icon-jump-prev,#va_aagency_bar .rc-pagination-jump-prev-custom-icon:hover .custom-icon-jump-next,#va_aagency_bar .rc-pagination-jump-prev-custom-icon:hover .custom-icon-jump-prev{color:#2db7f5;opacity:1}#va_aagency_bar .rc-pagination-jump-next,#va_aagency_bar .rc-pagination-jump-prev,#va_aagency_bar .rc-pagination-prev{margin-right:8px}#va_aagency_bar .rc-pagination-jump-next,#va_aagency_bar .rc-pagination-jump-prev,#va_aagency_bar .rc-pagination-next,#va_aagency_bar .rc-pagination-prev{border-radius:6px;color:#666;cursor:pointer;float:left;font-size:10px;height:28px;line-height:28px;list-style:none;min-width:28px;text-align:center}#va_aagency_bar .rc-pagination-prev a:after{content:"‹";display:block}#va_aagency_bar .rc-pagination-next a:after{content:"›";display:block}#va_aagency_bar .rc-pagination-next,#va_aagency_bar .rc-pagination-prev{border:1px solid #d9d9d9;font-size:18px}#va_aagency_bar .rc-pagination-next a,#va_aagency_bar .rc-pagination-prev a{color:#666}#va_aagency_bar .rc-pagination-next a:after,#va_aagency_bar .rc-pagination-prev a:after{margin-top:-1px}#va_aagency_bar .rc-pagination-disabled{cursor:not-allowed}#va_aagency_bar .rc-pagination-disabled a{color:#ccc}#va_aagency_bar .rc-pagination-disabled .rc-pagination-item,#va_aagency_bar .rc-pagination-disabled .rc-pagination-next,#va_aagency_bar .rc-pagination-disabled .rc-pagination-prev{cursor:not-allowed}#va_aagency_bar .rc-pagination-disabled .rc-pagination-item:hover,#va_aagency_bar .rc-pagination-disabled .rc-pagination-next:hover,#va_aagency_bar .rc-pagination-disabled .rc-pagination-prev:hover{border-color:#ba1a1a}#va_aagency_bar .rc-pagination-disabled .rc-pagination-item:hover a,#va_aagency_bar .rc-pagination-disabled .rc-pagination-next:hover a,#va_aagency_bar .rc-pagination-disabled .rc-pagination-prev:hover a{color:#ba1a1a}#va_aagency_bar .rc-pagination-disabled .rc-pagination-jump-next,#va_aagency_bar .rc-pagination-disabled .rc-pagination-jump-prev{pointer-events:none}#va_aagency_bar .rc-pagination-options{float:left;margin-left:15px}#va_aagency_bar .rc-pagination-options-size-changer{float:left;width:80px}#va_aagency_bar .rc-pagination-options-quick-jumper{float:left;height:28px;line-height:28px;margin-left:16px}#va_aagency_bar .rc-pagination-options-quick-jumper input{background-color:#fff;border:1px solid #d9d9d9;border-radius:6px;box-sizing:border-box;height:28px;margin:0 8px;outline:0;padding:3px 12px;width:50px}#va_aagency_bar .rc-pagination-options-quick-jumper input:hover{border-color:#2db7f5}#va_aagency_bar .rc-pagination-options-quick-jumper button{background-color:#fff;background-image:none;border:1px solid #d9d9d9;border-radius:6px;color:rgba(0,0,0,.65);cursor:pointer;display:inline-block;font-size:12px;font-weight:500;height:28px;margin:0 8px;padding:0 15px;position:relative;text-align:center;touch-action:manipulation;transition:all .3s cubic-bezier(.645,.045,.355,1);-webkit-user-select:none;-ms-user-select:none;user-select:none;white-space:nowrap}#va_aagency_bar .rc-pagination-options-quick-jumper button:active,#va_aagency_bar .rc-pagination-options-quick-jumper button:focus,#va_aagency_bar .rc-pagination-options-quick-jumper button:hover{background-color:#fff;border-color:#2db7f5;color:#2db7f5}#va_aagency_bar .rc-pagination-simple .rc-pagination-next,#va_aagency_bar .rc-pagination-simple .rc-pagination-prev{border:none;font-size:18px;height:24px;line-height:24px;margin:0}#va_aagency_bar .rc-pagination-simple .rc-pagination-simple-pager{float:left;list-style:none;margin-right:8px}#va_aagency_bar .rc-pagination-simple .rc-pagination-simple-pager .rc-pagination-slash{margin:0 10px}#va_aagency_bar .rc-pagination-simple .rc-pagination-simple-pager input{background-color:#fff;border:1px solid #d9d9d9;border-radius:6px;box-sizing:border-box;margin:0 8px;min-height:20px;outline:0;padding:5px 8px}#va_aagency_bar .rc-pagination-simple .rc-pagination-simple-pager input:hover{border-color:#2db7f5}#va_aagency_bar .rc-pagination-simple .rc-pagination-simple-pager button{background-color:#fff;background-image:none;border:1px solid #d9d9d9;border-radius:6px;color:rgba(0,0,0,.65);cursor:pointer;display:inline-block;font-size:12px;font-weight:500;height:26px;margin:0 8px;padding:0 8px;position:relative;text-align:center;touch-action:manipulation;transition:all .3s cubic-bezier(.645,.045,.355,1);-webkit-user-select:none;-ms-user-select:none;user-select:none;white-space:nowrap}#va_aagency_bar .rc-pagination-simple .rc-pagination-simple-pager button:active,#va_aagency_bar .rc-pagination-simple .rc-pagination-simple-pager button:focus,#va_aagency_bar .rc-pagination-simple .rc-pagination-simple-pager button:hover{background-color:#fff;border-color:#2db7f5;color:#2db7f5}@media only screen and (max-width:1024px){#va_aagency_bar .rc-pagination-item-after-jump-prev,#va_aagency_bar .rc-pagination-item-before-jump-next{display:none}}#va_aagency_bar .sui-paging>li{background:0 0;border:none;outline:0}#va_aagency_bar .sui-paging .rc-pagination-disabled a{color:#ccc;opacity:.5}#va_aagency_bar .sui-paging .rc-pagination-item a{color:#3a56e4;text-decoration:none}#va_aagency_bar .sui-paging .rc-pagination-item:hover{background:#f8f8f8}#va_aagency_bar .sui-paging .rc-pagination-item:hover a{color:#3a56e4;text-decoration:none}#va_aagency_bar .sui-paging .rc-pagination-item-active a{color:#4f4f4f;font-weight:700}#va_aagency_bar .sui-paging .rc-pagination-item-active:hover{background:0 0;cursor:not-allowed}#va_aagency_bar .sui-paging .rc-pagination-item-active:hover a{color:#4f4f4f;cursor:not-allowed}#va_aagency_bar .sui-paging .rc-pagination-next:hover{background:#ba1a1a}#va_aagency_bar .sui-paging .rc-pagination-next:hover a{color:#3a56e4}#va_aagency_bar .sui-paging .rc-pagination-jump-next:hover{background:#f8f8f8}#va_aagency_bar .sui-paging .rc-pagination-jump-next:hover a{color:#3a56e4}#va_aagency_bar .sui-paging .rc-pagination-jump-next:hover:after{color:#3a56e4;content:"»";font-size:16px;line-height:1.5}#va_aagency_bar .sui-paging .rc-pagination-jump-prev:hover{background:#f8f8f8}#va_aagency_bar .sui-paging .rc-pagination-jump-prev:hover a{color:#3a56e4}#va_aagency_bar .sui-paging .rc-pagination-jump-prev:hover:after{color:#3a56e4;content:"«";font-size:16px;line-height:1.5}#va_aagency_bar .sui-paging-info{color:#4a4b4b;display:inline-block;font-size:12px}#va_aagency_bar .sui-paging-info,#va_aagency_bar .sui-result{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-weight:400;line-height:1.5}#va_aagency_bar .sui-result{background:#fff;border:1px solid #f0f0f0;border-radius:4px;box-shadow:0 0 1px 0 rgba(0,0,0,.1);display:block;list-style:none;overflow:hidden;overflow-wrap:break-word;padding:24px 0;text-decoration:none}#va_aagency_bar .sui-result+.sui-result{margin-top:32px}#va_aagency_bar .sui-result em{color:#3a56e4;font-style:inherit;font-weight:700;position:relative}#va_aagency_bar .sui-result em:after{background:rgba(37,139,248,.08);content:"";height:calc(100% + 6px);left:-3px;pointer-events:none;position:absolute;top:-3px;width:calc(100% + 6px)}#va_aagency_bar .sui-result__header{align-items:center;display:flex;justify-content:space-between;padding:0 24px}#va_aagency_bar .sui-result__title{color:#333;font-size:1.8em;font-weight:400;text-decoration:none}#va_aagency_bar .sui-result__title-link{color:#3a56e4;text-decoration:none}#va_aagency_bar .sui-result__key{color:#777;flex:0 1 50%;font-family:monospace;font-size:14px;font-weight:400}#va_aagency_bar .sui-result__key:before{content:'"'}#va_aagency_bar .sui-result__key:after{content:'": '}#va_aagency_bar .sui-result__value{font-size:14px}#va_aagency_bar .sui-result__version{display:inline;font-size:12px;vertical-align:bottom}#va_aagency_bar .sui-result__license{border:1px solid #ccc;border-radius:3px;color:#999;display:inline-block;font-size:12px;line-height:1;padding:4px 4px 3px}#va_aagency_bar .sui-result__body{display:flex;line-height:1.5;margin-top:0}#va_aagency_bar .sui-result__body p{margin:0}#va_aagency_bar .sui-result__image{flex-basis:220px;padding-left:24px;padding-top:12px}#va_aagency_bar .sui-result__image img{display:block;height:auto;max-width:100%}#va_aagency_bar .sui-result__details{flex:1 1;list-style:none;margin:0;padding:12px 24px}#va_aagency_bar .sui-results-container{list-style:none;padding:0}#va_aagency_bar .sui-results-per-page{align-items:center;color:#4a4b4b;display:flex;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:400;height:100%;line-height:1.5}#va_aagency_bar .sui-results-per-page__label{margin-right:8px}#va_aagency_bar .sui-results-per-page .sui-select__control{align-items:center}#va_aagency_bar .sui-results-per-page .sui-select__control input{position:absolute}#va_aagency_bar .sui-search-box{align-items:stretch;display:flex;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;justify-content:center;position:relative}#va_aagency_bar .sui-search-box__submit{background:linear-gradient(#2da0fa,#3158ee) #2f7cf4;border:none;border-radius:4px;box-shadow:inset 0 0 0 1px rgba(0,0,0,.05),0 1px 0 rgba(59,69,79,.05);color:#fff;cursor:pointer;flex-shrink:0;font-family:inherit;font-size:14px;margin-left:10px;padding:16px;text-shadow:rgba(0,0,0,.05) 0 1px 2px}#va_aagency_bar .sui-search-box__submit:hover{background:linear-gradient(#3cabff,#4063f0) #3d84f7;box-shadow:inset 0 0 0 1px rgba(0,0,0,.3),0 2px 4px rgba(59,69,79,.3)}#va_aagency_bar .live-filtering .sui-search-box__submit{display:none}#va_aagency_bar .sui-search-box__wrapper{align-items:stretch;border-radius:3px;display:flex;flex-direction:column;height:100%;outline:0;position:relative;width:100%}#va_aagency_bar .sui-search-box__wrapper:before{content:"";width:20px;height:20px;position:absolute;z-index:9;top:10px;left:5px;background:url(https://www.developer.virginia.gov/media/developer/assets/img/bbar-searchicon-gray.png);background-size:cover}#va_aagency_bar .sui-search-box__text-input{border:1px solid #ccc;border-radius:4px;font-family:inherit;font-size:14px;outline:0;padding:16px;position:relative;width:100%}#va_aagency_bar .sui-search-box__text-input:focus{border:1px solid #3a56e4}#va_aagency_bar .autocomplete .sui-search-box__text-input,#va_aagency_bar .sui-search-box__text-input:focus{box-shadow:0 2px 4px rgba(59,69,79,.3)}#va_aagency_bar .sui-search-box__autocomplete-container{background:#fff;border:1px solid #ccc;border-bottom-left-radius:4px;border-bottom-right-radius:4px;border-top-left-radius:4px;border-top-right-radius:4px;box-shadow:0 2px 4px rgba(59,69,79,.3);display:none;flex-direction:column;left:0;line-height:1.5;margin:0;padding:24px 0 12px;position:absolute;right:0;top:110%}#va_aagency_bar .sui-search-box__autocomplete-container ul{background:0 0;border-radius:3px;list-style:none;margin:0;padding:0 0 24px}#va_aagency_bar .sui-search-box__autocomplete-container ul:last-child{padding:0}#va_aagency_bar .sui-search-box__autocomplete-container li{border-radius:4px;color:#555;cursor:default;font-size:.9em;margin:0 12px;padding:4px 12px}#va_aagency_bar .sui-search-box__autocomplete-container li em{background:#edf0fd;color:#3a56e4;font-style:normal}#va_aagency_bar .sui-search-box__autocomplete-container li:hover{background:#ba1a1a;color:#fff}#va_aagency_bar .sui-search-box__autocomplete-container li:hover em{background:0 0;color:#fff}#va_aagency_bar .sui-search-box__autocomplete-container li[aria-selected=true]{background:#ba1a1a;color:#fff}#va_aagency_bar .sui-search-box__autocomplete-container li[aria-selected=true] em{background:0 0;color:#fff}#va_aagency_bar .sui-search-box__section-title{color:#888;font-size:.7em;font-weight:400;letter-spacing:1px;padding:0 0 4px 24px;text-transform:uppercase}#va_aagency_bar .sui-sorting{display:inline-block;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-weight:400;line-height:1.5;width:100%}#va_aagency_bar .sui-sorting__label{color:#8b9bad;font-size:12px;letter-spacing:1px;text-transform:uppercase}#va_aagency_bar .sui-select{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-size:.875rem;font-weight:400;line-height:1.5;margin-top:8px;width:100%}#va_aagency_bar .sui-select--inline{margin-top:0}#va_aagency_bar .sui-select--is-disabled{opacity:.5}#va_aagency_bar .sui-select__control{align-items:stretch;background-color:#f8f8f8;border:1px solid #a6a6a6;border-radius:4px;display:flex;justify-content:space-between}#va_aagency_bar .sui-select__control--is-focused{border:1px solid #3a56e4}#va_aagency_bar .sui-select__value-container{padding-bottom:0;padding-top:0}#va_aagency_bar .sui-select__value-container--has-value{color:#333;font-weight:700}#va_aagency_bar .sui-select__placeholder{color:#333;position:static;-webkit-transform:none;transform:none;white-space:nowrap}#va_aagency_bar .sui-select__dropdown-indicator{align-items:center;display:flex;height:32px;justify-content:center;width:32px}#va_aagency_bar .sui-select__option-count{color:#888;font-size:.8em}#va_aagency_bar .sui-select__option-label{color:#4f4f4f}#va_aagency_bar .sui-select__option{align-items:center;cursor:pointer;display:flex;font-weight:400;justify-content:space-between;padding:8px 12px}#va_aagency_bar .sui-select__option--is-selected{background:#fff;color:#333;font-weight:700}#va_aagency_bar .sui-select__option--is-selected .sui-search-select__option-label{color:#333;position:relative}#va_aagency_bar .sui-select__option:hover{background:#f8f8f8}#va_aagency_bar .sui-layout-header{background:#383939;border-bottom:0;padding:0}#va_aagency_bar .sui-layout-header__inner{margin:0 auto;max-width:1050px}#va_aagency_bar li.sui-result{background:0 0;border:0;color:#fff;margin:0 0 5px;padding:10px 15px;font-size:initial}#va_aagency_bar .sui-result+.sui-result{margin-top:0}#va_aagency_bar li.sui-result a{color:#a2ceff;font-weight:500}#va_aagency_bar #bbar-services li.sui-result p{font-size:.9em;line-height:1;margin:0!important}#va_aagency_bar li.sui-result span{font-size:.8em;opacity:.8;color:#fff}#va_aagency_bar .sui-layout-body{background:#383939}#va_aagency_bar .sui-layout-sidebar{width:0}#va_aagency_bar .sui-layout-main{display:none;margin:0 auto;max-width:1000px;padding:0;width:100%;border-bottom:1px solid #4e4e4e;padding-bottom:15px;margin-bottom:15px}#va_aagency_bar span.sui-result__key,#va_aagency_bar ul.sui-result__details li{display:none}#va_aagency_bar ul.sui-result__details li:first-child{display:block}#va_aagency_bar .sui-result__title{font-size:1em}#va_aagency_bar .sui-result__details{padding:0 24px}#va_aagency_bar .sui-result__value{font-size:1em;font-weight:400}#va_aagency_bar .sui-paging-info{color:#fff;margin-top:10px;font-size:14px;margin-bottom:15px}#va_aagency_bar .autocomplete .sui-search-box__autocomplete-container{display:flex;position:static;z-index:1}#va_aagency_bar ul.rc-pagination.sui-paging a{color:#cbcbcb;font-size:1.25em;text-decoration:none}#va_aagency_bar .sui-paging ul.rc-pagination.sui-paging .rc-pagination-item-active a{color:#fff;font-weight:700}#va_aagency_bar .sui-layout-sidebar{display:none}#va_aagency_bar .sui-search-box__wrapper input[type=text]{border:1px solid #c7c7c7;border-radius:0;font-size:15px;padding:10px 10px 10px 35px;position:relative;color:#181818}#va_aagency_bar #bbar-services form{margin:1.12em 0}#va_aagency_bar .sui-paging-info p span{font-weight:600}#va_aagency_bar .sui-paging-info p{color:#fff;font-size:17px;margin-top:15px}</style></head>
+
+<body class="page-template-default page page-id-20 siteorigin-panels  tribe-js" style="position: relative; min-height: 100%; top: 0px;"><div class="va-agency-bar-container no-translate"><div id="va_aagency_bar" class="va-agency-bar aatheme-black " role="region" aria-label="Branding logo"><div class="cardinal-logo"><img src="https://www.developer.virginia.gov/media/developer/assets/img/bbar_logos-white.svg" alt="Commonwealth of Virginia branding bar cardinal logo"> </div><div class="va-agency-content"><p class="va-agency-bar-header"><a href="https://www.vdh.virginia.gov">A Commonwealth of Virginia Website</a><span>An official website of the Commonwealth of Virginia <a href="#" onclick="bbarHeresHow()">Here's how you know</a></span><span class="bbarmobile-official"><span>An official website</span><a href="#" onclick="bbarHeresHow()">Here's how you know</a></span></p></div><button class="bbarServiceResource" onclick="bbarservicePull()"><img src="https://www.developer.virginia.gov/media/developer/assets/img/globe-icon2.png" alt="Services Selection Icon">Find a Commonwealth Resource<span class="bbar-close"><img src="https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png" role="button" aria-label="Close Branding Bar" alt="Close Branding Bar Icon"></span></button><div id="va-agency-bar-resource"></div></div><div id="#after-bbar" class="bbar-hidden"></div></div>
+  <!--<div id="commonBanner" style="font-family: Arial, sans-serif;
+    font-size: 12px;
+    height: 20px;" >!--><!--40px-->
+      <!--<a href="http://www.virginia.gov/">
+            <img  src="http://www.vdh.virginia.gov/content/uploads/2016/07/virginia_dot_gov_logo.jpg" width="151" height="40" alt="Virginia.gov" class="virginiaLogo">
+        </a>-->
+      <!--<div>
+           <a class="virginiaLogo" title="Virginia.gov portal" href="http://www.virginia.gov/"></a>
+        </div>-->
+       <!-- <div class="alignLeft">
+            <a title="Virginia agency websites" href="http://www.virginia.gov/government/state-employees/agency-directory">Agencies</a> |
+            <a title="Virginia Governor" href="http://www.governor.virginia.gov">Governor</a>
+        </div>-->
+	
+      <!--  <div id="google_translate_element" style="margin-top:-35px;" >
+		<a id="google_translate_ie" href="#" style="display:none;"><img  src="../content/themes/vdh-shared/assets/generated/googletranslate.PNG"/></a>
+	</div> -->
+       <!-- <div class="virginiaSearch">
+            <a title="Search Virginia.Gov" href="http://www.virginia.gov/search">Search Virginia.Gov</a>
+        </div>-->
+     
+    <div id="page" class="site">
+        <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+        <header id="masthead" class="site-header" role="banner">
+            <a href="#" class="mobile-menu-toggle no-external-icon dashicons dashicons-menu small"></a>
+            <div class="site-branding">
+                                <p class="site-title print-hidden"><a href="/" rel="home">Richmond City Health Department</a></p>
+                                <img class="print-only" src="/content/themes/vdh-shared/assets/generated/vdh-logo.png" alt="Virginia Department of Health">
+            <div class="vdh-google-search">
+                <div id="search-form-wrapper" class="print-hidden">
+                    <form role="search" method="get" class="search-form" action="/">
+    <label>
+        <span class="screen-reader-text">Search for:</span>
+<div id="search-field"><div class="gsc-control-searchbox-only gsc-control-searchbox-only-en" dir="ltr"><form class="gsc-search-box gsc-search-box-tools" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-search-box"><tbody><tr><td class="gsc-input"><div class="gsc-input-box" id="gsc-iw-id1"><table cellspacing="0" cellpadding="0" role="presentation" id="gs_id50" class="gstl_50 gsc-input" style="width: 100%; padding: 0px;"><tbody><tr><td id="gs_tti50" class="gsib_a"><input autocomplete="off" type="text" size="10" class="gsc-input" name="search" title="search" aria-label="search" id="gsc-i-id1" style="width: 100%; padding: 0px; border: none; margin: -0.0625em 0px 0px; height: 1.25em; background: url(&quot;https://www.google.com/cse/static/images/1x/en/branding.png&quot;) left center no-repeat rgb(255, 255, 255); outline: none;" dir="ltr" spellcheck="false"></td><td class="gsib_b"><div class="gsst_b" id="gs_st50" dir="ltr"><a class="gsst_a" href="javascript:void(0)" style="display: none;" title="Clear search box" role="button"><span class="gscb_a" id="gs_cb50" aria-hidden="true">×</span></a></div></td></tr></tbody></table></div></td><td class="gsc-search-button"><button class="gsc-search-button gsc-search-button-v2"><svg width="13" height="13" viewBox="0 0 13 13"><title>search</title><path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path></svg></button></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="clear results">&nbsp;</div></td></tr></tbody></table></form></div></div>
+</label>
+ 
+</form>
+                    <div class="small search-toggle"></div>
+                </div>
+            </div>
+            </div><!-- .site-branding -->
+
+            <nav id="site-navigation" class="main-navigation print-none" role="navigation">
+                <div class="menu-container">
+                    <div class="menu-primary-navigation-container"><ul id="primary-menu" class="menu"><li id="menu-item-7" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home first-menu-item menu-item-7"><a href="https://www.vdh.virginia.gov/"><i class="fa fa-home" title="Home" aria-label="home"></i><span class="screen-reader-text">Home</span></a></li>
+<li id="menu-item-196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196"><a href="https://www.vdh.virginia.gov/commissioner/">About</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://www.vdh.virginia.gov/how-do-i/">How Do I</a></li>
+<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="https://www.vdh.virginia.gov/health-topics-a-z/">A-Z Index</a></li>
+<li id="menu-item-2518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2518"><a href="/local-health-districts/">Locations</a></li>
+<li id="menu-item-198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198"><a href="https://www.vdh.virginia.gov/Data/">Data</a></li>
+<li id="menu-item-5668" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5668"><a href="https://www.vdh.virginia.gov/clinicians/">Clinicians</a></li>
+<li id="menu-item-593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-593"><a href="https://www.vdh.virginia.gov/news/">Newsroom</a></li>
+<li id="menu-item-3087" class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-3087"><a href="https://www.vdh.virginia.gov/contact-us/">Contact</a></li>
+</ul></div>                </div>
+            </nav><!-- #site-navigation -->
+
+        </header><!-- #masthead -->
+
+                <div class="separator-bar clear print-none">
+                    </div>
+        
+                <div class="breadcrumbs" typeof="BreadcrumbList" vocab="http://schema.org/">
+            <!-- Breadcrumb NavXT 5.3.1 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Virginia Department of Health." href="https://www.vdh.virginia.gov" class="main-home"><span property="name">Virginia Department of Health</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Richmond City Health Department." href="https://www.vdh.virginia.gov/richmond-city" class="home"><span property="name">Richmond City Health Department</span></a><meta property="position" content="2"></span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name">Emergency Preparedness and Medical Reserve Corps (MRC)</span><meta property="position" content="3"></span>        </div>
+        
+
+<script src="https://www.developer.virginia.gov/media/developer/resources/branding-bar/brandingbar.php" data-item="va_aabrandingbar" aaname="A Commonwealth of Virginia Website" aatheme="aatheme-black" defer=""></script>
+<div style="clear:both"> </div>         
+        <div id="content" class="site-content">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCCW8C9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="primary" class="content-area">
+    <ul id="sidebar" class="page-sidebar-nav print-hidden">
+        <li id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-left-navigation-rchd-container"><ul id="menu-left-navigation-rchd" class="menu"><li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home first-menu-item menu-item-36"><a href="https://www.vdh.virginia.gov/richmond-city/">Home – RCHD</a></li>
+<li id="menu-item-10354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10354"><a href="#">COVID-19 Vaccination &amp; Testing Information</a>
+<ul class="sub-menu">
+	<li id="menu-item-11751" class="menu-item menu-item-type-post_type menu-item-object-page first-menu-item menu-item-11751"><a href="https://www.vdh.virginia.gov/richmond-city/vaccine-interest/">How do I get the vaccine?</a></li>
+	<li id="menu-item-7975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7975"><a href="https://www.vdh.virginia.gov/richmond-city/richmond-and-henrico-area-covid-19-testing-sites/">Richmond- and Henrico-area COVID-19 test distribution sites</a></li>
+	<li id="menu-item-11843" class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-11843"><a href="https://www.vdh.virginia.gov/richmond-city/covid-19-en-espanol/">COVID en español: la vacuna, pruebas, e información general</a></li>
+</ul>
+</li>
+<li id="menu-item-8677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8677"><a href="#">Clinical Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page first-menu-item menu-item-32"><a href="https://www.vdh.virginia.gov/richmond-city/clinical-services/">Clinical Services</a></li>
+	<li id="menu-item-12976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12976"><a href="https://www.vdh.virginia.gov/richmond-city/childhood-immunization/">Childhood immunizations</a></li>
+	<li id="menu-item-373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="https://www.vdh.virginia.gov/richmond-city/resource-centers/">Resource Centers</a></li>
+	<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="https://www.vdh.virginia.gov/richmond-city/immunization-program/">Adult Immunization</a></li>
+	<li id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://www.vdh.virginia.gov/richmond-city/stihiv-prevention-program/">STI/HIV services</a></li>
+	<li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="https://www.vdh.virginia.gov/richmond-city/tuberculosis-program/">Tuberculosis Services</a></li>
+	<li id="menu-item-6873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children last-menu-item menu-item-6873"><a href="https://www.vdh.virginia.gov/richmond-city/primary-care-richmond-and-henrico-health-districts/">Primary Care for Patients with Medicaid, Medicare or Who Are Uninsured</a>
+	<ul class="sub-menu">
+		<li id="menu-item-19085" class="menu-item menu-item-type-post_type menu-item-object-page first-menu-item menu-item-19085"><a href="https://www.vdh.virginia.gov/richmond-city/primary-care-richmond-and-henrico-health-districts/health-systems-accepting-medicaid/">Health Systems Accepting Medicaid</a></li>
+		<li id="menu-item-7335" class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-7335"><a href="https://www.vdh.virginia.gov/richmond-city/primary-care-richmond-and-henrico-health-districts/#medspan">Médicos de cabecera de la red de seguridad</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2572"><a href="https://www.vdh.virginia.gov/richmond-city/food-safety/">Food safety</a></li>
+<li id="menu-item-3287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3287"><a href="https://www.vdh.virginia.gov/richmond-city/opioids/">Opioids: Overdose Prevention</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-33"><a href="https://www.vdh.virginia.gov/richmond-city/programs/">Programs</a>
+<ul class="sub-menu">
+	<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page first-menu-item menu-item-161"><a href="https://www.vdh.virginia.gov/richmond-city/environmental-health/">Environmental Health Division</a></li>
+	<li id="menu-item-166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166"><a href="https://www.vdh.virginia.gov/richmond-city/epidemiology/">Epidemiology</a></li>
+	<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://www.vdh.virginia.gov/richmond-city/healthy-childbirth-and-infancy/">Healthy Childbirth and Infancy</a></li>
+	<li id="menu-item-2579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2579"><a href="https://www.vdh.virginia.gov/richmond-city/healthy-homes/">Lead-Safe Program &amp; Healthy Homes Initiative</a></li>
+	<li id="menu-item-9618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9618"><a href="https://www.vdh.virginia.gov/richmond-city/programs/new-americans-refugee-services/">Office of New Americans-Refugee Services</a></li>
+	<li id="menu-item-6014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6014"><a href="https://www.vdh.virginia.gov/richmond-city/free-from-tobacco/">Smoking Cessation</a></li>
+	<li id="menu-item-162" class="menu-item menu-item-type-post_type menu-item-object-page last-menu-item menu-item-162"><a href="https://www.vdh.virginia.gov/richmond-city/youth-violence-prevention-program/">Youth Violence Prevention Program</a></li>
+</ul>
+</li>
+<li id="menu-item-18794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18794"><a href="https://www.vdh.virginia.gov/richmond-city/school-health-hub/">School Health Hub</a>
+<ul class="sub-menu">
+	<li id="menu-item-18797" class="menu-item menu-item-type-post_type menu-item-object-page first-menu-item menu-item-18797"><a href="https://www.vdh.virginia.gov/richmond-city/school-health-hub/chronic-disease-management/">Chronic disease management</a></li>
+	<li id="menu-item-18796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18796"><a href="https://www.vdh.virginia.gov/richmond-city/school-health-hub/school-health-resources-for-families/">Resources for families</a></li>
+	<li id="menu-item-18795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18795"><a href="https://www.vdh.virginia.gov/richmond-city/school-health-hub/resources-for-school-personnel/">Resources for school personnel</a></li>
+	<li id="menu-item-21967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21967"><a href="https://www.vdh.virginia.gov/richmond-city/school-physicals/">School physicals&nbsp;&nbsp;</a></li>
+	<li id="menu-item-18798" class="menu-item menu-item-type-post_type menu-item-object-page last-menu-item menu-item-18798"><a href="https://www.vdh.virginia.gov/richmond-city/school-health-hub/sports-physicals/">Sports physicals&nbsp;</a></li>
+</ul>
+</li>
+<li id="menu-item-164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-164"><a href="https://www.vdh.virginia.gov/richmond-city/vital-medical-records/">Vital Records</a></li>
+<li id="menu-item-2588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2588"><a href="https://www.vdh.virginia.gov/richmond-city/wic/">WIC (Women, Infants, and Children) Supplemental Food Program</a></li>
+<li id="menu-item-8675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8675"><a href="#">FAQs and Useful Links</a>
+<ul class="sub-menu">
+	<li id="menu-item-2590" class="menu-item menu-item-type-post_type menu-item-object-page first-menu-item menu-item-2590"><a href="https://www.vdh.virginia.gov/richmond-city/faq/">Frequently Asked Questions</a></li>
+	<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page last-menu-item menu-item-31"><a href="https://www.vdh.virginia.gov/richmond-city/links/">Useful Links</a></li>
+</ul>
+</li>
+<li id="menu-item-8828" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-8828"><a href="#">Employment &amp; Volunteer Opportunities</a>
+<ul class="sub-menu">
+	<li id="menu-item-3647" class="menu-item menu-item-type-post_type menu-item-object-page first-menu-item menu-item-3647"><a href="https://www.vdh.virginia.gov/richmond-city/employment-opportunities/">Employment Opportunities</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-20 current_page_item menu-item-28"><a href="https://www.vdh.virginia.gov/richmond-city/richmond-city-mrc/" aria-current="page">Emergency Preparedness and Medical Reserve Corps (MRC)</a></li>
+	<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page last-menu-item menu-item-158"><a href="https://www.vdh.virginia.gov/richmond-city/internship-program/">Internships</a></li>
+</ul>
+</li>
+<li id="menu-item-10522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10522"><a href="https://www.vdh.virginia.gov/richmond-city/press-releases/">Press Releases</a></li>
+<li id="menu-item-18754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18754"><a href="https://www.vdh.virginia.gov/richmond-city/blog/">RHHD Blog: Well Read</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="https://www.vdh.virginia.gov/richmond-city/contact/">Contact Us</a></li>
+<li id="menu-item-2980" class="newsletter menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-2980"><a href="http://eepurl.com/hq0UGH">Sign up for Our Newsletter</a></li>
+</ul></div></li>        <li id="email-this-page"><a href="mailto:?subject=Web%20page%20on%20Virginia%20Department%20of%20Health%20Website&amp;body=Hi%2C%0A%0AI%20found%20this%20web%20page%20and%20thought%20you%20might%20like%20it%3A%20https%3A%2F%2Fwww.vdh.virginia.gov%2Frichmond-city%2Frichmond-city-mrc%2F">Email this page</a></li>
+    </ul>
+    <main id="main" class="site-main" role="main">
+
+        
+<article id="post-20" class="post-20 page type-page status-publish hentry">
+    <header class="entry-header">
+        <h1 class="entry-title no-featured-image">Emergency Preparedness and Medical Reserve Corps (MRC)</h1>    </header><!-- .entry-header -->
+
+    
+    <div class="entry-content">
+        <div id="pl-20" class="panel-layout"><div id="pg-20-0" class="panel-grid panel-no-style"><div id="pgc-20-0-0" class="panel-grid-cell"><div id="panel-20-0-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="0"><div class="panel-widget-style panel-widget-style-for-20-0-0-0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p><a href="#aboutmrc">ABOUT MRC</a>&nbsp; | <a href="#eligibility">ELIGIBILITY</a> | <a href="#register">REGISTRATION</a> |&nbsp; <a href="#duties">DUTIES</a> | <a href="#training">TRAINING</a> | <a href="#emergencyprep">EMERGENCY PREPAREDNESS</a></p>
+</div>
+</div></div></div></div></div><div id="pg-20-1" class="panel-grid panel-has-style"><div class="panel-row-style panel-row-style-for-20-1"><div id="pgc-20-1-0" class="panel-grid-cell"><div id="panel-20-1-0-0" class="so-panel widget widget_sow-hero panel-first-child panel-last-child" data-index="1"><div class="so-widget-sow-hero so-widget-sow-hero-default-6e283e92799f-20 so-widget-fittext-wrapper" data-fit-text-compressor="0.85">				<div class="sow-slider-base" style="" tabindex="0">
+					<ul class="sow-slider-images" data-settings="{&quot;pagination&quot;:true,&quot;speed&quot;:800,&quot;timeout&quot;:8000,&quot;paused&quot;:false,&quot;pause_on_hover&quot;:false,&quot;swipe&quot;:true,&quot;nav_always_show_desktop&quot;:&quot;&quot;,&quot;nav_always_show_mobile&quot;:&quot;&quot;,&quot;breakpoint&quot;:&quot;780px&quot;,&quot;unmute&quot;:false,&quot;anchor&quot;:null}" data-anchor-id="" style="position: relative;"><li class="sow-slider-image sow-slider-image-cover cycle-slide cycle-sentinel" style="visibility: hidden; background-color: rgb(255, 255, 255); background-image: url(&quot;https://www.vdh.virginia.gov/content/uploads/sites/119/2024/07/Hero-header_1040x325-MRC3-1024x320-2.jpg&quot;); height: 300px; position: static; top: 0px; left: 0px; z-index: 99; opacity: 1; display: block;"></li>		
+		<li class="sow-slider-image sow-slider-image-cover cycle-slide cycle-slide-active" style="visibility: visible; background-color: rgb(255, 255, 255); background-image: url(&quot;https://www.vdh.virginia.gov/content/uploads/sites/119/2024/07/Hero-header_1040x325-MRC3-1024x320-2.jpg&quot;); height: 300px; position: absolute; top: 0px; left: 0px; z-index: 99; opacity: 1; display: block;">
+					<div class="sow-slider-image-container">
+			<div class="sow-slider-image-wrapper">
+				<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center">
+</p>			</div>
+		</div>
+				</li></ul>				<ol class="sow-slider-pagination" style="display: none;">
+											<li class="sow-active"><a href="#" data-goto="0" aria-label="Display slide 1"></a></li>
+									</ol>
+
+				<div class="sow-slide-nav sow-slide-nav-next" style="display: none;">
+					<a href="#" data-goto="next" aria-label="Next slide" data-action="next">
+						<em class="sow-sld-icon-thin-right"></em>
+					</a>
+				</div>
+
+				<div class="sow-slide-nav sow-slide-nav-prev" style="display: none;">
+					<a href="#" data-goto="previous" aria-label="Previous slide" data-action="prev">
+						<em class="sow-sld-icon-thin-left"></em>
+					</a>
+				</div>
+				</div></div></div></div></div></div><div id="pg-20-2" class="panel-grid panel-no-style"><div id="pgc-20-2-0" class="panel-grid-cell"><div id="panel-20-2-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="2"><div class="panel-widget-style panel-widget-style-for-20-2-0-0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<h1><a id="aboutmrc"></a>About the Medical Reserve Corps</h1>
+<div>The Medical Reserve Corps (MRC) is a national network of volunteers, organized locally to improve the health and safety of their communities. The MRC network comprises approximately 175,000 volunteers in more than 800 community-based units located throughout the United States and its territories. The Greater Richmond MRC unit spans 3 health districts and 6 localities: City of Richmond, Counties of Charles City, Goochland, Hanover, Henrico, and New Kent.</div>
+<p>MRC volunteers include medical and public health professionals, as well as other community members without healthcare backgrounds. MRC units engage these volunteers to strengthen public health, improve emergency response capabilities, and build community resiliency. They prepare for and respond to natural disasters, such as wildfires, hurricanes, tornados, blizzards, and floods, as well as other emergencies affecting public health, such as disease outbreaks. They frequently contribute to community health activities that promote healthy habits.</p>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-15028 size-full" src="https://www.vdh.virginia.gov/content/uploads/sites/119/2022/01/MRC-Jan22.png" alt="An infographic describing some accomplishments of the MRC: A $2,883,595.00 value in workforce savings for volunteer contributions of knowledge and skills; and 101,037 hours dedicated to support COVID-19 vaccination efforts since 12/23/20." width="533" height="616" srcset="https://www.vdh.virginia.gov/content/uploads/sites/119/2022/01/MRC-Jan22.png 533w, https://www.vdh.virginia.gov/content/uploads/sites/119/2022/01/MRC-Jan22-260x300.png 260w" sizes="(max-width: 533px) 100vw, 533px"></p>
+<p>&nbsp;</p>
+<p>[Download the <a href="https://www.vdh.virginia.gov/content/uploads/sites/119/2022/01/HC-RC-Unit-12.28.21-COVID-Impact-Report.pdf">Jan 2022 MRC Impact Report</a>]</p>
+</div>
+</div></div></div></div><div id="pgc-20-2-1" class="panel-grid-cell"><div id="panel-20-2-1-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="3"><div class="panel-widget-style panel-widget-style-for-20-2-1-0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p><strong><span style="font-size: 12pt;color: #ff9137">CONTACT</span></strong></p>
+<p>For additional information and training locations, please contact Alyssa Lewis at 804-501-4532 or by email at <a href="mailto:alyssa.lewis@vdh.virginia.gov" target="_blank" rel="noopener">alyssa.lewis@vdh.virginia.gov</a>.</p>
+</div>
+</div></div></div><div id="panel-20-2-1-1" class="so-panel widget widget_sow-editor panel-last-child" data-index="4"><div class="panel-widget-style panel-widget-style-for-20-2-1-1"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p><strong><span style="font-size: 12pt;color: #ff9137">NEWS</span></strong></p>
+<p>The Greater Richmond MRC was recently featured in a <a href="https://www.thedenverchannel.com/rebound/coronavirus-investigations/medical-reserve-corps-volunteers-step-up-during-pandemic-to-help-vaccinate-public">nationally syndicated article by Scripps Media</a>.</p>
+</div>
+</div></div></div></div></div><div id="pg-20-3" class="panel-grid panel-has-style"><div class="panel-row-style panel-row-style-for-20-3"><div id="pgc-20-3-0" class="panel-grid-cell panel-grid-cell-mobile-last"><div id="panel-20-3-0-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="5"><div class="panel-widget-style panel-widget-style-for-20-3-0-0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p><strong><span style="font-size: 12pt;color: #ff9137"><a id="eligibility"></a>ELIGIBILITY</span></strong></p>
+<h1>Who can volunteer with the MRC Program?</h1>
+<p>Everyone is encouraged to join the Greater Richmond MRC. The MRC is recruiting both medical and non-medical volunteers. We need people with a variety of skills.</p>
+<ul type="disc">
+<li>MRC volunteers include practicing and retired medical and public health professionals such as physicians, nurses, pharmacists, students, mental health workers, home health care workers and others.</li>
+<li>MRC volunteers also include concerned local citizens with or without medical expertise who are interested in being trained to assist themselves and the community during an emergency.</li>
+</ul>
+</div>
+</div></div></div><div id="panel-20-3-0-1" class="so-panel widget widget_sow-editor" data-index="6"><div class="panel-widget-style panel-widget-style-for-20-3-0-1"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<h1><span style="font-size: 12pt;color: #ff9137"><a id="register"></a>REGISTRATION</span></h1>
+<h1>How do I register?</h1>
+<p>To become a Virginia Medical Reserve Corps volunteer you must first register in the&nbsp;<a href="http://www.vamrc.org/vvhs">Virginia Volunteer Health System&nbsp;</a>(VVHS).</p>
+<p>The VVHS is a web-based information, alerting, and credentialing system for the management of medical and support volunteers who desire to support public health emergencies and daily public health activities in Virginia.</p>
+</div>
+</div></div></div><div id="panel-20-3-0-2" class="so-panel widget widget_sow-button panel-last-child" data-index="7"><div class="so-widget-sow-button so-widget-sow-button-atom-f54c0409268f-20"><div class="ow-button-base ow-button-align-center">
+			<a href="https://vvhs.vamrc.org/" class="sowb-button ow-icon-placement-left ow-button-hover" target="_blank" rel="noopener noreferrer">
+		<span>
+			
+			Register as a New Volunteer!		</span>
+			</a>
+	</div>
+</div></div></div><div id="pgc-20-3-1" class="panel-grid-cell panel-grid-cell-empty"><div class="panel-cell-style panel-cell-style-for-20-3-1"></div></div></div></div><div id="pg-20-4" class="panel-grid panel-has-style"><div class="panel-row-style panel-row-style-for-20-4"><div id="pgc-20-4-0" class="panel-grid-cell"><div id="panel-20-4-0-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="8"><div class="panel-widget-style panel-widget-style-for-20-4-0-0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p><strong><span style="font-size: 12pt;color: #ff9137"><a id="duties"></a>DUTIES</span></strong></p>
+<h1>What will I do in an emergency?</h1>
+<ul type="disc">
+<li>Perform duties and functions as required by the Health Department to respond to or mitigate disasters</li>
+<li>Dispense medications and vaccines in the community</li>
+<li>Staff emergency shelters or alternate-care sites</li>
+<li>Staff emergency center hotlines</li>
+<li>Assist with administrative and other essential support functions</li>
+<li>Conduct assignments based on your background and training</li>
+</ul>
+</div>
+</div></div></div><div id="panel-20-4-0-1" class="so-panel widget widget_sow-editor" data-index="9"><div class="panel-widget-style panel-widget-style-for-20-4-0-1"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p><strong><span style="font-size: 12pt;color: #ff9137"><a id="training"></a>TRAINING</span></strong></p>
+<h1>What training will I receive?</h1>
+<p>MRC volunteers are offered orientations to the MRC and can receive training in emergency management, Personal &amp; Family Preparedness, Bioterrorism Awareness, First AID, Pandemic Influenza, Points of Dispensing, and they can participate in RCHD emergency training exercises.</p>
+<p>&nbsp;</p>
+</div>
+</div></div></div><div id="panel-20-4-0-2" class="so-panel widget widget_sow-video panel-last-child" data-index="10"><div class="so-widget-sow-video so-widget-sow-video-default-f379b959fc93-20">
+<div class="sow-video-wrapper no-controls">
+			<iframe title="The Virginia Medical Reserve Corps (MRC) - Health Professionals" width="640" height="360" src="https://www.youtube.com/embed/kultOn61HFE?feature=oembed&amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen=""></iframe>	</div>
+</div></div></div><div id="pgc-20-4-1" class="panel-grid-cell"><div id="panel-20-4-1-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="11"><div class="panel-widget-style panel-widget-style-for-20-4-1-0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p><strong><span style="font-size: 12pt;color: #ff9137">DID YOU KNOW?</span></strong></p>
+<div>The MRC is not just disaster/emergency response. During non-emergency times we contribute to and participate in activities that promote a healthy community including:</div>
+<div></div>
+<ul>
+<li>Health screenings</li>
+<li>Vaccination clinics</li>
+<li>Outreach to underserved community members</li>
+<li>First aid during large public gatherings</li>
+<li>Community event support</li>
+<li>Health education and promotion</li>
+<li>Opioid and naloxone education</li>
+</ul>
+</div>
+</div></div></div></div></div></div><div id="pg-20-5" class="panel-grid panel-has-style"><div class="panel-row-style panel-row-style-for-20-5"><div id="pgc-20-5-0" class="panel-grid-cell"><div id="panel-20-5-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="12"><div class="panel-widget-style panel-widget-style-for-20-5-0-0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<h1><a id="emergencyprep"></a>Emergency Preparedness Program</h1>
+</div>
+</div></div></div></div></div></div><div id="pg-20-6" class="panel-grid panel-has-style"><div class="panel-row-style panel-row-style-for-20-6"><div id="pgc-20-6-0" class="panel-grid-cell"><div id="panel-20-6-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="13"><div class="panel-widget-style panel-widget-style-for-20-6-0-0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p>The RCHD Emergency Preparedness Program develops plans and coordinates activities to ensure that the Richmond City Health District is prepared to respond rapidly and effectively to public health emergencies. Our emergency preparedness coordinator works closely with city, state, and federal emergency planners to plan and implement responses to threats such as disease outbreaks or natural disasters. This includes a Pandemic Influenza Response Plan that provides training for RCHD personnel and volunteers to develop capacity for dispensing mass prophylaxis at city-wide and regional levels.</p>
+</div>
+</div></div></div></div><div id="pgc-20-6-1" class="panel-grid-cell"><div id="panel-20-6-1-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="14"><div class="panel-widget-style panel-widget-style-for-20-6-1-0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p><span style="font-size: 12pt;color: #ff9137"><strong>EMERGENCY<br>
+PREPAREDNESS<br>
+CONTACT</strong></span></p>
+<p><strong>(804) 205-3753</strong></p>
+</div>
+</div></div></div></div></div></div></div>	<div class="post-modified-info"><strong>Last Updated:</strong> July 30, 2024</div>
+        </div><!-- .entry-content -->
+
+        <footer class="entry-footer">
+                        </footer><!-- .entry-footer -->
+        </article><!-- #post-## -->
+
+        </main><!-- #main -->
+    </div><!-- #primary -->
+
+<!-- HIEU NGO -->
+<!--Fixed GravityForms Conditional Logic not display-->
+<style type="text/css">
+   #gform_wrapper_1{display:block!important;}
+   #wrapper{display:block!important;}
+ </style>
+<!--End-->
+<!--<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>-->
+<script>
+jQuery(document).ready(function() {
+var name = "tab";
+var url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    var tabID = decodeURIComponent(results[2].replace(/\+/g, " ")); 
+setTimeout(function() {jQuery('.pt-tabs').find('a:eq('+ tabID +')').trigger('click');
+    },10);
+
+
+});
+
+function VDHEmergencySetting(){
+jQuery(".emergency-system-notification-bg, .notification-footer").css("display", "none");
+
+jQuery(".emergency-system-banner").empty();
+
+var link = "<a href='/'>Click here to learn more about COVID-19 in Virginia.</a>";
+
+jQuery(".emergency-system-banner").html(link);
+}
+
+function SwitchVitalRecordContactUs(){
+var Url = window.location.href;
+var pattern = /vital-records/i;
+if(pattern.test(Url)){
+ jQuery("#menu-item-3087").children("a").attr("href","http://www.vdh.virginia.gov/vital-records/contact-us/");
+ }
+}
+
+/*
+ * When click on FIRST [Add New Row] link on GRavityForm
+ * It will open new tab because of the function in jquery.js set that javascript: void(0) => open new tab
+ * We cannot edit on jquey file, so we wrote a js function to change that link (a tag) to label
+*/
+function gravityFormPreventOpenNewTab() {
+  var addNewRowLink = jQuery('.gfield_list_icons:first').find('a[aria-label="Add another row"]');
+  var img = jQuery(addNewRowLink).children("img").clone()[0].outerHTML;
+  var attributes = jQuery(addNewRowLink).prop("attributes"); //copy all attributes to label
+  var att = "";
+  //apply each attribute froml a tag to label
+  jQuery.each(attributes, function () {
+     att += this.name + "='" + this.value + "'";
+  });
+  jQuery('.gfield_list_icons:first').prepend("<label " + att + ">" + img + "</label>");
+  //Remove link tag
+  addNewRowLink.remove();
+}
+jQuery('#email-this-page').find('a').each(function() {
+    this.href = this.href.replace("http", "https");
+});
+/*End*/
+
+SwitchVitalRecordContactUs();
+VDHEmergencySetting();
+gravityFormPreventOpenNewTab();
+</script>
+    
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+    <div class="footer-divider print-none">
+        <div class="social-links clear">
+                            <a href="https://www.facebook.com/VDHgov" target="_blank" class="facebook no-external-icon" rel="noopener noreferrer" title="Facebook"></a>                <a href="https://twitter.com/vdhgov" target="_blank" class="twitter no-external-icon" rel="noopener noreferrer" title="Twitter"></a>                <a href="https://www.youtube.com/channel/UCKhLlujgbrx7hsyH5cXTnKQ" target="_blank" class="youtube no-external-icon" rel="noopener noreferrer" title="Youtube"></a>                <a href="https://www.linkedin.com/company/virginia-department-of-health" target="_blank" class="linkedin no-external-icon" rel="noopener noreferrer" title="LinkedIn"></a><a href="https://www.instagram.com/virginiadeptofhealth/" target="_blank" class="instagram no-external-icon" rel="noopener noreferrer" title="Instagram"></a>
+                        </div>
+    </div>
+    <div class="footer-sidebars-container print-none">
+        <div class="footer-sidebars-wrap clear">
+                        <div class="footer-sidebar footer-sidebar-1">
+                <section id="nav_menu-2" class="widget widget_nav_menu"><h2 class="widget-title">Contact Us</h2><div class="menu-footer-contact-us-container"><ul id="menu-footer-contact-us" class="menu"><li id="menu-item-2520" class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-2520"><a href="https://www.vdh.virginia.gov/health-department-locator/">Health Department Locator</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://www.vdh.virginia.gov/contact-us/">Phone &amp; Directions</a></li>
+<li id="menu-item-1839" class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-1839"><a href="https://www.vdh.virginia.gov/feedback-form/">Feedback Form</a></li>
+</ul></div></section>            </div>
+            <div class="footer-sidebar footer-sidebar-2">
+                <section id="nav_menu-20" class="widget widget_nav_menu"><h2 class="widget-title">Agency Information</h2><div class="menu-footer-agency-information-container"><ul id="menu-footer-agency-information" class="menu"><li id="menu-item-4802" class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-4802"><a href="/accessibility/">Accessibility</a></li>
+<li id="menu-item-1844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1844"><a href="https://www.vdh.virginia.gov/content/uploads/sites/4/2016/03/Code_of_Ethics_Policy.pdf">Code of Ethics</a></li>
+<li id="menu-item-1843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1843"><a href="https://www.vdh.virginia.gov/commissioner/administration/freedom-of-information-act/">FOIA Policy</a></li>
+<li id="menu-item-1842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1842"><a href="https://www.vdh.virginia.gov/human-resources/human-resources/internships/">Internships</a></li>
+<li id="menu-item-1840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1840"><a href="https://www.vdh.virginia.gov/commissioner/administration/organization-charts/">Organizational Charts</a></li>
+<li id="menu-item-3245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3245"><a href="https://www.vdh.virginia.gov/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-6748" class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-6748"><a href="https://www.vdh.virginia.gov/vdh-non-discrimination-policy/">Non-Discrimination Policy</a></li>
+</ul></div></section>            </div>
+            <div class="footer-sidebar footer-sidebar-3">
+                <section id="nav_menu-21" class="widget widget_nav_menu"><h2 class="widget-title">Newsletters</h2><div class="menu-footer-newsletters-container"><ul id="menu-footer-newsletters" class="menu"><li id="menu-item-6811" class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-6811"><a href="https://public.govdelivery.com/accounts/VAVDHORCE/subscriber/topics?qsp=VAVDHORCE_10005">Health Districts</a></li>
+<li id="menu-item-6812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6812"><a href="https://public.govdelivery.com/accounts/VAVDHORCE/subscriber/topics?qsp=VAVDHORCE_HEALTHCARE">Healthcare Professionals</a></li>
+<li id="menu-item-6813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6813"><a href="https://public.govdelivery.com/accounts/VAVDHORCE/signup/23072">Community Ambassador Program</a></li>
+<li id="menu-item-6814" class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-6814"><a href="https://public.govdelivery.com/accounts/VAVDHORCE/subscriber/topics?qsp=CODE_RED">All Topics</a></li>
+</ul></div></section>            </div>
+            <div class="footer-sidebar footer-sidebar-4">
+                            </div>
+            <div class="footer-sidebar footer-sidebar-5">
+                            </div>
+            <div class="footer-sidebar footer-sidebar-6">
+                            </div>
+            <div class="footer-sidebar footer-sidebar-7">
+                <section id="text-2" class="widget widget_text">			<div class="textwidget"><div class="eVA"><a href="https://logi.cgieva.com/Public/rdPage.aspx" target="_blank"><img src="https://www.vdh.virginia.gov/content/uploads/2017/03/eva-logo.png" width="123" height="54" alt="Electronic Virginia"></a></div>
+<div style="width:200px"><a href="https://www.datapoint.apa.virginia.gov/dashboard.php?Page=Expenditures&amp;Branch=EXB&amp;Name=Department%20Of%20Health&amp;FiscalYear=2020&amp;Secretariat=HEA&amp;Agency=60100" target="_blank"><i class="fas fa-search" style="font-size:2em; vertical-align:middle; margin-right:.25em;"> </i>View VDH Expenditures</a></div></div>
+		</section>            </div>
+        </div>
+    </div>
+  <!--  <div class="site-info">
+       <!-- &copy; 2025 Virginia Department of Health; all rights reserved.-->
+	<!-- If you are having difficulty accessing information on this page or website, please email us at <a href="mailto:Accessibility@vdh.virginia.gov" target="_blank">Accessibility@vdh.virginia.gov</a>.
+    </div> --><!-- .site-info -->
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		
+<!-- GTM Container placement set to footer -->
+<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MSXMNQK" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><link rel="stylesheet" id="sow-hero-default-6e283e92799f-20-css" href="https://www.vdh.virginia.gov/content/uploads/sites/119/siteorigin-widgets/sow-hero-default-6e283e92799f-20.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="sow-slider-slider-css" href="https://www.vdh.virginia.gov/content/plugins/so-widgets-bundle/css/slider/slider.css?ver=1.65.1" type="text/css" media="all">
+<link rel="stylesheet" id="sow-button-atom-f54c0409268f-20-css" href="https://www.vdh.virginia.gov/content/uploads/sites/119/siteorigin-widgets/sow-button-atom-f54c0409268f-20.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="sow-button-base-css" href="https://www.vdh.virginia.gov/content/plugins/so-widgets-bundle/widgets/button/css/style.css?ver=1.65.1" type="text/css" media="all">
+<script type="text/javascript" src="https://www.vdh.virginia.gov/content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js?ver=1.20.3" id="gtm4wp-form-move-tracker-js"></script>
+<script type="text/javascript" src="https://www.vdh.virginia.gov/content/themes/vdh-shared/js/navigation.js" id="vdh-shared-navigation-js"></script>
+<script type="text/javascript" src="https://www.vdh.virginia.gov/content/themes/vdh-shared/js/skip-link-focus-fix.js" id="vdh-shared-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://www.vdh.virginia.gov/content/plugins/so-widgets-bundle/js/jquery.cycle.min.js?ver=1.65.1" id="sow-slider-slider-cycle2-js"></script>
+<script type="text/javascript" src="https://www.vdh.virginia.gov/content/plugins/so-widgets-bundle/js/slider/jquery.slider.min.js?ver=1.65.1" id="sow-slider-slider-js"></script>
+<script type="text/javascript" src="https://www.vdh.virginia.gov/content/plugins/so-widgets-bundle/js/sow.jquery.fittext.min.js?ver=1.2" id="sowb-fittext-js"></script>
+<script type="text/javascript" src="https://www.vdh.virginia.gov/content/plugins/so-widgets-bundle/js/jquery.cycle.swipe.min.js?ver=1.65.1" id="sow-slider-slider-cycle2-swipe-js"></script>
+<script>document.body.className = document.body.className.replace("siteorigin-panels-before-js","");</script><script type="text/javascript">function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');}</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script>
+function msieversion() {
+    var ua = window.navigator.userAgent;
+    var msie = ua.indexOf("MSIE");
+
+    if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./))  // If Internet Explorer, return version number
+    {
+	jQuery("#google_translate_element").css("margin", "-45px");
+	jQuery("#google_translate_ie").show();
+    }
+
+    return false;
+}
+
+function ieNotification(){
+	jQuery("#google_translate_ie").click(function(){
+		alert("Google Translate is not supported by your version of Internet Explorer. Please update your browser or try using an alternative browser such as Google Chrome or Mozilla Firefox.");
+	});
+}
+
+function customGoogleTranslate(){
+	if(($goog = jQuery('.goog-te-menu-frame').contents().find('body')).length) {
+		console.log("here");
+		var widgetHtml = "<style>" +
+				".goog-te-menu2 {" +
+				"max-width:100% !important;" +
+				"overflow:scroll !important;" +
+				"height:auto !important;" +
+				"}" +
+				"</style>";
+		$goog.prepend(widgetHtml);
+	}
+	else{
+		setTimeout(customGoogleTranslate, 50);
+	}
+}
+
+msieversion();
+ieNotification();
+customGoogleTranslate();
+</script>
+
+
+<div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: 'Google Sans', Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class=" VIpgJd-yAWNEb-hvhgNd-l4eHX-i3jM8c"><img src="https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg" width="24" height="24" alt=""></div><div class=" VIpgJd-yAWNEb-hvhgNd-k77Iif-i3jM8c"><div class="VIpgJd-yAWNEb-hvhgNd-IuizWc" dir="ltr">Original text</div><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Rate this translation</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Your feedback will be used to help improve Google Translate</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Good translation" aria-label="Good translation" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Poor translation" aria-label="Poor translation" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="//translate.googleapis.com/translate_voting?client=te" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0"></iframe></div></div></div><table cellspacing="0" cellpadding="0" role="presentation" class="gstl_50 gssb_c" style="width: 162px; display: none; top: 97px; left: 872px; position: absolute;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table><div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf"><div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO"><svg xmlns="http://www.w3.org/2000/svg" class="VIpgJd-ZVi9od-aZ2wEe" width="96px" height="96px" viewBox="0 0 66 66"><circle class="VIpgJd-ZVi9od-aZ2wEe-Jt5cK" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>

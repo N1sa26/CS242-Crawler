@@ -1,0 +1,439 @@
+<!DOCTYPE html><html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class=" js"><head>
+    <meta charset="utf-8">
+<meta name="robots" content="index, follow">
+<style type="text/css">:host,:root{--fa-font-solid:normal 900 1em/1 "Font Awesome 6 Solid";--fa-font-regular:normal 400 1em/1 "Font Awesome 6 Regular";--fa-font-light:normal 300 1em/1 "Font Awesome 6 Light";--fa-font-thin:normal 100 1em/1 "Font Awesome 6 Thin";--fa-font-duotone:normal 900 1em/1 "Font Awesome 6 Duotone";--fa-font-sharp-solid:normal 900 1em/1 "Font Awesome 6 Sharp";--fa-font-sharp-regular:normal 400 1em/1 "Font Awesome 6 Sharp";--fa-font-sharp-light:normal 300 1em/1 "Font Awesome 6 Sharp";--fa-font-brands:normal 400 1em/1 "Font Awesome 6 Brands"}svg:not(:host).svg-inline--fa,svg:not(:root).svg-inline--fa{overflow:visible;box-sizing:content-box}.svg-inline--fa{display:var(--fa-display,inline-block);height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-2xs{vertical-align:.1em}.svg-inline--fa.fa-xs{vertical-align:0}.svg-inline--fa.fa-sm{vertical-align:-.0714285705em}.svg-inline--fa.fa-lg{vertical-align:-.2em}.svg-inline--fa.fa-xl{vertical-align:-.25em}.svg-inline--fa.fa-2xl{vertical-align:-.3125em}.svg-inline--fa.fa-pull-left{margin-right:var(--fa-pull-margin,.3em);width:auto}.svg-inline--fa.fa-pull-right{margin-left:var(--fa-pull-margin,.3em);width:auto}.svg-inline--fa.fa-li{width:var(--fa-li-width,2em);top:.25em}.svg-inline--fa.fa-fw{width:var(--fa-fw-width,1.25em)}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:var(--fa-counter-background-color,#ff253a);border-radius:var(--fa-counter-border-radius,1em);box-sizing:border-box;color:var(--fa-inverse,#fff);line-height:var(--fa-counter-line-height,1);max-width:var(--fa-counter-max-width,5em);min-width:var(--fa-counter-min-width,1.5em);overflow:hidden;padding:var(--fa-counter-padding,.25em .5em);right:var(--fa-right,0);text-overflow:ellipsis;top:var(--fa-top,0);-webkit-transform:scale(var(--fa-counter-scale,.25));transform:scale(var(--fa-counter-scale,.25));-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:var(--fa-bottom,0);right:var(--fa-right,0);top:auto;-webkit-transform:scale(var(--fa-layers-scale,.25));transform:scale(var(--fa-layers-scale,.25));-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:var(--fa-bottom,0);left:var(--fa-left,0);right:auto;top:auto;-webkit-transform:scale(var(--fa-layers-scale,.25));transform:scale(var(--fa-layers-scale,.25));-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{top:var(--fa-top,0);right:var(--fa-right,0);-webkit-transform:scale(var(--fa-layers-scale,.25));transform:scale(var(--fa-layers-scale,.25));-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:var(--fa-left,0);right:auto;top:var(--fa-top,0);-webkit-transform:scale(var(--fa-layers-scale,.25));transform:scale(var(--fa-layers-scale,.25));-webkit-transform-origin:top left;transform-origin:top left}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-2xs{font-size:.625em;line-height:.1em;vertical-align:.225em}.fa-xs{font-size:.75em;line-height:.0833333337em;vertical-align:.125em}.fa-sm{font-size:.875em;line-height:.0714285718em;vertical-align:.0535714295em}.fa-lg{font-size:1.25em;line-height:.05em;vertical-align:-.075em}.fa-xl{font-size:1.5em;line-height:.0416666682em;vertical-align:-.125em}.fa-2xl{font-size:2em;line-height:.03125em;vertical-align:-.1875em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:var(--fa-li-margin,2.5em);padding-left:0}.fa-ul>li{position:relative}.fa-li{left:calc(var(--fa-li-width,2em) * -1);position:absolute;text-align:center;width:var(--fa-li-width,2em);line-height:inherit}.fa-border{border-color:var(--fa-border-color,#eee);border-radius:var(--fa-border-radius,.1em);border-style:var(--fa-border-style,solid);border-width:var(--fa-border-width,.08em);padding:var(--fa-border-padding,.2em .25em .15em)}.fa-pull-left{float:left;margin-right:var(--fa-pull-margin,.3em)}.fa-pull-right{float:right;margin-left:var(--fa-pull-margin,.3em)}.fa-beat{-webkit-animation-name:fa-beat;animation-name:fa-beat;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,ease-in-out);animation-timing-function:var(--fa-animation-timing,ease-in-out)}.fa-bounce{-webkit-animation-name:fa-bounce;animation-name:fa-bounce;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,cubic-bezier(.28,.84,.42,1));animation-timing-function:var(--fa-animation-timing,cubic-bezier(.28,.84,.42,1))}.fa-fade{-webkit-animation-name:fa-fade;animation-name:fa-fade;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,cubic-bezier(.4,0,.6,1));animation-timing-function:var(--fa-animation-timing,cubic-bezier(.4,0,.6,1))}.fa-beat-fade{-webkit-animation-name:fa-beat-fade;animation-name:fa-beat-fade;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,cubic-bezier(.4,0,.6,1));animation-timing-function:var(--fa-animation-timing,cubic-bezier(.4,0,.6,1))}.fa-flip{-webkit-animation-name:fa-flip;animation-name:fa-flip;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,ease-in-out);animation-timing-function:var(--fa-animation-timing,ease-in-out)}.fa-shake{-webkit-animation-name:fa-shake;animation-name:fa-shake;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,linear);animation-timing-function:var(--fa-animation-timing,linear)}.fa-spin{-webkit-animation-name:fa-spin;animation-name:fa-spin;-webkit-animation-delay:var(--fa-animation-delay,0s);animation-delay:var(--fa-animation-delay,0s);-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,2s);animation-duration:var(--fa-animation-duration,2s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,linear);animation-timing-function:var(--fa-animation-timing,linear)}.fa-spin-reverse{--fa-animation-direction:reverse}.fa-pulse,.fa-spin-pulse{-webkit-animation-name:fa-spin;animation-name:fa-spin;-webkit-animation-direction:var(--fa-animation-direction,normal);animation-direction:var(--fa-animation-direction,normal);-webkit-animation-duration:var(--fa-animation-duration,1s);animation-duration:var(--fa-animation-duration,1s);-webkit-animation-iteration-count:var(--fa-animation-iteration-count,infinite);animation-iteration-count:var(--fa-animation-iteration-count,infinite);-webkit-animation-timing-function:var(--fa-animation-timing,steps(8));animation-timing-function:var(--fa-animation-timing,steps(8))}@media (prefers-reduced-motion:reduce){.fa-beat,.fa-beat-fade,.fa-bounce,.fa-fade,.fa-flip,.fa-pulse,.fa-shake,.fa-spin,.fa-spin-pulse{-webkit-animation-delay:-1ms;animation-delay:-1ms;-webkit-animation-duration:1ms;animation-duration:1ms;-webkit-animation-iteration-count:1;animation-iteration-count:1;-webkit-transition-delay:0s;transition-delay:0s;-webkit-transition-duration:0s;transition-duration:0s}}@-webkit-keyframes fa-beat{0%,90%{-webkit-transform:scale(1);transform:scale(1)}45%{-webkit-transform:scale(var(--fa-beat-scale,1.25));transform:scale(var(--fa-beat-scale,1.25))}}@keyframes fa-beat{0%,90%{-webkit-transform:scale(1);transform:scale(1)}45%{-webkit-transform:scale(var(--fa-beat-scale,1.25));transform:scale(var(--fa-beat-scale,1.25))}}@-webkit-keyframes fa-bounce{0%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}10%{-webkit-transform:scale(var(--fa-bounce-start-scale-x,1.1),var(--fa-bounce-start-scale-y,.9)) translateY(0);transform:scale(var(--fa-bounce-start-scale-x,1.1),var(--fa-bounce-start-scale-y,.9)) translateY(0)}30%{-webkit-transform:scale(var(--fa-bounce-jump-scale-x,.9),var(--fa-bounce-jump-scale-y,1.1)) translateY(var(--fa-bounce-height,-.5em));transform:scale(var(--fa-bounce-jump-scale-x,.9),var(--fa-bounce-jump-scale-y,1.1)) translateY(var(--fa-bounce-height,-.5em))}50%{-webkit-transform:scale(var(--fa-bounce-land-scale-x,1.05),var(--fa-bounce-land-scale-y,.95)) translateY(0);transform:scale(var(--fa-bounce-land-scale-x,1.05),var(--fa-bounce-land-scale-y,.95)) translateY(0)}57%{-webkit-transform:scale(1,1) translateY(var(--fa-bounce-rebound,-.125em));transform:scale(1,1) translateY(var(--fa-bounce-rebound,-.125em))}64%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}100%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}}@keyframes fa-bounce{0%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}10%{-webkit-transform:scale(var(--fa-bounce-start-scale-x,1.1),var(--fa-bounce-start-scale-y,.9)) translateY(0);transform:scale(var(--fa-bounce-start-scale-x,1.1),var(--fa-bounce-start-scale-y,.9)) translateY(0)}30%{-webkit-transform:scale(var(--fa-bounce-jump-scale-x,.9),var(--fa-bounce-jump-scale-y,1.1)) translateY(var(--fa-bounce-height,-.5em));transform:scale(var(--fa-bounce-jump-scale-x,.9),var(--fa-bounce-jump-scale-y,1.1)) translateY(var(--fa-bounce-height,-.5em))}50%{-webkit-transform:scale(var(--fa-bounce-land-scale-x,1.05),var(--fa-bounce-land-scale-y,.95)) translateY(0);transform:scale(var(--fa-bounce-land-scale-x,1.05),var(--fa-bounce-land-scale-y,.95)) translateY(0)}57%{-webkit-transform:scale(1,1) translateY(var(--fa-bounce-rebound,-.125em));transform:scale(1,1) translateY(var(--fa-bounce-rebound,-.125em))}64%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}100%{-webkit-transform:scale(1,1) translateY(0);transform:scale(1,1) translateY(0)}}@-webkit-keyframes fa-fade{50%{opacity:var(--fa-fade-opacity,.4)}}@keyframes fa-fade{50%{opacity:var(--fa-fade-opacity,.4)}}@-webkit-keyframes fa-beat-fade{0%,100%{opacity:var(--fa-beat-fade-opacity,.4);-webkit-transform:scale(1);transform:scale(1)}50%{opacity:1;-webkit-transform:scale(var(--fa-beat-fade-scale,1.125));transform:scale(var(--fa-beat-fade-scale,1.125))}}@keyframes fa-beat-fade{0%,100%{opacity:var(--fa-beat-fade-opacity,.4);-webkit-transform:scale(1);transform:scale(1)}50%{opacity:1;-webkit-transform:scale(var(--fa-beat-fade-scale,1.125));transform:scale(var(--fa-beat-fade-scale,1.125))}}@-webkit-keyframes fa-flip{50%{-webkit-transform:rotate3d(var(--fa-flip-x,0),var(--fa-flip-y,1),var(--fa-flip-z,0),var(--fa-flip-angle,-180deg));transform:rotate3d(var(--fa-flip-x,0),var(--fa-flip-y,1),var(--fa-flip-z,0),var(--fa-flip-angle,-180deg))}}@keyframes fa-flip{50%{-webkit-transform:rotate3d(var(--fa-flip-x,0),var(--fa-flip-y,1),var(--fa-flip-z,0),var(--fa-flip-angle,-180deg));transform:rotate3d(var(--fa-flip-x,0),var(--fa-flip-y,1),var(--fa-flip-z,0),var(--fa-flip-angle,-180deg))}}@-webkit-keyframes fa-shake{0%{-webkit-transform:rotate(-15deg);transform:rotate(-15deg)}4%{-webkit-transform:rotate(15deg);transform:rotate(15deg)}24%,8%{-webkit-transform:rotate(-18deg);transform:rotate(-18deg)}12%,28%{-webkit-transform:rotate(18deg);transform:rotate(18deg)}16%{-webkit-transform:rotate(-22deg);transform:rotate(-22deg)}20%{-webkit-transform:rotate(22deg);transform:rotate(22deg)}32%{-webkit-transform:rotate(-12deg);transform:rotate(-12deg)}36%{-webkit-transform:rotate(12deg);transform:rotate(12deg)}100%,40%{-webkit-transform:rotate(0);transform:rotate(0)}}@keyframes fa-shake{0%{-webkit-transform:rotate(-15deg);transform:rotate(-15deg)}4%{-webkit-transform:rotate(15deg);transform:rotate(15deg)}24%,8%{-webkit-transform:rotate(-18deg);transform:rotate(-18deg)}12%,28%{-webkit-transform:rotate(18deg);transform:rotate(18deg)}16%{-webkit-transform:rotate(-22deg);transform:rotate(-22deg)}20%{-webkit-transform:rotate(22deg);transform:rotate(22deg)}32%{-webkit-transform:rotate(-12deg);transform:rotate(-12deg)}36%{-webkit-transform:rotate(12deg);transform:rotate(12deg)}100%,40%{-webkit-transform:rotate(0);transform:rotate(0)}}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}.fa-rotate-by{-webkit-transform:rotate(var(--fa-rotate-angle,none));transform:rotate(var(--fa-rotate-angle,none))}.fa-stack{display:inline-block;vertical-align:middle;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0;z-index:var(--fa-stack-z-index,auto)}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:var(--fa-inverse,#fff)}.fa-sr-only,.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border-width:0}.fa-sr-only-focusable:not(:focus),.sr-only-focusable:not(:focus){position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border-width:0}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fa-duotone.fa-inverse,.fad.fa-inverse{color:var(--fa-inverse,#fff)}</style><link rel="canonical" href="https://americanlaundrynews.com/node/130767">
+<meta name="generator" content="Drupal 9">
+<meta name="author" content="https://americanlaundrynews.com/authors/matt-poe">
+<meta name="referrer" content="strict-origin">
+<meta name="rights" content="Copyright American Trade Magazines, LLC">
+<meta property="og:site_name" content="American Laundry News">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://americanlaundrynews.com/articles/industry-moderately-prepared-natural-disasters">
+<meta property="og:title" content="Industry ‘Moderately Prepared’ for Natural Disasters">
+<meta property="og:description" content="CHICAGO — Operators indicate industrial, institutional laundries could do more for safety, business">
+<meta property="og:image" content="https://americanlaundrynews.com/sites/default/files/styles/article_main_facebook/public/images/articles/main/0325aln_your_views_charts-1.jpg?h=2a9cdaa9&amp;itok=jmuWPLwM">
+<meta property="og:image:url" content="https://americanlaundrynews.com/sites/default/files/styles/article_main_facebook/public/images/articles/main/0325aln_your_views_charts-1.jpg?h=2a9cdaa9&amp;itok=jmuWPLwM">
+<meta property="og:image:secure_url" content="https://americanlaundrynews.com/sites/default/files/styles/article_main_facebook/public/images/articles/main/0325aln_your_views_charts-1.jpg?h=2a9cdaa9&amp;itok=jmuWPLwM">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="628">
+<meta property="og:updated_time" content="2025-02-10T06:00:00-06:00">
+<meta property="og:image:alt" content="Industry ‘Moderately Prepared’ for Natural Disasters">
+<meta property="article:section" content="Articles">
+<meta property="article:published_time" content="2025-02-04T09:30:29-06:00">
+<meta property="article:modified_time" content="2025-02-10T06:00:00-06:00">
+<meta property="fb:app_id" content="439699984376140">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Industry ‘Moderately Prepared’ for Natural Disasters">
+<meta name="twitter:image" content="https://americanlaundrynews.com/sites/default/files/styles/article_main_twitter/public/images/articles/main/0325aln_your_views_charts-1.jpg?h=2a9cdaa9&amp;itok=inwyD10Q">
+<meta name="thumbnail" content="https://americanlaundrynews.com/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/0325aln_your_views_charts-1.jpg?itok=21x1F5gJ">
+<meta name="audience" content="all">
+<meta name="doc_status" content="published">
+<meta name="department" content="Your Views">
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="/sites/default/files/images/atm_logos/aln/favicon.ico" type="image/vnd.microsoft.icon">
+<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-10818542985&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5280v9169461639za200"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=GT-577RH6D&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5280v9169461639za200"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-6VBLC91RZ2&amp;l=dataLayer&amp;cx=c&amp;gtm=45He5280v9169461639za200"></script><script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+<style>.a2a_s_email {background-color: #8CCFF2 !important;}
+.a2a_s_print {background-color: #FAC766 !important;}</style>
+
+    <title>Industry ‘Moderately Prepared’ for Natural Disasters | American Laundry News</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_htLLU-b1w5y3mQm_k-RflWvsOtpWPXJQuHXjiFp4LIk.css?delta=0&amp;language=en&amp;theme=ATMags&amp;include=eJxVj0FywzAIRS8kS2fIAbLrXvMtUUUtEhmBm7qnr2MnC2-A94HPcPm4omhIqhOG1cSk7nJohWUGv2kQwyhPSbpRN4ecTdDX8C7855Cnbi0ix4aOQiOc0ReRwjQh6z64rbRoN4qPOiicaO_fCPllcpT-SBGqZOpmxt8aWJBrLy7JZpLHcgd7fOHXKdf0Hfbotw9P3FC7L6Pmk7pdb-R0VaMWZii5p4ISGasspuGF0ikJR6VkVbr7qfTQsEffJC9M_wuZg-4">
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_8lXWLGhXi9zfdWmeVyz_9NrbAS0dVHIPJWpZmpYDMEw.css?delta=1&amp;language=en&amp;theme=ATMags&amp;include=eJxVj0FywzAIRS8kS2fIAbLrXvMtUUUtEhmBm7qnr2MnC2-A94HPcPm4omhIqhOG1cSk7nJohWUGv2kQwyhPSbpRN4ecTdDX8C7855Cnbi0ix4aOQiOc0ReRwjQh6z64rbRoN4qPOiicaO_fCPllcpT-SBGqZOpmxt8aWJBrLy7JZpLHcgd7fOHXKdf0Hfbotw9P3FC7L6Pmk7pdb-R0VaMWZii5p4ISGasspuGF0ikJR6VkVbr7qfTQsEffJC9M_wuZg-4">
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/130767","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxtkU1ywyAMhS9E4Aw5QHfdMzLIhFZYHiTHdU5f4p9JnelGvO9ZME_y9fMDkrggcoGqORCKuW5eIu6ADsrCyiMeWJFAMV4CD4qDGohRGYbFHcL2lZ--Fg_RFxggYXVntIk5EV4gytrYrhSvN_RzruhOtH6_IcT9kZ5Z2wPb4UEEVd57Nmm345-ebqothOkIHovrMlv4gp8Dn3XXgdpdyqI7E0Pc5ci09JnowBY5C-5Uod_VjN1o-rYPmFG4tNle2so9mW0RXiG51Mo7b8lOZjEtUvh2a7Xt_524QB5sqjme3LbMgkYUtA2Tg7hYpxHIvhwjiygW10Gb4tkOyRMsPKm4HXnAwOQFg2YezD3jLG6tW8q_RuE4Ef4Ccjnryw","theme":"ATMags","theme_token":"EXdToU8AfFzKe16iHHbmJEb92b1dYrKcIuVgrMkHi8Y"},"ajaxTrustedUrl":[],"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_environment":false},"tagIds":["GTM-M9MLNGRS"]},"statistics":{"data":{"nid":"130767"},"url":"\/core\/modules\/statistics\/statistics.php"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:6db261ac69ee697113a5359dfc69ca1a671e0c8b7ec2b297c5fb8573c588836c":{"view_name":"content_related_by_tag","view_display_id":"articles_by_tag","view_args":"2873+4424+4184+4185\/130767","view_path":"\/node\/130767","view_base_path":null,"view_dom_id":"6db261ac69ee697113a5359dfc69ca1a671e0c8b7ec2b297c5fb8573c588836c","pager_element":0}}},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"validateDelay":null,"container":"","loader":true,"unblazy":false,"visibleClass":false},"blazyIo":{"disconnect":false,"rootMargin":"0px","threshold":[0,0.25,0.5,0.75,1]},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"pauseOnHover":true,"pauseOnDotsHover":false,"pauseOnFocus":true,"autoplaySpeed":3000,"arrows":true,"downArrow":false,"downArrowTarget":"","downArrowOffset":0,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mouseWheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","cssEaseBezier":"","cssEaseOverride":"","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"user":{"uid":0,"permissionsHash":"df3ece8e835dc50ea7dc3677e421ee058d773105c03e24843525863f1ca2a97a"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.4.1"></script>
+<script src="/libraries/imagesloaded/imagesloaded.pkgd.min.js?spqbhn"></script>
+<script src="/libraries/isotope/isotope.pkgd.min.js?spqbhn"></script>
+<script src="https://www.googletagservices.com/tag/js/gpt.js" async=""></script>
+<script src="/modules/custom/atm_ad_manager/js/google-ads-2.js?spqbhn"></script>
+<script src="/modules/custom/atm_ad_manager/js/google-ads-3.js?spqbhn"></script>
+<script src="/libraries/fontawesome/js/all.min.js?v=6.4.0" defer=""></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?spqbhn"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?spqbhn"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M9MLNGRS" type="text/javascript"></script>
+
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+  <meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9wSqI5i0iwGdf6L1CERNdmsTPgVu44ewj8QxTBYgsv1LCPUVF7YmWOvTappqB1139jAymxUW/RO8zmMqo4zlAAAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A+d7vJfYtay4OUbdtRPZA3y7bKQLsxaMEPmxgfhBGqKXNrdkCQeJlUwqa6EBbSfjwFtJWTrWIioXeMW+y8bWAgQAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202502040101/pubads_impl.js" async=""></script><link href="https://securepubads.g.doubleclick.net/pagead/managed/dict/m202502060101/gpt" rel="compression-dictionary"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10818542985/?random=1739252576028&amp;cv=11&amp;fst=1739252576028&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5280v9166285352z89169461639za200zb9169461639&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=101509157~102067808~102482432~102539968~102558064~102587591~102605417&amp;u_w=1280&amp;u_h=720&amp;url=https%3A%2F%2Famericanlaundrynews.com%2Farticles%2Findustry-moderately-prepared-natural-disasters&amp;ref=https%3A%2F%2Fnews.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Industry%20%E2%80%98Moderately%20Prepared%E2%80%99%20for%20Natural%20Disasters%20%7C%20American%20Laundry%20News&amp;npa=0&amp;pscdl=noapi&amp;auid=986591838.1739252576&amp;uaa=arm&amp;uab=64&amp;uafvl=HeadlessChrome%3B131.0.6778.33%7CChromium%3B131.0.6778.33%7CNot_A%2520Brand%3B24.0.0.0&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=15.3.0&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><script src="https://static.addtoany.com/menu/modules/core.junnp81e.js" type="module"></script><style type="text/css">.a2a_hide{display:none}.a2a_logo_color{background-color:#0166ff}.a2a_menu,.a2a_menu *{-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box;float:none;margin:0;padding:0;position:static;height:auto;width:auto}.a2a_menu{border-radius:6px;display:none;direction:ltr;background:#FFF;font:16px sans-serif-light,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Arial,Helvetica,"Liberation Sans",sans-serif;color:#000;line-height:12px;border:1px solid #CCC;vertical-align:baseline;overflow:hidden}.a2a_mini{min-width:200px;position:absolute;width:300px;z-index:9999997}.a2a_overlay{display:none;background:#616c7deb;backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);position:fixed;top:0;right:0;left:0;bottom:0;z-index:9999998;-webkit-tap-highlight-color:transparent;transition:opacity .14s,backdrop-filter .14s}.a2a_full{background:#FFF;border:1px solid #FFF;box-shadow:#2a2a2a1a 0 0 20px 10px;height:auto;height:calc(320px);top:15%;left:50%;margin-left:-320px;position:fixed;text-align:center;width:640px;z-index:9999999;transition:transform .14s,opacity .14s}.a2a_full_footer,.a2a_full_header,.a2a_full_services{border:0;margin:0;padding:12px;box-sizing:border-box}.a2a_full_header{padding-bottom:8px}.a2a_full_services{height:280px;overflow-y:scroll;padding:0 12px;-webkit-overflow-scrolling:touch}.a2a_full_services .a2a_i{display:inline-block;float:none;width:181px;width:calc(33.334% - 18px)}div.a2a_full_footer{font-size:12px;text-align:center;padding:8px 14px}div.a2a_full_footer a,div.a2a_full_footer a:visited{display:inline;font-size:12px;line-height:14px;padding:8px 14px}div.a2a_full_footer a:focus,div.a2a_full_footer a:hover{background:0 0;border:0;color:#0166FF}div.a2a_full_footer a span.a2a_s_a2a,div.a2a_full_footer a span.a2a_w_a2a{background-size:14px;border-radius:3px;display:inline-block;height:14px;line-height:14px;margin:0 3px 0 0;vertical-align:top;width:14px}.a2a_modal{height:0;left:50%;margin-left:-320px;position:fixed;text-align:center;top:15%;width:640px;z-index:9999999;transition:transform .14s,opacity .14s;-webkit-tap-highlight-color:transparent}.a2a_modal_body{background:0 0;border:0;font:24px sans-serif-light,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Arial,Helvetica,"Liberation Sans",sans-serif;position:relative;height:auto;width:auto}.a2a_thanks{color:#fff;height:auto;margin-top:20px;width:auto}.a2a_thanks>div:first-child{margin:0 0 40px 0}.a2a_thanks div *{height:inherit}#a2a_copy_link{background:#FFF;border:1px solid #FFF;cursor:pointer;margin-top:15%}span.a2a_s_link#a2a_copy_link_icon,span.a2a_w_link#a2a_copy_link_icon{background-size:48px;border-radius:0;display:inline-block;height:48px;left:0;line-height:48px;margin:0 3px 0 0;position:absolute;vertical-align:top;width:48px}#a2a_modal input#a2a_copy_link_text{background-color:transparent;border:0;color:#2A2A2A;cursor:pointer;font:inherit;height:48px;left:62px;max-width:initial;min-height:auto;padding:0;position:relative;width:564px;width:calc(100% - 76px)}#a2a_copy_link_copied{background-color:#0166ff;color:#fff;display:none;font:inherit;font-size:16px;margin-top:1px;padding:3px 8px}@media (forced-colors:active){.a2a_color_buttons a,.a2a_svg{forced-color-adjust:none}}@media (prefers-color-scheme:dark){.a2a_menu a,.a2a_menu a.a2a_i,.a2a_menu a.a2a_i:visited,.a2a_menu a.a2a_more,i.a2a_i{border-color:#2a2a2a!important;color:#fff!important}.a2a_menu a.a2a_i:active,.a2a_menu a.a2a_i:focus,.a2a_menu a.a2a_i:hover,.a2a_menu a.a2a_more:active,.a2a_menu a.a2a_more:focus,.a2a_menu a.a2a_more:hover,.a2a_menu_find_container{border-color:#444!important;background-color:#444!important}.a2a_menu:not(.a2a_thanks){background-color:#2a2a2a;border-color:#2a2a2a}.a2a_menu_find{color:#fff!important}.a2a_menu span.a2a_s_find svg{background-color:transparent!important}.a2a_menu span.a2a_s_find svg path{fill:#fff!important}.a2a_full{box-shadow:#00000066 0 0 20px 10px}.a2a_overlay{background-color:#373737eb}}@media print{.a2a_floating_style,.a2a_menu,.a2a_overlay{visibility:hidden}}@keyframes a2aFadeIn{from{opacity:0}to{opacity:1}}.a2a_starting{opacity:0}.a2a_starting.a2a_full,.a2a_starting.a2a_modal{transform:scale(.8)}@media (max-width:639px){.a2a_full{border-radius:0;top:15%;left:0;margin-left:auto;width:100%}.a2a_modal{left:0;margin-left:10px;width:calc(100% - 20px)}}@media (min-width:318px) and (max-width:437px){.a2a_full .a2a_full_services .a2a_i{width:calc(50% - 18px)}}@media (max-width:317px){.a2a_full .a2a_full_services .a2a_i{width:calc(100% - 18px)}}@media (max-height:436px){.a2a_full{bottom:40px;height:auto;top:40px}}@media (max-height:550px){.a2a_modal{top:30px}}@media (max-height:360px){.a2a_modal{top:20px}.a2a_thanks>div:first-child{margin-bottom:20px}}.a2a_menu a{color:#0166FF;text-decoration:none;font:16px sans-serif-light,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Arial,Helvetica,"Liberation Sans",sans-serif;line-height:14px;height:auto;width:auto;outline:0}.a2a_menu a.a2a_i:visited,.a2a_menu a.a2a_more{color:#0166FF}.a2a_menu a.a2a_i:active,.a2a_menu a.a2a_i:focus,.a2a_menu a.a2a_i:hover,.a2a_menu a.a2a_more:active,.a2a_menu a.a2a_more:focus,.a2a_menu a.a2a_more:hover{color:#2A2A2A;border-color:#EEE;border-style:solid;background-color:#EEE;text-decoration:none}.a2a_menu span.a2a_s_find{background-size:24px;height:24px;left:8px;position:absolute;top:7px;width:24px}.a2a_menu span.a2a_s_find svg{background-color:#FFF}.a2a_menu span.a2a_s_find svg path{fill:#CCC}#a2a_menu_container{display:inline-block}.a2a_menu_find_container{border:1px solid #CCC;border-radius:6px;padding:2px 24px 2px 0;position:relative;text-align:left}.a2a_cols_container .a2a_col1{overflow-x:hidden;overflow-y:auto;-webkit-overflow-scrolling:touch}#a2a_modal input,#a2a_modal input[type=text],.a2a_menu input,.a2a_menu input[type=text]{display:block;background-image:none;box-shadow:none;line-height:100%;margin:0;outline:0;overflow:hidden;padding:0;-moz-box-shadow:none;-webkit-box-shadow:none;-webkit-appearance:none}#a2afeed_find_container input,#a2afeed_find_container input[type=text],#a2apage_find_container input,#a2apage_find_container input[type=text]{background-color:transparent;border:0;box-sizing:content-box;color:#2A2A2A;float:none;font:inherit;font-size:16px;height:28px;line-height:20px;left:38px;outline:0;margin:0;max-width:initial;min-height:initial;padding:2px 0;position:relative;width:99%}.a2a_clear{clear:both}.a2a_svg{background-repeat:no-repeat;display:block;overflow:hidden;height:32px;line-height:32px;padding:0;pointer-events:none;width:32px}.a2a_svg svg{background-repeat:no-repeat;background-position:50% 50%;border:none;display:block;left:0;margin:0 auto;overflow:hidden;padding:0;position:relative;top:0;width:auto;height:auto}a.a2a_i,i.a2a_i{display:block;float:left;border:1px solid #FFF;line-height:24px;padding:6px 8px;text-align:left;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:132px}a.a2a_i span,a.a2a_more span{display:inline-block;overflow:hidden;vertical-align:top}a.a2a_i .a2a_svg{margin:0 6px 0 0}a.a2a_i .a2a_svg,a.a2a_more .a2a_svg{background-size:24px;height:24px;line-height:24px;width:24px}a.a2a_sss:hover{border-left:1px solid #CCC}a.a2a_more{border-bottom:1px solid #FFF;border-left:0;border-right:0;line-height:24px;margin:6px 0 0;padding:6px;-webkit-touch-callout:none}a.a2a_more span{height:24px;margin:0 6px 0 0}.a2a_kit .a2a_svg{background-repeat:repeat}.a2a_default_style a:empty,.a2a_flex_style a:empty,.a2a_floating_style a:empty,.a2a_overlay_style a:empty{display:none}.a2a_color_buttons a,.a2a_floating_style a{text-decoration:none}.a2a_default_style:not(.a2a_flex_style) a{float:left;line-height:16px;padding:0 2px}.a2a_default_style a:hover .a2a_svg,.a2a_floating_style a:hover .a2a_svg,.a2a_overlay_style a:hover .a2a_svg svg{opacity:.7}.a2a_overlay_style.a2a_default_style a:hover .a2a_svg{opacity:1}.a2a_default_style .a2a_count,.a2a_default_style .a2a_svg,.a2a_floating_style .a2a_svg,.a2a_menu .a2a_svg,.a2a_vertical_style .a2a_count,.a2a_vertical_style .a2a_svg{border-radius:4px}.a2a_default_style .a2a_counter img,.a2a_default_style .a2a_dd,.a2a_default_style .a2a_svg{float:left}.a2a_default_style .a2a_img_text{margin-right:4px}.a2a_default_style .a2a_divider{border-left:1px solid #000;display:inline;float:left;height:16px;line-height:16px;margin:0 5px}.a2a_kit a{cursor:pointer;transition:none}.a2a_floating_style{background-color:#fff;border-radius:6px;position:fixed;z-index:9999995}.a2a_overlay_style{z-index:2147483647}.a2a_floating_style,.a2a_overlay_style{animation:a2aFadeIn .2s ease-in;padding:4px}.a2a_vertical_style:not(.a2a_flex_style) a{clear:left;display:block;overflow:hidden;padding:4px}.a2a_floating_style.a2a_default_style{bottom:0}.a2a_floating_style.a2a_default_style a,.a2a_overlay_style.a2a_default_style a{padding:4px}.a2a_count{background-color:#fff;border:1px solid #ccc;box-sizing:border-box;color:#2a2a2a;display:block;float:left;font:12px Arial,Helvetica,sans-serif;height:16px;margin-left:4px;position:relative;text-align:center;width:50px}.a2a_count:after,.a2a_count:before{border:solid transparent;border-width:4px 4px 4px 0;content:"";height:0;left:0;line-height:0;margin:-4px 0 0 -4px;position:absolute;top:50%;width:0}.a2a_count:before{border-right-color:#ccc}.a2a_count:after{border-right-color:#fff;margin-left:-3px}.a2a_count span{animation:a2aFadeIn .14s ease-in}.a2a_vertical_style .a2a_counter img{display:block}.a2a_vertical_style .a2a_count{float:none;margin-left:0;margin-top:6px}.a2a_vertical_style .a2a_count:after,.a2a_vertical_style .a2a_count:before{border:solid transparent;border-width:0 4px 4px 4px;content:"";height:0;left:50%;line-height:0;margin:-4px 0 0 -4px;position:absolute;top:0;width:0}.a2a_vertical_style .a2a_count:before{border-bottom-color:#ccc}.a2a_vertical_style .a2a_count:after{border-bottom-color:#fff;margin-top:-3px}.a2a_color_buttons .a2a_count,.a2a_color_buttons .a2a_count:after,.a2a_color_buttons .a2a_count:before,.a2a_color_buttons.a2a_vertical_style .a2a_count:after,.a2a_color_buttons.a2a_vertical_style .a2a_count:before{background-color:transparent;border:none;color:#fff;float:none;width:auto}.a2a_color_buttons.a2a_vertical_style .a2a_count{margin-top:0}.a2a_flex_style{display:flex;align-items:flex-start;gap:0}.a2a_default_style.a2a_flex_style{left:0;right:0;width:100%}.a2a_vertical_style.a2a_flex_style{flex-direction:column;top:0;bottom:0}.a2a_flex_style a{display:flex;justify-content:center;flex:1;padding:4px}.a2a_flex_style.a2a_vertical_style a{flex-direction:column}.a2a_floating_style.a2a_color_buttons,.a2a_floating_style.a2a_flex_style{border-radius:0;padding:0}.a2a_floating_style.a2a_default_style.a2a_flex_style{bottom:0}.a2a_kit.a2a_flex_style .a2a_counter img,.a2a_kit.a2a_flex_style .a2a_dd,.a2a_kit.a2a_flex_style .a2a_svg{float:none}.a2a_nowrap{white-space:nowrap}.a2a_note{margin:0 auto;padding:9px;font-size:12px;text-align:center}.a2a_note .a2a_note_note{margin:0;color:#2A2A2A}.a2a_wide a{display:block;margin-top:3px;border-top:1px solid #EEE;text-align:center}.a2a_label{position:absolute!important;clip-path:polygon(0px 0px,0px 0px,0px 0px);-webkit-clip-path:polygon(0px 0px,0px 0px,0px 0px);overflow:hidden;height:1px;width:1px}.a2a_kit,.a2a_menu,.a2a_modal,.a2a_overlay{-ms-touch-action:manipulation;touch-action:manipulation;outline:0}.a2a_dd{-webkit-user-drag:none}.a2a_dd img{border:0}.a2a_button_facebook_like iframe{max-width:none}</style></head>
+
+  <body class="role-anonymous americanlaundrynews theme-atmags" data-once="b-root">
+
+      <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9MLNGRS"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+        
+  <header role="banner" class="header-nav">
+    <nav class="global-nav" role="navigation"> <ul class="nav aln"><li class="grid-user"><a class="register" href="/user/register">Register</a> or <a class="login" href="/user/login">Login</a></li><li class="grid-logo"><a href="/"><img width="300" alt="american laundry news logo" src="/themes/custom/ATMags/images/logo-aln.svg"></a></li><li class="main-nav-item grid-news"><a href="/articles/news"> News</a></li><li class="main-nav-item grid-departments has-sub">Departments<ul><li><a href="/articles/features">Features</a></li><li><a href="/articles/columns">Columns</a></li><li><a href="/articles/panel-of-experts">Panel of Experts</a></li><li><a href="/articles/career-track">Career Track</a></li><li><a href="/articles/your-views">Your Views</a></li></ul></li><li class="main-nav-item grid-resources has-sub">Resources<ul><li><a href="/research-center/overview">Research Center</a></li><li><a href="/buyers-guide-aln">Buyer's Guide</a></li><li><a href="/directories/distributors-directory">Distributors Directory</a></li><li><a href="/digital-editions">Digital Editions</a></li></ul></li><li class="main-nav-item grid-calendar"><a href="/calendar">Calendar</a></li><li class="main-nav-item grid-classifieds has-sub"><a href="/classifieds">Classifieds</a><ul><li><a href="/classifieds">View all classifieds</a></li> <li><a href="/add/online-classified">Add an online classified</a></li></ul></li><li class="main-nav-item grid-jobs-board"><a href="/podcasts">Podcasts</a></li><li class="main-nav-item grid-search"><a class="search-link" href="/search/site">Search</a></li><li class="grid-subscribe"><a href="https://americanlaundrynews.dragonforms.com/loading.do?omedasite=ALN_subscriptions" target="_blank">Subscribe</a></li><li class="grid-advertise"><a href="/media-kit-request">Advertise</a></li><li class="grid-social"><ul><li class="grid-facebook"><a href="https://facebook.com/americanlaundrynews" target="_blank"><img src="/themes/custom/ATMags/images/social-icons.png" alt="Follow @AmericanLaundryNews"></a></li><li class="grid-twitter"><a href="https://twitter.com/laundryNews" target="_blank"><img src="/themes/custom/ATMags/images/social-icons.png" alt="Follow @laundryNews"></a></li><li class="grid-linkedin"><a href="https://www.linkedin.com/company/american-laundry-news" target="_blank"><img src="/themes/custom/ATMags/images/social-icons.png" alt="Follow @AmericanLaundryNews"></a></li><li class="grid-atm"><a href="https://atmags.com" target="_blank"><img src="/themes/custom/ATMags/images/social-icons.png" alt="American Trade Magazines"></a>
+        </li></ul></li><li class="main-nav-item burger"><span>|||</span></li></ul></nav><div class="leaderboard aln" id="div-gpt-ad-1367873989384-0" data-google-query-id="CJny3N_0uosDFVU-RAgd184x2g"><div id="google_ads_iframe_/6147019/ALN-Leaderboard_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/6147019/ALN-Leaderboard_0" name="google_ads_iframe_/6147019/ALN-Leaderboard_0" title="3rd party ad content" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="6" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+  </header>
+
+  
+  
+
+  
+
+  
+
+  
+
+
+          <div data-drupal-messages-fallback="" class="hidden"></div>  
+      
+
+<main class="your-views contextual-region" role="main" id="main-content">
+
+      
+      
+  
+    
+
+
+  
+
+<header>
+    <div class="crumbs your-views">
+      <h2 class="visually-hidden">You are here</h2>
+      <div class="breadcrumb">
+        <a href="/home">Home</a> » 
+
+            <div class="field field--name-field-channel field--type-entity-reference field--label-hidden field__item">
+        <i style="background-color: #CE8E00;
+                  opacity: 1">
+        </i>
+        <a href="/articles/your-views" hreflang="en">Your Views</a>
+      </div>
+      
+      </div>
+    </div>
+    <h1>Industry ‘Moderately Prepared’ for Natural Disasters
+</h1>
+    <h2>
+            Operators indicate industrial, institutional laundries could do more for safety, business
+      </h2>
+
+
+    <div class="entry-details your-views is-auth-img">
+      <a itemprop="sameAs" class="author" rel="author" href="/node/69538">
+                  <img loading="lazy" src="/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/matt-poe-2023.jpg?itok=iX0AAIhi" width="150" height="201" alt="Matt Poe">
+
+
+
+      
+  </a>
+
+      <div class="author-details">
+        <span itemprop="author" itemtype="http://schema.org/Person"><a itemprop="sameAs" class="author" rel="author" href="/node/69538">Matt Poe</a></span>      </div>
+
+      <time datetime="2025-02-10 12:00:02">February 10, 2025</time>
+
+      <div class="share">
+        <span class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://americanlaundrynews.com/articles/industry-moderately-prepared-natural-disasters" data-a2a-title="Industry ‘Moderately Prepared’ for Natural Disasters" style="line-height: 32px;"><a class="a2a_button_facebook" title="Share on Facebook" target="_blank" rel="nofollow noopener" href="/#facebook"><span class="a2a_svg a2a_s__default a2a_s_facebook" style="background-color: rgb(8, 102, 255);"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="#fff" d="M28 16c0-6.627-5.373-12-12-12S4 9.373 4 16c0 5.628 3.875 10.35 9.101 11.647v-7.98h-2.474V16H13.1v-1.58c0-4.085 1.849-5.978 5.859-5.978.76 0 2.072.15 2.608.298v3.325c-.283-.03-.775-.045-1.386-.045-1.967 0-2.728.745-2.728 2.683V16h3.92l-.673 3.667h-3.247v8.245C23.395 27.195 28 22.135 28 16"></path></svg></span><span class="a2a_label">Facebook</span></a><a class="a2a_button_x" title="Share on X" target="_blank" rel="nofollow noopener" href="/#x"><span class="a2a_svg a2a_s__default a2a_s_x" style="background-color: rgb(26, 26, 26);"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="#fff" d="M21.751 7h3.067l-6.7 7.658L26 25.078h-6.172l-4.833-6.32-5.531 6.32h-3.07l7.167-8.19L6 7h6.328l4.37 5.777L21.75 7Zm-1.076 16.242h1.7L11.404 8.74H9.58l11.094 14.503Z"></path></svg></span><span class="a2a_label">X</span></a><a class="a2a_button_email" title="Email link" target="_blank" rel="nofollow noopener" href="/#email"><span class="a2a_svg a2a_s__default a2a_s_email" style="background-color: rgb(136, 137, 144);"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="#fff" d="M27 21.775v-9.9s-10.01 6.985-10.982 7.348C15.058 18.878 5 11.875 5 11.875v9.9c0 1.375.293 1.65 1.65 1.65h18.7c1.393 0 1.65-.242 1.65-1.65m-.017-11.841c0-1.002-.291-1.359-1.633-1.359H6.65c-1.38 0-1.65.429-1.65 1.43l.016.154s9.939 6.842 11 7.216C17.14 16.941 27 10.005 27 10.005z"></path></svg></span><span class="a2a_label">Email</span></a><a class="a2a_button_print" title="Print article" target="_blank" rel="nofollow noopener" href="/#print"><span class="a2a_svg a2a_s__default a2a_s_print" style="background-color: rgb(136, 137, 144);"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="#fff" fill-rule="evenodd" d="M25.778 11.37H23.39V7H8.99v4.37H6.612a1.5 1.5 0 0 0-1.607 1.317L5 12.728v7.434l.005.042a1.5 1.5 0 0 0 1.593 1.316H8.99v2.88h14.4v-2.88h2.388a1.5 1.5 0 0 0 1.607-1.317l.005-.041v-7.434l-.005-.041a1.5 1.5 0 0 0-1.607-1.317m.07 8.75.037.004a.1.1 0 0 0 .105-.066v-7.226a.1.1 0 0 0-.105-.066l-.037.004H6.542l-.037-.004a.1.1 0 0 0-.105.066v7.225a.1.1 0 0 0 .104.066l.033-.003H8.99v-1.53h14.4v1.53z" clip-rule="evenodd"></path></svg></span><span class="a2a_label">Print</span></a><a class="a2a_button_copy_link" title="Copy link" target="_blank" rel="nofollow noopener" href="/#copy_link"><span class="a2a_svg a2a_s__default a2a_s_link" style="background-color: rgb(136, 137, 144);"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="#fff" d="M7.591 21.177q0-.54.377-.917l2.804-2.804a1.24 1.24 0 0 1 .913-.378q.565 0 .97.43-.038.041-.255.25-.215.21-.29.29a3 3 0 0 0-.2.256 1.1 1.1 0 0 0-.177.344 1.4 1.4 0 0 0-.046.37q0 .54.377.918a1.25 1.25 0 0 0 .918.377q.19.001.373-.047.189-.056.345-.175.135-.09.256-.2.15-.14.29-.29c.14-.142.223-.23.25-.254q.445.42.445.984 0 .539-.377.916l-2.778 2.79a1.24 1.24 0 0 1-.917.364q-.54-.001-.917-.35l-1.982-1.97a1.22 1.22 0 0 1-.378-.9zm9.477-9.504q0-.54.377-.917l2.777-2.79a1.24 1.24 0 0 1 .913-.378q.525-.001.917.364l1.984 1.968q.38.378.38.903 0 .54-.38.917l-2.802 2.804a1.24 1.24 0 0 1-.916.364q-.565 0-.97-.418.038-.04.255-.25a8 8 0 0 0 .29-.29q.108-.12.2-.255.121-.156.176-.344.048-.181.047-.37 0-.538-.377-.914a1.25 1.25 0 0 0-.917-.377q-.205 0-.37.046-.172.046-.346.175a4 4 0 0 0-.256.2q-.08.076-.29.29l-.25.258q-.441-.417-.442-.983zM5.003 21.177q0 1.617 1.146 2.736l1.982 1.968c.745.75 1.658 1.12 2.736 1.12q1.63 0 2.75-1.143l2.777-2.79c.75-.747 1.12-1.66 1.12-2.737q.002-1.66-1.183-2.818l1.186-1.185q1.16 1.185 2.805 1.186 1.617 0 2.75-1.13l2.803-2.81q1.127-1.132 1.128-2.748 0-1.62-1.146-2.738L23.875 6.12Q22.758 4.999 21.139 5q-1.63 0-2.75 1.146l-2.777 2.79c-.75.747-1.12 1.66-1.12 2.737q-.002 1.658 1.183 2.817l-1.186 1.186q-1.16-1.186-2.805-1.186-1.617 0-2.75 1.132L6.13 18.426Q5 19.559 5 21.176z"></path></svg></span><span class="a2a_label">Copy Link</span></a></span>
+
+      </div>
+
+    </div>
+  </header>
+
+  <section class="article-details layout-horizontal is-auth-img">
+    <article class="node-article">
+      
+      
+            <p>CHICAGO — In the past several months, the United States has experienced natural disasters ranging from hurricanes and floods to wildfires.&nbsp;</p><div class="slick blazy slick--field slick--field-image slick--field-image--article-detail-horizontal slick--skin--grid slick--optionset--single-item-slider is-blazy slick--initialized" data-blazy="" data-once="blazy slick"><div id="slick-cfb82049e2f" data-slick="{&quot;count&quot;:2,&quot;total&quot;:2,&quot;mobileFirst&quot;:true,&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:20000,&quot;lazyLoad&quot;:&quot;blazy&quot;,&quot;easing&quot;:&quot;&quot;}" class="slick__slider slick-initialized slick-slider"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 3500px; transform: translate3d(-700px, 0px, 0px);"><div class="slick__slide slide slide--1 slick-slide slick-cloned" data-slick-index="-1" id="" aria-hidden="true" style="width: 700px;" tabindex="-1"><div class="slide__content">    <div data-b-token="b-784e3557a62" class="media media--blazy media--slick media--bundle--image media--image is-b-loading is-b-loaded"><img alt="Industry ‘Moderately Prepared’ for Natural Disasters" decoding="async" class="media__element b-lazy b-loaded" loading="lazy" src="/sites/default/files/styles/in_article_image_1200x628/public/images/articles/main/0325aln_your_views_charts-2.jpg?h=d1d56cab&amp;itok=V1Wx-gEl" width="1200" height="628">
+        </div>
+  </div>
+</div><div class="slick__slide slide slide--0 slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 700px;" tabindex="0"><div class="slide__content">    <div data-b-token="b-4affb69eb0e" class="media media--blazy media--slick media--bundle--image media--image is-b-loading is-b-loaded"><img alt="Industry ‘Moderately Prepared’ for Natural Disasters" decoding="async" class="media__element b-lazy b-loaded" loading="lazy" src="/sites/default/files/styles/in_article_image_1200x628/public/images/articles/main/0325aln_your_views_charts-1.jpg?h=2a9cdaa9&amp;itok=wlC2kPJr" width="1200" height="628">
+        </div>
+  </div>
+</div><div class="slick__slide slide slide--1 slick-slide" data-slick-index="1" aria-hidden="true" style="width: 700px;" tabindex="-1"><div class="slide__content">    <div data-b-token="b-784e3557a62" class="media media--blazy media--slick media--bundle--image media--image is-b-loading is-b-loaded"><img alt="Industry ‘Moderately Prepared’ for Natural Disasters" decoding="async" class="media__element b-lazy b-loaded" loading="lazy" src="/sites/default/files/styles/in_article_image_1200x628/public/images/articles/main/0325aln_your_views_charts-2.jpg?h=d1d56cab&amp;itok=V1Wx-gEl" width="1200" height="628">
+        </div>
+  </div>
+</div><div class="slick__slide slide slide--0 slick-slide slick-cloned" data-slick-index="2" id="" aria-hidden="true" style="width: 700px;" tabindex="-1"><div class="slide__content">    <div data-b-token="b-4affb69eb0e" class="media media--blazy media--slick media--bundle--image media--image is-b-loading"><img alt="Industry ‘Moderately Prepared’ for Natural Disasters" decoding="async" class="media__element b-lazy" loading="lazy" src="/sites/default/files/styles/in_article_image_1200x628/public/images/articles/main/0325aln_your_views_charts-1.jpg?h=2a9cdaa9&amp;itok=wlC2kPJr" width="1200" height="628">
+        </div>
+  </div>
+</div><div class="slick__slide slide slide--1 slick-slide slick-cloned" data-slick-index="3" id="" aria-hidden="true" style="width: 700px;" tabindex="-1"><div class="slide__content">    <div data-b-token="b-784e3557a62" class="media media--blazy media--slick media--bundle--image media--image is-b-loading"><img alt="Industry ‘Moderately Prepared’ for Natural Disasters" decoding="async" class="media__element b-lazy" loading="lazy" src="/sites/default/files/styles/in_article_image_1200x628/public/images/articles/main/0325aln_your_views_charts-2.jpg?h=d1d56cab&amp;itok=V1Wx-gEl" width="1200" height="628">
+        </div>
+  </div>
+</div></div></div></div>
+          <nav role="navigation" class="slick__arrow">
+        <button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" style="">Previous</button><button type="button" data-role="none" class="slick-next slick-arrow" aria-label="Next" style="">Next</button>
+      </nav>
+    </div><p>Each of these disasters has permanently affected many lives in the Western and Southeastern regions of the country.&nbsp;</p><p>That includes industrial and institutional laundries.&nbsp;</p><p>Because of this, the most recent <em>American Laundry News Your Views</em> survey focused on industry preparedness in the face of natural disasters.</p><p>When asked if the industrial and institutional laundry industry is prepared to face these disasters, 57.9% of respondents indicate it is “moderately prepared,” followed by “somewhat prepared” at 21.1%.</p><p>Only 10.6% of operators who took the survey say the industry is “very well prepared.” Both “well prepared” and “not prepared” garnered 5.3% of responses.</p><p>“It’s important to plan for ‘unplanned disasters,’” writes one respondent. “What will you do when it happens? How will you run your business with reduced staff? How will you run your business if your plant is destroyed? How will you communicate this?”</p><p>Operators who took the survey shared several factors they believe services overlook in disaster preparedness, including:</p><ul><li>Communication to customers at several levels in their organizations. Phone systems, including cell towers, may not be working. Where to go for backup linen service. Having the right kind and amount of insurance to cover not only losses but loss of income.</li><li>Just because the operation is available to run doesn’t mean that the associates will be coming to work. There has to be detailed plans on where the labor will come from.</li><li>Most operations overlook simple things like diesel fuel for generators. They may have generators, but diesel fuel to run these generators is significant and availability is key. Backup facilities may not have the capacity or staff to process linen; therefore, backup contingency arrangements should be carefully scrutinized from a practical perspective of capacity and manpower.</li><li>More frequent training. The training happens so infrequently, and when an actual disaster happens, people panic and forget what they have learned and there is doubt and uncertainty.</li><li>For a single plant, backup plans need to include a friendly competitor. Most companies have not made prior arrangements with an electrical generator rental company or made switch gear modifications for easy accommodations. Do you have large water storage tanks in case of water shortage? How about temporary roof accommodations? Tarps, etc.?</li></ul><p>When asked how prepared their industrial or institutional laundry is for natural disasters, “moderately prepared” was again the top vote getter at 63.2%. Over 21% of respondents indicate their operation is “well prepared,” followed by “somewhat unprepared” at 10.5% and “not prepared” at 5.3%.</p><p>No respondent indicated their operation is “very well prepared.”</p><p>When asked to select all that apply from a list of disaster planning survey takers’ laundries have, appropriate insurance coverage topped the list at 94.4%. This was followed by a communication plan (88.9%), continuing service (backup) plan (77.8%) and a disaster drill schedule (55.6%).</p><p>Half of respondents indicate their operation has a full disaster plan on file while 44.4% say they have a financial backup plan. Nearly 6% indicate they have a regional capacity plan with multiple plants.</p><p>So, how many laundry operators who responded have endured a natural disaster in the past 10 years? More than 42% say their plant has, while nearly 58% haven’t.</p><p>The disasters laundries have faced include:</p><ul><li>Lighting strike causing a catastrophic roof insulation fire, then creating a secondary “drop-down” fire.</li><li>We were impacted by massive floods. Our plant wasn’t directly affected, but routes to our customers were affected for many months.</li><li>Hurricanes. We were out of operation for approximately 24 hours.</li><li>We had a tornado and a derecho [which can also be described as an intense windstorm].</li><li>An ice storm caused us to lose electrical for a week. We were able to find a generator to get us back up in a couple of days.&nbsp;</li></ul><p>With the number of natural disasters seemingly on the rise, <em>American Laundry News</em> asked respondents how they gauged the level of risk from these events to the industry.</p><p>Both “increasing” and “slightly increasing” received 42.1% of votes followed by “not changing” at 15.8%.</p><p>No one thinks the industry’s risk from natural disasters is decreasing.</p><p>“You cannot prepare for every type of disaster,” writes a respondent. “However, you can prepare for the most likely event.”&nbsp;</p><p>While the&nbsp;<em>Your Views</em>&nbsp;survey presents a snapshot of readers’ viewpoints at a particular moment, it should not be considered scientific. Due to rounding, percentages may not add up to 100%.</p><p><span>Subscribers to&nbsp;</span><em><span>American Laundry News</span></em><span>&nbsp;e-mails are invited to take the industry survey anonymously online each quarter. All managers and administrators of institutional/OPL, cooperative, commercial and industrial laundries are encouraged to participate, as a greater number of responses will help to better define operator opinions and identify industry trends.</span></p>
+      
+      
+                
+
+      
+  
+
+                              
+              
+      <p class="question_comment"> <span>Have a question or comment?</span> <a href="mailto:mpoe@atmags.com">E-mail our editor Matt Poe at mpoe@atmags.com</a>.</p>
+   </article>
+  </section>
+  
+  
+  <section id="related-content">
+    <h2 class="section-name">Learn More</h2>
+    <h2 class="section-head">Content related to the topics in this article:</h2>
+    <div id="tags-on-this">
+      <small id="help-text">Click any button to filter by topic:</small>
+      <ul id="tags">
+          <li class="article-tag" data-filter=".your-views">Your Views</li>
+          <li class="article-tag" data-filter=".natural-disasters">natural disasters</li>
+          <li class="article-tag" data-filter=".disaster">disaster</li>
+          <li class="article-tag" data-filter=".disaster-planning">disaster planning</li>
+  
+  <li id="show-all-button" class="article-tag" data-filter="*">Show all</li>
+
+</ul>
+
+    </div>
+    <div id="more-with-tags">
+      <ul class="isotope" style="position: relative; height: 748.109px;">
+        <div class="isotope-sizer"></div>
+        <div class="gutter-sizer"></div>
+        
+  
+    
+                    
+<li class="isotope-item your-views survey year-over-year" style="position: absolute; left: 0%; top: 0px;">
+  <a href="/articles/laundry-managers-positive-about-2024-2025">
+    <img alt="" src="/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/1224aln-01_business_performance_2024.jpg?itok=TeiRsNe5">
+  </a>
+  <h3>
+    <a href="/articles/laundry-managers-positive-about-2024-2025"><span><span>Laundry Managers Positive About 2024 into 2025</span></span>
+</a>
+  </h3>
+</li>
+
+  
+                                      
+<li class="isotope-item childs-linen-service disaster disaster-planning flood daniels-equipment ecolab" style="position: absolute; left: 20.2492%; top: 0px;">
+  <a href="/articles/lessons-learned-overcoming-disasters-laundry-conclusion">
+    <img alt="" src="/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/childs_flood_cleanimg_3825_0.jpeg?itok=5y33NX0G">
+  </a>
+  <h3>
+    <a href="/articles/lessons-learned-overcoming-disasters-laundry-conclusion"><span><span>Lessons Learned: Overcoming Disasters in Laundry (Conclusion)</span></span>
+</a>
+  </h3>
+</li>
+
+  
+                          
+<li class="isotope-item childs-linen-service disaster disaster-planning healthcare-laundry" style="position: absolute; left: 40.4983%; top: 0px;">
+  <a href="/articles/lessons-learned-overcoming-disasters-laundry-part-2">
+    <img alt="" src="/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/overcoming_disasters_in_laundry_iss_28918_00302.jpg?itok=rU-nGZeU">
+  </a>
+  <h3>
+    <a href="/articles/lessons-learned-overcoming-disasters-laundry-part-2"><span><span>Lessons Learned: Overcoming Disasters in Laundry (Part 2)</span></span>
+</a>
+  </h3>
+</li>
+
+  
+                    
+<li class="isotope-item columnist-at-large disaster disaster-planning" style="position: absolute; left: 60.7475%; top: 0px;">
+  <a href="/articles/contingency-planning-key-navigating-adverse-conditions">
+    <img alt="" src="/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/contingency_planning_iss_4567_02815.jpg?itok=t8BXxw3j">
+  </a>
+  <h3>
+    <a href="/articles/contingency-planning-key-navigating-adverse-conditions"><span><span>Contingency Planning is Key to Navigating Adverse Conditions</span></span>
+</a>
+  </h3>
+</li>
+
+  
+                                
+<li class="isotope-item childs-linen-service disaster disaster-planning backup fire" style="position: absolute; left: 80.9966%; top: 0px;">
+  <a href="/articles/lessons-learned-overcoming-disasters-laundry-part-1">
+    <img alt="" src="/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/childs_fire_ceiling_img_3789.jpeg?itok=_0UKNzbm">
+  </a>
+  <h3>
+    <a href="/articles/lessons-learned-overcoming-disasters-laundry-part-1"><span><span>Lessons Learned: Overcoming Disasters in Laundry (Part 1)</span></span>
+</a>
+  </h3>
+</li>
+
+  
+                    
+<li class="isotope-item your-views survey election" style="position: absolute; left: 0%; top: 238.844px;">
+  <a href="/articles/decision-2024-laundry-managers-share-election-views">
+    <img alt="" src="/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/0624aln-01_ticket_do_you_support.jpg?itok=3oZobQ8t">
+  </a>
+  <h3>
+    <a href="/articles/decision-2024-laundry-managers-share-election-views"><span><span>Decision 2024: Laundry Managers Share Election Views</span></span>
+</a>
+  </h3>
+</li>
+
+  
+                    
+<li class="isotope-item your-views survey professional-development" style="position: absolute; left: 40.4983%; top: 242.797px;">
+  <a href="/articles/laundry-managers-consider-professional-development-very-important">
+    <img alt="" src="/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/0324aln-01_professional_development_opportunities.jpg?itok=MsINvfx5">
+  </a>
+  <h3>
+    <a href="/articles/laundry-managers-consider-professional-development-very-important"><span><span>Laundry Managers Consider Professional Development ‘Very Important’</span></span>
+</a>
+  </h3>
+</li>
+
+  
+                          
+<li class="isotope-item commercial-laundry your-views 2023 2024" style="position: absolute; left: 80.9966%; top: 268.453px;">
+  <a href="/articles/survey-laundry-operators-rate-2023-performance-above-average">
+    <img alt="" src="/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/1223aln-01_rate_2023_performance.jpg?itok=I9egIj4t">
+  </a>
+  <h3>
+    <a href="/articles/survey-laundry-operators-rate-2023-performance-above-average"><span><span>Survey: Laundry Operators Rate 2023 Performance Above Average</span></span>
+</a>
+  </h3>
+</li>
+
+  
+                          
+<li class="isotope-item commercial-laundry your-views survey automation" style="position: absolute; left: 60.7475%; top: 275.656px;">
+  <a href="/articles/survey-status-automation-laundry-operations">
+    <img alt="" src="/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/0923aln-01_laundry_operation_automation.jpg?itok=ykYgeJv5">
+  </a>
+  <h3>
+    <a href="/articles/survey-status-automation-laundry-operations"><span><span>Survey: Status of Automation in Laundry Operations</span></span>
+</a>
+  </h3>
+</li>
+
+  
+                    
+<li class="isotope-item commercial-laundry your-views safety" style="position: absolute; left: 20.2492%; top: 305.266px;">
+  <a href="/articles/survey-laundry-industry-working-maintain-safety">
+    <img alt="" src="/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/0623aln_yourviews-safety_education-training-r2.jpg?itok=pRaK07pb">
+  </a>
+  <h3>
+    <a href="/articles/survey-laundry-industry-working-maintain-safety"><span><span>Survey: Laundry Industry Working to Maintain Safety</span></span>
+</a>
+  </h3>
+</li>
+
+  
+                          
+<li class="isotope-item commercial-laundry your-views survey industry-improvement" style="position: absolute; left: 0%; top: 477.688px;">
+  <a href="/articles/survey-training-leads-list-needed-industry-improvements">
+    <img alt="" src="/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/industry_needs_improvement_6_horz._bars-0323aln.jpg?itok=xTLNQPbv">
+  </a>
+  <h3>
+    <a href="/articles/survey-training-leads-list-needed-industry-improvements"><span><span>Survey: Training Leads List of Needed Industry Improvements</span></span>
+</a>
+  </h3>
+</li>
+
+  
+                    
+<li class="isotope-item commercial-laundry your-views survey" style="position: absolute; left: 60.7475%; top: 524.375px;">
+  <a href="/articles/survey-2023-laundry-outlook-trending-positive">
+    <img alt="" src="/sites/default/files/styles/small_any_height_width_150/public/images/articles/main/laundry_outlook_for_2023_your_views_chart.jpg?itok=YBb3y8uD">
+  </a>
+  <h3>
+    <a href="/articles/survey-2023-laundry-outlook-trending-positive"><span><span>Survey: 2023 Laundry Outlook Trending Positive</span></span>
+</a>
+  </h3>
+</li>
+
+
+  
+  
+
+
+      </ul>
+      <div id="no-results" style="display:none;"><h3>Sorry. There are no more articles with this tag.</h3></div>
+    </div>
+  </section>
+
+  
+  
+
+  
+
+  <aside class="sidebar">
+      
+      <section class="advertisement mr medium-rectangle aln section-advertisement"><div id="div-gpt-ad-1367873989384-1" data-google-query-id="CJry3N_0uosDFVU-RAgd184x2g"><div id="google_ads_iframe_/6147019/ALN-Medium-Rectangle_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/6147019/ALN-Medium-Rectangle_0" name="google_ads_iframe_/6147019/ALN-Medium-Rectangle_0" title="3rd party ad content" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="7" style="border: 0px; vertical-align: bottom;"></iframe></div></div></section>
+    
+      <section id="wire-slider" class="wire-slider"><header><h2>From <i>the<b>Wire</b></i></h2><img alt="wire enews header" src="/sites/default/files/images/atm_logos/wire/aln.jpg"></header><div class="wire-item"><a class="item-image" href="/articles/relentless-improvement-professional-development "><img alt="wire-image" src="/sites/default/files/styles/enews/public/images/articles/main/ing_19073_02762.jpg?h=e5cebbb3&amp;itok=7566ovez"></a><a class="item-title" href="/articles/relentless-improvement-professional-development "><h2>Relentless Improvement: Professional Development</h2></a></div><div class="wire-item"><a class="item-image" href="/articles/a1-american-acquires-petra-1-promo-car-care "><img alt="wire-image" src="/sites/default/files/styles/enews/public/images/articles/main/a1_american-petra-promo-logos-r1.jpg?h=4b635ef8&amp;itok=jVAAopK-"></a><a class="item-title" href="/articles/a1-american-acquires-petra-1-promo-car-care "><h2>A1 American Acquires PetrA-1, Promo Car Care</h2></a></div><div class="wire-item"><a class="item-image" href="/articles/role-marketing-driving-growth-industrial-laundries "><img alt="wire-image" src="/sites/default/files/styles/enews/public/images/articles/main/marketing_iss_21734_08123.jpg?h=4ed2ddb1&amp;itok=2NByUNls"></a><a class="item-title" href="/articles/role-marketing-driving-growth-industrial-laundries "><h2>Role of Marketing in Driving Growth for Industrial Laundries</h2></a></div><div class="wire-item"><a class="item-image" href="/articles/evi-industries-acquire-haiges-machinery "><img alt="wire-image" src="/sites/default/files/styles/enews/public/images/articles/main/evi_and_haiges_logos.jpg?h=3e4c0a19&amp;itok=dluDpeVq"></a><a class="item-title" href="/articles/evi-industries-acquire-haiges-machinery "><h2>EVI Industries to Acquire Haiges Machinery</h2></a></div></section>
+  
+  </aside>
+
+
+
+</main>
+
+  
+
+
+    
+    
+  <footer role="contentinfo">
+    <div><div class="panel-pane pane-block pane-menu-menu-footer-company company"><ul><li><a href="/about" title="">About</a></li><li><a href="/leadership" title="">Leadership</a></li></ul></div><div class="panel-pane pane-block pane-menu-menu-footer-contact contact"><ul><li><a href="/media-kit-request" title="">Advertise</a></li><li><a href="/contact" title="">Contact Us</a></li><li><a href="/editorial-opportunities" title="">Editorial Opportunities</a></li></ul></div><div class="panel-pane pane-block pane-menu-menu-footer-subscribe-aln subscribe"><ul><li><a href="https://americantrade.dragonforms.com/loading.do?omedasite=ALN_landing" title="">Subscriptions</a></li><li><a href="/privacy-policy" title="">Privacy Policy</a></li><li class="expanded"><span title="" class="nolink" tabindex="0">Visit our sister publications:</span><ul><li><a href="https://americancoinop.com" title="">American Coin-Op</a></li><li><a href="https://americandrycleaner.com" title="">American Drycleaner</a></li></ul></li></ul></div></div>
+  </footer>
+
+
+    
+    <script src="/modules/contrib/blazy/js/polyfill/blazy.polyfill.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/polyfill/blazy.classlist.min.js?spqbhn"></script><iframe allow="join-ad-interest-group" data-tagging-id="G-9QN02F2F8T" data-load-time="1739252576027" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-9QN02F2F8T&amp;gacid=300762451.1739252576&amp;gtm=45be5280v9166285352z89169461639za200zb9169461639&amp;dma=0&amp;gcd=13l3l3l3l1l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=101509157~102067808~102482432~102539968~102558064~102587591~102605417&amp;z=577567893" style="display: none; visibility: hidden;"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-10818542985" data-load-time="1739252576032" height="0" width="0" src="https://td.doubleclick.net/td/rul/10818542985?random=1739252576028&amp;cv=11&amp;fst=1739252576028&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5280v9166285352z89169461639za200zb9169461639&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=101509157~102067808~102482432~102539968~102558064~102587591~102605417&amp;u_w=1280&amp;u_h=720&amp;url=https%3A%2F%2Famericanlaundrynews.com%2Farticles%2Findustry-moderately-prepared-natural-disasters&amp;ref=https%3A%2F%2Fnews.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Industry%20%E2%80%98Moderately%20Prepared%E2%80%99%20for%20Natural%20Disasters%20%7C%20American%20Laundry%20News&amp;npa=0&amp;pscdl=noapi&amp;auid=986591838.1739252576&amp;uaa=arm&amp;uab=64&amp;uafvl=HeadlessChrome%3B131.0.6778.33%7CChromium%3B131.0.6778.33%7CNot_A%2520Brand%3B24.0.0.0&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=15.3.0&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config" style="display: none; visibility: hidden;"></iframe><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><iframe name="google_ads_top_frame" id="google_ads_top_frame" style="display: none; position: fixed; left: -999px; top: -999px; width: 0px; height: 0px;"></iframe>
+<script src="/modules/contrib/blazy/js/polyfill/blazy.promise.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/polyfill/blazy.raf.min.js?spqbhn"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupal.js?v=10.4.1"></script>
+<script src="/core/misc/drupal.init.js?v=10.4.1"></script>
+<script src="/core/misc/debounce.js?v=10.4.1"></script>
+<script src="/modules/contrib/blazy/js/dblazy.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.once.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.sanitizer.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.dom.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/base/blazy.base.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.dataset.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.viewport.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.xlazy.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.observer.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.loading.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/polyfill/blazy.webp.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/base/blazy.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/base/io/bio.min.js?spqbhn"></script>
+<script src="/libraries/slick/slick/slick.min.js?v=1.x"></script>
+<script src="/modules/contrib/blazy/js/base/io/bio.media.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/base/blazy.drupal.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/blazy.load.min.js?spqbhn"></script>
+<script src="/modules/contrib/blazy/js/blazy.compat.min.js?spqbhn"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0"></script>
+<script src="/themes/custom/ATMags/js/article.js?v=10.4.1"></script>
+<script src="/themes/custom/ATMags/js/related-content.js?spqbhn"></script>
+<script src="https://static.addtoany.com/menu/page.js" defer=""></script>
+<script src="/modules/contrib/addtoany/js/addtoany.js?v=10.4.1"></script>
+<script src="/modules/custom/atm_from_the_wire/js/from-the-wire.js?spqbhn"></script>
+<script src="/modules/custom/atm_header/js/burger.js?spqbhn"></script>
+<script src="/core/misc/progress.js?v=10.4.1"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/announce.js?v=10.4.1"></script>
+<script src="/core/misc/message.js?v=10.4.1"></script>
+<script src="/core/misc/ajax.js?v=10.4.1"></script>
+<script src="/themes/contrib/stable/js/ajax.js?v=10.4.1"></script>
+<script src="/modules/contrib/blazy/js/base/io/bio.ajax.min.js?spqbhn"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?spqbhn"></script>
+<script src="/modules/contrib/slick/js/slick.load.min.js?v=10.4.1"></script>
+<script src="/core/modules/statistics/statistics.js?v=10.4.1"></script>
+<script src="/modules/custom/themag_layouts/assets/js/sticky-kit.min.js?v=1.1.3"></script>
+<script src="/modules/custom/themag_layouts/assets/js/sticky-columns.js?v=10.4.1"></script>
+<script src="/core/misc/jquery.form.js?v=4.3.0"></script>
+<script src="/core/modules/views/js/base.js?v=10.4.1"></script>
+<script src="/core/modules/views/js/ajax_view.js?v=10.4.1"></script>
+
+  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'910204a58a555301',t:'MTczOTI1MjU3My4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;910204a58a555301&quot;,&quot;version&quot;:&quot;2025.1.0&quot;,&quot;r&quot;:1,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;7680c01cc219438cbaea327bbbd7d99e&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+
+
+
+<div style="position: static;"><div class="a2a_overlay" id="a2a_overlay"></div><div id="a2a_modal" class="a2a_modal a2a_hide" role="dialog" tabindex="-1" aria-label=""><div class="a2a_modal_body a2a_menu a2a_hide" id="a2a_copy_link"><span id="a2a_copy_link_icon" class="a2a_svg a2a_s_link a2a_logo_color"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="#FFF" d="M7.591 21.177c0-.36.126-.665.377-.917l2.804-2.804a1.235 1.235 0 0 1 .913-.378c.377 0 .7.144.97.43-.026.028-.11.11-.255.25-.144.14-.24.236-.29.29a2.82 2.82 0 0 0-.2.256 1.056 1.056 0 0 0-.177.344 1.43 1.43 0 0 0-.046.37c0 .36.126.666.377.918a1.25 1.25 0 0 0 .918.377c.126.001.251-.015.373-.047.125-.037.242-.096.345-.175.09-.06.176-.127.256-.2.1-.094.196-.19.29-.29.14-.142.223-.23.25-.254.297.28.445.607.445.984 0 .36-.126.664-.377.916l-2.778 2.79a1.242 1.242 0 0 1-.917.364c-.36 0-.665-.118-.917-.35l-1.982-1.97a1.223 1.223 0 0 1-.378-.9l-.001-.004Zm9.477-9.504c0-.36.126-.665.377-.917l2.777-2.79a1.235 1.235 0 0 1 .913-.378c.35 0 .656.12.917.364l1.984 1.968c.254.252.38.553.38.903 0 .36-.126.665-.38.917l-2.802 2.804a1.238 1.238 0 0 1-.916.364c-.377 0-.7-.14-.97-.418.026-.027.11-.11.255-.25a7.5 7.5 0 0 0 .29-.29c.072-.08.139-.166.2-.255.08-.103.14-.22.176-.344.032-.12.048-.245.047-.37 0-.36-.126-.662-.377-.914a1.247 1.247 0 0 0-.917-.377c-.136 0-.26.015-.37.046-.114.03-.23.09-.346.175a3.868 3.868 0 0 0-.256.2c-.054.05-.15.148-.29.29-.14.146-.222.23-.25.258-.294-.278-.442-.606-.442-.983v-.003ZM5.003 21.177c0 1.078.382 1.99 1.146 2.736l1.982 1.968c.745.75 1.658 1.12 2.736 1.12 1.087 0 2.004-.38 2.75-1.143l2.777-2.79c.75-.747 1.12-1.66 1.12-2.737 0-1.106-.392-2.046-1.183-2.818l1.186-1.185c.774.79 1.708 1.186 2.805 1.186 1.078 0 1.995-.376 2.75-1.13l2.803-2.81c.751-.754 1.128-1.671 1.128-2.748 0-1.08-.382-1.993-1.146-2.738L23.875 6.12C23.13 5.372 22.218 5 21.139 5c-1.087 0-2.004.382-2.75 1.146l-2.777 2.79c-.75.747-1.12 1.66-1.12 2.737 0 1.105.392 2.045 1.183 2.817l-1.186 1.186c-.774-.79-1.708-1.186-2.805-1.186-1.078 0-1.995.377-2.75 1.132L6.13 18.426c-.754.755-1.13 1.672-1.13 2.75l.003.001Z"></path></svg></span><input id="a2a_copy_link_text" type="text" title="Copy link" readonly=""><div id="a2a_copy_link_copied">✓</div></div><div class="a2a_modal_body a2a_menu a2a_thanks a2a_hide" id="a2a_thanks"><div class="a2a_localize" data-a2a-localize="inner,ThanksForSharing">Thanks for sharing!</div></div></div><div class="a2a_menu a2a_full a2a_localize" id="a2apage_full" role="dialog" tabindex="-1" aria-label="Share" data-a2a-localize="title,Share"><div class="a2a_full_header"><div id="a2apage_find_container" class="a2a_menu_find_container"><input id="a2apage_find" class="a2a_menu_find a2a_localize" type="text" autocomplete="off" title="Find any service" data-a2a-localize="title,FindAnyServiceToAddTo"><span id="a2apage_find_icon" class="a2a_svg a2a_s_find"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="#CCC" d="M19.7 18.2l-4.5-4.5c.7-1.1 1.2-2.3 1.2-3.6 0-3.5-2.8-6.3-6.3-6.3s-6.3 2.8-6.3 6.3 2.8 6.3 6.3 6.3c1.4 0 2.6-.4 3.6-1.2l4.5 4.5c.6.6 1.3.7 1.7.2.5-.4.4-1.1-.2-1.7zm-9.6-3.6c-2.5 0-4.5-2.1-4.5-4.5 0-2.5 2.1-4.5 4.5-4.5 2.5 0 4.5 2.1 4.5 4.5s-2 4.5-4.5 4.5z"></path></svg></span></div></div><div class="a2a_full_services" id="a2apage_full_services" role="presentation"></div><div class="a2a_full_footer"><a href="https://www.addtoany.com" title="Share Buttons" rel="noopener" target="_blank"><span class="a2a_svg a2a_s__default a2a_s_a2a a2a_logo_color"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#FFF"><path d="M14 7h4v18h-4z"></path><path d="M7 14h18v4H7z"></path></g></svg></span>AddToAny</a></div></div><div id="a2apage_dropdown" class="a2a_menu a2a_mini a2a_localize a2a_hide" tabindex="-1" aria-label="Share" data-a2a-localize="label,Share"><div class="a2a_mini_services" id="a2apage_mini_services"></div><div id="a2apage_cols_container" class="a2a_cols_container"><div class="a2a_col1" id="a2apage_col1"></div><div id="a2apage_2_col1" class="a2a_hide"></div><div class="a2a_clear"></div></div><div class="a2apage_wide a2a_wide"><a href="#addtoany" id="a2apage_show_more_less" class="a2a_more a2a_localize" title="Show all" data-a2a-localize="title,ShowAll"><span class="a2a_svg a2a_s__default a2a_s_a2a a2a_logo_color"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#FFF"><path d="M14 7h4v18h-4z"></path><path d="M7 14h18v4H7z"></path></g></svg></span><span class="a2a_localize" data-a2a-localize="inner,More">More…</span></a></div></div><div style="height: 1px; width: 1px; position: absolute; z-index: 100000; top: 0px; visibility: hidden;"><iframe id="a2a_sm_ifr" title="AddToAny Utility Frame" aria-hidden="true" src="https://static.addtoany.com/menu/sm.25.html#type=core&amp;event=load" style="height: 1px; width: 1px; border: 0px; left: 0px; top: 0px; position: absolute; z-index: 100000; display: none;"></iframe></div></div><div id="drupal-live-announce" class="visually-hidden" aria-live="polite" aria-busy="false"></div></body><iframe name="goog_topics_frame" src="https://securepubads.g.doubleclick.net/static/topics/topics_frame.html" style="display: none;"></iframe></html>

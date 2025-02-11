@@ -1,0 +1,24 @@
+Content-Length: 0
+Content-Type: application/binary
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Tue, 11 Feb 2025 05:42:43 GMT
+Location: https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUduVUxwcHVicjV2VHI4RFdmME9uZksyQ0l4dWd2XzVvcVZDb2gyajgyMmRfV1QzV050anJWT29TMWlfXzFZOW9GYkdpb0RWTUR1ZHNwZFFPa18tMXU4clpkZktSRUN1V0M3XzBnSGlPMFpOVEl0M1FrZmFyZFRfcElEa1J5cFpVdTE0YXU4WXByN1YtZTBMSF9jX1hhbENONldPZ2I4VUVPRUlzSXZONw?oc=5&hl=en-US&gl=US&ceid=US:en
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/DotsSplashUi/cspreport
+Content-Security-Policy: script-src 'report-sample' 'nonce-OANJvmGLnWBlheS7966QZQ' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/DotsSplashUi/cspreport;worker-src 'self'
+Content-Security-Policy: script-src 'unsafe-inline' 'unsafe-eval' blob: data: 'self' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.googletagmanager.com https://www.gstatic.com https://www.google-analytics.com https://support.google.com/inapp/ https://www.google.com/tools/feedback/ https://www.gstatic.com/inproduct_help/ https://www.gstatic.com/support/content/ https://youtube.com https://www.youtube.com https://youtube.googleapis.com https://*.ytimg.com https://ajax.googleapis.com https://www.googleapis.com/appsmarket/v2/installedApps/;report-uri /_/DotsSplashUi/cspreport/allowlist
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+Cross-Origin-Resource-Policy: same-site
+Accept-Ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Cross-Origin-Opener-Policy: same-origin-allow-popups
+Server: ESF
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=521=TLbHZ2tXUDWaEoDfmw9gE8Yk0oPp0WUgspI45XCj8SdFWqtr6t-JEP_nv0DImUhRjvRaF5NHJO5d7D3LSTco7rMUBzGgytoVKFo7xHh2eF9d5G9jIEnmoIjFv3f4dsl4dojlEr1I7xuLP9IsDQ2mrKKEygNHLWsnwrxY_a8DHq5IG2bVsRppqaqABnqce4uI; expires=Wed, 13-Aug-2025 05:42:43 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none
+Set-Cookie: GN_PREF=W251bGwsIkNBSVNEQWpUeHF1OUJoRFl1c21BQVEiXQ__; Expires=Tue, 12-Aug-2025 17:42:43 GMT; Path=/; Secure
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

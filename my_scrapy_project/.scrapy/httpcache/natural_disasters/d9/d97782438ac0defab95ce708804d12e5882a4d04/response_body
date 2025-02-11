@@ -1,0 +1,840 @@
+<!DOCTYPE html><html class="js no-applicationcache audio audio-ogg audio-mp3 audio-opus audio-wav no-audio-m4a canvas canvastext geolocation hashchange history inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color postmessage postmessage-structuredclones svg video no-video-ogg no-video-h264 no-video-h265 video-webm video-vp9 no-video-hls no-video-av1 webgl websockets cssanimations backgroundsize borderimage borderradius boxshadow csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox flexboxlegacy fontface generatedcontent cssgradients hsla multiplebgs opacity cssreflections rgba textshadow csstransforms supports csstransforms3d csstransitions localstorage sessionstorage websqldatabase svgclippaths inlinesvg smil webworkers indexeddb tablesaw-enhanced no-os-high-contrast breakpoint-sc-size-1 indexeddb-deletedatabase" lang="en-US"><!--<![endif]--><head>
+	<!-- Published by OpenCities, 1.34.0.0 -->
+
+    
+        
+    
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="theme-color" content="#556D31">
+    <title>Emergency Preparedness – City of Palo Alto, CA</title>
+	<meta name="generator" content="OpenCities - https://granicus.com/product/opencities">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="description" content="Learn what steps you should be taking to get prepared for the range of hazards you face.">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness">
+    <meta property="og:title" content="Emergency Preparedness">
+    <meta property="og:description" content="Learn what steps you should be taking to get prepared for the range of hazards you face.">
+    <meta property="og:image" content="https://www.cityofpaloalto.org/files/ocwebsite/Public/HeroImage/City%20of%20Palo%20Alto%20Logo%201152x260%20for%20Loom.png?w=1200">
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:title" content="Emergency Preparedness">
+    <meta property="twitter:description" content="Learn what steps you should be taking to get prepared for the range of hazards you face.">
+    <meta property="twitter:image" content="https://www.cityofpaloalto.org/files/ocwebsite/Public/HeroImage/City%20of%20Palo%20Alto%20Logo%201152x260%20for%20Loom.png?w=1080">
+    <meta name="id" content="5699b0b4-d347-4aca-a97f-b327ae0a3414">
+    <link rel="canonical" href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/files/ocfavicon/Public/apple-touch-icon.png?V=637249801650403408">
+<link rel="icon" type="image/png" sizes="32x32" href="/files/ocfavicon/Public/favicon-32x32.png?V=637249801650403408">
+<link rel="icon" type="image/png" sizes="16x16" href="/files/ocfavicon/Public/favicon-16x16.png?V=637249801650403408">
+<link rel="manifest" href="/files/ocfavicon/Public/site.webmanifest?V=637249801650403408">
+<link rel="shortcut icon" href="/files/ocfavicon/Public/favicon.ico?V=637249801650403408">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-config" content="/files/ocfavicon/Public/browserconfig.xml?V=637249801650403408">
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-11258407109&amp;l=dataLayer&amp;cx=c&amp;gtm=457e5280za200"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-G4NQGK6D25&amp;l=dataLayer&amp;cx=c&amp;gtm=457e5280za200"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="//siteimproveanalytics.com/js/siteanalyze_15203522.js"></script><script src="https://connect.facebook.net/signals/config/285107019434181?v=2.9.182&amp;r=stable&amp;domain=www.cityofpaloalto.org&amp;hme=b8122d5d96cd6f542162ba4f497489972d1ebe228d24c39d34f560e30ae932ce&amp;ex_m=70%2C122%2C107%2C111%2C61%2C4%2C100%2C69%2C16%2C97%2C89%2C51%2C54%2C173%2C176%2C188%2C184%2C185%2C187%2C29%2C101%2C53%2C77%2C186%2C168%2C171%2C181%2C182%2C189%2C132%2C41%2C191%2C192%2C34%2C144%2C15%2C50%2C197%2C196%2C134%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C93%2C17%2C14%2C96%2C92%2C91%2C108%2C52%2C110%2C39%2C109%2C30%2C94%2C26%2C169%2C172%2C141%2C86%2C56%2C84%2C33%2C73%2C0%2C95%2C32%2C28%2C82%2C83%2C88%2C47%2C46%2C87%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C102%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C104%2C103%2C105%2C98%2C10%2C20%2C3%2C38%2C74%2C19%2C5%2C90%2C81%2C44%2C35%2C85%2C2%2C36%2C63%2C42%2C106%2C45%2C79%2C68%2C112%2C60%2C59%2C31%2C99%2C58%2C55%2C49%2C78%2C72%2C24%2C113" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, "js");
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&amp;display=swap" rel="stylesheet">
+    
+        
+            <script type="text/javascript">
+                window.__oc_flags_ImprovedBreakpointEventHandling = true;
+            </script>
+            
+        
+    
+    
+    
+        <script type="text/javascript">
+            var __metaQueryBreakpoints = {
+                'sc-size-4': '(max-width: 480px)',
+                'sc-size-3': '(min-width: 480px) and (max-width: 768px)',
+                'sc-size-2': '(min-width: 768px) and (max-width: 992px)',
+                'sc-size-1': '(min-width: 992px)'
+            }
+
+            var __ocSizePoints = [
+                { min: 0, name: 'sc-size-4' },
+                { min: 480, name: 'sc-size-3' },
+                { min: 768, name: 'sc-size-2' },
+                { min: 992, name: 'sc-size-1' }
+            ];
+
+        </script>
+    
+
+    <!-- Framework Section -->
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/files/templates/00000000-0000-0000-0000-000000000000/3a27322b-e85c-4eda-9bae-f4a488f1e558/v/436/jquery-1.12.4.min.js?seamlessts=638699931765984027" ><\/script>')</script>
+    
+        <script src="https://maps.googleapis.com/maps/api/js?v=quarterly&amp;key=AIzaSyAyKe77LdQ4tPc9Pl_QY78o3_g94OtDLlg&amp;libraries=geometry,places,marker,geocoding"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/58/11a/geocoder.js"></script>
+    
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/3a27322b-e85c-4eda-9bae-f4a488f1e558/v/436/modernizr.custom.710f3bf.js?seamlessts=638699931765984027" defer=""></script>
+    
+    <!--// End Framework Section -->
+    <!-- OpenCities Section -->
+    <script>
+        var OpenCities = OpenCities || {};
+        OpenCities.Paths = {
+            SiteTemplate: '/files/templates/00000000-0000-0000-0000-000000000000/3a27322b-e85c-4eda-9bae-f4a488f1e558/v/436/',
+            ThemePath: '/files/templates/00000000-0000-0000-0000-000000000000/3a27322b-e85c-4eda-9bae-f4a488f1e558/v/436/'
+        };
+    </script>
+    <script src="/ocapi/5699b0b4-d347-4aca-a97f-b327ae0a3414/en-US/websitesettings.js"></script>
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/3a27322b-e85c-4eda-9bae-f4a488f1e558/v/436/oc_head.js?applied=20231109123246"></script>
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/3a27322b-e85c-4eda-9bae-f4a488f1e558/v/436/oc_grid.css~oc_grid_s1.css~oc_style.css~oc_wizard_style.css~oc_main.css~oc_forms.css~oc_wizard.css~oc_wizard_menu.css~oc_main_s1.css~oc_wizard_s1.css~oc_wizard_menu_s1.css~OcScriptCombine_Minify0?uniqueid=20231109123246" rel="stylesheet" type="text/css">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/3a27322b-e85c-4eda-9bae-f4a488f1e558/v/436/client_style.css~client.css~client_menu.css~client_s1.css~client_menu_s1.css~client_forms.css~OcScriptCombine_Minify0?uniqueid=20231109123246" rel="stylesheet" type="text/css">
+    <script>
+(function (BackgroundSettings, $, undefined) {
+    BackgroundSettings.initialise = function () {
+        this.Application = {"CSSSelector":".background-container","EnableFade":false};
+    };
+} (OpenCities.BackgroundSettings = OpenCities.BackgroundSettings || {}, jQuery));
+OpenCities.BackgroundSettings.initialise();
+</script>
+    
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/3a27322b-e85c-4eda-9bae-f4a488f1e558/v/436/oc_print.css~client_print.css~OcScriptCombine_Minify0?uniqueid=20231109123246" rel="stylesheet" type="text/css" media="print">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<script src="/files/oc-templates/00000000-0000-0000-0000-000000000000/3a27322b-e85c-4eda-9bae-f4a488f1e558/v/436/external_plugins.js~oc_form_helper.js~oc_main.js~plugins.js~oc_main_init.js~OcScriptCombine_Minify0?uniqueid=20231109123246" defer="true"></script>
+    <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '285107019434181');
+fbq('track', 'PageView');
+</script>
+<noscript><img alt="" height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=285107019434181&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<meta name="google-site-verification" content="8oMpwbAbObTlCwBjD_fd-LCTvec7wbCtbcodS6bRfhs">
+    
+
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DYTCK-JM9C8-ED4EP-C3GGK-Z575H",function(){function e(){if(!r){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.appendChild(e),r=!0}}function t(e){r=!0;var n,t,a,i,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",i=(a.frameElement||a).style,i.width=0,i.height=0,i.border=0,i.display="none",o.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void 0;",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url=n+"DYTCK-JM9C8-ED4EP-C3GGK-Z575H";var i=document.currentScript||document.getElementsByTagName("script")[0],o=i.parentNode,r=!1,d=document.createElement("link");if(d.relList&&"function"==typeof d.relList.supports&&d.relList.supports("preload")&&"as"in d)window.BOOMR.snippetMethod="p",d.href=window.BOOMR.url,d.rel="preload",d.as="script",d.addEventListener("load",e),d.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!r)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.appendChild(d);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="eyagyukh6azvajqacqcyiaaaa5t2vzdb-f-5a3c00150-clienttons-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1700640","ak.ai":parseInt("1075935",10),"ak.ol":"0","ak.cr":29,"ak.ipv":6,"ak.proto":"h2","ak.rid":"3378ae86","ak.r":46469,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"2600:6c51:47f0:3350::","ak.cport":58619,"ak.gh":"23.201.193.137","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1739252833","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==C4kEqY0RrfD1uD7zJR8xNcTkwJqi7l1bSaDbFHMQbwDmTog7/G9YeEZCDbte71Fsi1Hh94PLO6P3U17udovFFU07V32sQfV9UaH8lL8zpg9FXOgCCgO+l13IU+C+i+NRR6J4Qxd2ysu4d/wEJqez9VqZuzXADrIM8dJihGBlMtNiUil4nkGsHdeDlwfbGjOq5kZ3XIVPGQM9R9NtaasdVIB6SA6noD1rS7nvxwkjnf4+Q1CS7NBaHVtXUSXaLEkPL+QnrVKZs0l1k1JI/nhNHWip5Anq4e70wH9KqoR6rs3DLUo4KYm58VelTH4EmVHt6htbw5sqXnxGsBqYEJpyB83mLqEVbZL5kGRhs3E3M02qkM9DodZ1dKGMRfRdGaLJ2Uo8fU31+uSkqrcD4Rx8IRUYrWfZTjqmpIx2XzUU7hg=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><link href="https://s.go-mpulse.net/boomerang/DYTCK-JM9C8-ED4EP-C3GGK-Z575H" rel="preload" as="script"><script id="boomr-scr-as" src="https://s.go-mpulse.net/boomerang/DYTCK-JM9C8-ED4EP-C3GGK-Z575H" async=""></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11258407109/?random=1739252834798&amp;cv=11&amp;fst=1739252834798&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5280v9165911377za200&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=102015664~102067808~102482433~102539968~102558064~102587591~102605417&amp;u_w=1280&amp;u_h=720&amp;url=https%3A%2F%2Fwww.cityofpaloalto.org%2FDepartments%2FEmergency-Services%2FEmergency-Preparedness&amp;ref=https%3A%2F%2Fnews.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Emergency%20Preparedness%20%E2%80%93%20City%20of%20Palo%20Alto%2C%20CA&amp;npa=0&amp;pscdl=noapi&amp;auid=1581005679.1739252835&amp;uaa=arm&amp;uab=64&amp;uafvl=HeadlessChrome%3B131.0.6778.33%7CChromium%3B131.0.6778.33%7CNot_A%2520Brand%3B24.0.0.0&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=15.3.0&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script></head>
+<body class="body layout-modern  site-search-always-visble  content-type-oc-general content-template-oc-2-column-without-image group-template-oc-2-column-with-default-header page-name-emergency-preparedness page-sequence-1 page-depth-3 page-section-5 website-type-primary device-desktop featured-site-section" id="body-top"><div id="skip-to-content-container">
+        <a href="#main-content" class="visuallyhidden focusable" id="skip-to-content-link">Skip to main content</a>
+    </div>
+    <form name="mainForm" method="post" action="/Departments/Emergency-Services/Emergency-Preparedness" id="mainForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__SEAMLESSVIEWSTATE" id="__SEAMLESSVIEWSTATE" value="H4sIAAAAAAAEAAHACz/0JyY4jyIXD7nizOsbjg/gJgbCJpcpH+fCtphV96Xh/UMZcVsXeQi/rqjvxkHpT5D6++FG+joqS/DYmozUfihal5joM17fy5xnPNQ0udeIrVCwZ97puDKKCtCQjLLaPcmWfFLMi/DuaifVCLKDwcfzBaAgm89XcaTTTEZ8pnHIjhPsFh++sfobZBpy1LgGuVC5WfBB4Y/Wh/fYeyv22JsbJlY4YJNol39IG9c8FQHMVVL61vtK29m3UPdZUbA+7IcQuo5G4nttrFk04sLhKCA2s9xFZoax3XJyfhpp3hx4w6QwWi9E8bcwYg0FUpznsvq8hr6rQ51U3r38Kf1Idge/A0ftD0y3FJKiSN9oi51/OKr95M+tKGwgx6rwtIwo5/lOR6+fZoLnNHqj7vIiSKOuDefM91OvOQC04j3PahWLExxse4rXsFGJbOnLJLWWmB2/YrzF2evYpL7AX3vGTjO3+7QfYX6c8vmbFrJajb3iYZsIVuPu16UtRxh4NKfFp7iP4oLY8t3mR1Ocd5bHmsJfwa7r+iZpy/OQr1rlLIGwOJJAVF0Kvbiwdcjlpsjm/VO3bEa+xpF2NKh2Oh+0c8hi+PvmMDwfEC1ANGBhbFaaf7syOue0pSGyhmNfSTdh35hcsB2EX3r/qLGoa3fPVnubpb+LOjYpZHmLeH6Wl/DVvpXXRa6pUHT3FxCP7Fwcx8bJFxfbzjBp4GIOmJi0Ip23Mp8ZJxnLV5JSu7uprQ5Ds0rgBWPRFw7gkpbvntoU2//DvvWmt+0QiUBPy4QIC9xu4M3mQoGF5e+C8I+/aGfbdN+KRxMM5BuSCUjS27FE2wKUNSygitRuUOSvn8BW8V8OIwDGSSL9Dc+RzI0Tx2F60FaOO3kC3rsWNNIy6E73gyXIMkZ0Bb+JJqYt0/C5NExl3PUuuTPQKUJNO/bdzdgBrNrvlzOF1DSfa88Hn2hS51oD0r8VomD/KkJooQkrPF6gRmSGPMbIkRsuQby7ICzPTPkdqFahQBuid9aDIyMtWptn4P+rn1Y3g7e3UDo5UXXBXcTVOW2uCbgz4zqRfljTi/lO93Y8yf3xWNoR9IxAlI+6xHMMeQ9jtjV/jx6BmLqp/7qSx84jOcwtNr8X5ckymnHRs66PFZxV8p53U2MxK5wtskl7tfzz2by02PacungGSkKz0TJjhUzse6jfyPcVvmUjUspzmQ/ymMduYKIpUZrAZJpGtvwLwF1pjbJFb+dzqSvzN9GQ/Qim/pGNl3zCq6NSV9RljpmWBdta96cvrN5hHKb09B3yURlh4MIXAdTLiyoqZcnXLr+VhqdzL6w4Qsd6s1EExh6t0vnldGdzh/gXmhd7c8wAzK0ptU71bDhfB0QK1nq1Rd1sBJCBYX33gmOXgySFs7Tjxtyr5lVRih6gP1K/dU854IY5lLbe/+u3ZHm3QKIcmDvn5psgEezfA3G8NRKAUNXSmpZTJcGnP7dQtGoE23u8Coh3Lm9oksrZn+uh5QsyhI42VgxV5MqOo4bNhkd4VtQtOs+/qyIpGeMbN1N9Bq5k6+XuRR8yJs6oGGvK7/HWfpQQWMelqurST4vhvWisy+GftpOp86YasF6h/n07E8022CvlMOPIIWAi86X56yx/U3Loi0jlJlVG2M/hh++wgwf/VPaeUGsnasMu96obDmBMYiVpTd3YQ1YjkcPs4VIKuRyzYc49CpTGZmE6ZuSJGdjzLdwFqMGgFMkIPSos6UKTOFY2Rq806ENLJXo6WGjE0n54qt6kFIN1zS8rlyOH9ghWBRuAFr09u4vojLrgZq3FaHJqg4j4wznirqDtiMeMUtFGBllesQD10fAYvzL8LCelChIZ1If0WAbL/OsM4mHroattqHV2TKp89UAm8sBfoUUV3ypHI1f09afgyyP6Zm8M07xelwxMrCGq7Hzf/rdKd7uUGA3hd6+aH2oSScPfwgzuLjwq0PabJtIF8QzX5Z3Gf/3CulXsJpIFVALDAVBpbwnOlXC4gG16x3X+gkPTBC1htxxGCQLzvCc+hmnDDYHrkFtQkKecsCbsXJTVDvViZgo1Gd2d0oqJH/dpfuSKpOFW6RXRBbzWc3AlYPbaLsllwLmfYvm6bq62fO6ZhgxOu5QsQmzkSeYfk/sd3PvxAG4l5GMEVpoHp5bNZ8mApD6T4YGWqrkNTHnNZizFC9fH49mlHydM97etbM+OlQ6E7ml0DplSBXpCMZl0OuTgaCyUcXVoDDf72gp34AQo1AxWiGjUlEgR5vx/S0VEXuycnkaAMrHH0J5QWk/rDmAlypBUluNXJwhk3ZwqHTPnQTV9jKUGoCzxnv9gM/96nkL8rdFnhFspDP7aOJXolQ6deUI38sr+dqJj9DrruXw/PpMWzhy6b+UsjciI5V0KdUbAAxEps1qN50luBrB7h0a0sko+X/107q5SfT3IyARJoAjtMdYAxs7dOPNTcFzQ3d4RC/ZSl19o7FCdPnd+aw5unFKQzia2GFSp2Ho+DpHdgI1cRmaHPL/qib2W6EfVdSnAuq6z7mg6QxCHxPh2JpZXhMJ8MYrlaLHIXbuYu2wCqMN1rj4sBCIQ4+tMVkObjR2QGgDhER8uv0NU68z4GEac0r61+A3rzkEdBnMdy2NMVGOQe8R5glMGQuw03ASZUcHOhkVTjYbmBPiQI32tbqB2S17siAkbLo3gH/w/nNxCJmb7lYH7Zbx0rPzVTR1hEeOTnfzSS9LUeFV00WQQ1lWw9auF9Okp3D988pdERREtFrgzD35EqqBt54QlnvECZwDCH998R64KXyPVopsst14ahdZTbrUUxeka4SaqJVOTZvyGbfXCeVzrgnQ9gA3dgznnixz5PNAMuUtMLBTnDW19omoLcHJb0w5Q3qYPYt/MWkqEwDuxvnSPG5IrcfaNED3TjOmdMmtfbsOCbQaMoA/+6JBA/SGKUf47x4BQUyH7QAjgemxkcuCj//U94n6bOjUVPxLssiRxZ01BGUvPVt2Nvy7sQFimamArn/y7CROuJIpj+m6FrpxpSsdJ7dwauHxLjkgXiVr8f5GSy7EHu81BlX8tmbvZ381jClcIM0OCq3+UbUdqyArV7sVxQZKV47aBXoc+r7mVxIzi3+cPhig32m6O7xqzqusWsfJPhbU9eDrXb+M26G+ggv1GKKSJ2ku9hpck33zwZaUEVzYTGkKik7sisqSsVNifxC2xpmJ8gSAgGunyf9EQao4gyC91uPfI3qIBuKu0DEBPpB2ubadU7zZzXR7Itd/jHKMAj1ICmOYJkzIGK8XP8oVU3lZvRTEdIItq4jY2+UQoNjh+ms1MbsZiVFTBY9DPR2MIYmvnSG09oYpzh3YsjVmzAtDfboqKJu9HisGy+yoS+Z3GC+MEpOaeN1lAzAAsoeGj9WYb4TWkqHaVSAB3qSAg6dUV4SipY5tp6pb42tZbKFZzOHwSOQt/XM8EzYcpTHQLHXp8DVpPc7NVHW30Ieu9qos+B1QB++jeJnyUfFHaTRpqDaLntH6SbcPYmCMgSzF7/b3f30c65Mv6d1TtJxdA2uZORIrPXz6JqzdiEW1KVfNQa7W973xY5Mf2u+Cw/RoHKXv8BOMfqwTB4sNvdB+wJ3Q1LRnq287CJaICXindLZhNJmRrUP9nyjNZmzBaI4Bfbf1Bsq9n2Yweo/8NzNBg41nbvMEqZWgH3+KnLsoErytkWd2EGXcJpxLwyzDn/EQyGQxtehNmY/Zyrw/r48r9LPGLexhFJdXX8Ho2N875E4tm5lOH25ZqwFs4qmz3XOlL7xFAxhTqkcUJ1JxVneN2NPM5mW8xdJu/2goXWZMCTFQxI9PgeiTbpaWDalUo50bVHU5kA1plT1rTmapJ/GNRUfTmPjMSZourVajOyCM5WXZve9TCs2oWLuMKerxWlC5iOdgIqh9B+LoND09hdzAtHTWKJ4wEO/zP/8WjLFONH9VOBhrtTAQi4NGPTU8rBtTUhCIqK91fOUjmIL1x0IyJi79KrKErnX0lZkprfQ1HD8eyxCuDwAsAAA==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['mainForm'];
+if (!theForm) {
+    theForm = document.mainForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/WebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.WebForm_PostBackOptions||document.write('<script type="text/javascript" src="/WebResource.axd?d=ms4ZPEo7x8wGfcmZGVa882Q-GRZxyS1moGHyBp-1QWXsdFsLpWuLEAWZ_05CRBThCMfPN4DKVX7RbyTKfBwqLzdwk6vNNo1vHTVZ3Tnl4S41&amp;t=638627955619783110"><\/script>');//]]>
+</script>
+
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=yK1CCetHY9IEmSdtVdZrrU7nqfEBqy5uAAQTxDLGp3BPv4fSiiFRGkNN8ni_mH4MDiQbd-QNJiuQqyJvPhk8b0f5-uAaqeeySxRtWXJuGGc74PtBz4aJVDXFdg71Mxkm3w21q2y-DibV6-y4POQEVSs_9MwhBQl6xR_Au3-MkiI1&t=2a9d95e3"><\/script>');//]]>
+</script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjaxWebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys.WebForms)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=trdm7ZD1U7gEtJjuiKxfTQwzOvIMsjDeB6dR1r7Cwixq8oKhiPzNHPCagdCn_9_n7o_a2rlhVzp-JRDMFwUqg89uOeUBLErg6dMAj7LKPMBkz0VJ7BerAwqH1LFWr9J3NH5D3pL2sDcysoWfAAZk_lCZnKNIATfDzDOJ0DC87B6FHSLFeHoBGhK-VWhslhBD0&t=2a9d95e3"><\/script>');//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=FTtXJA64yLVX3JFFIhr1TXUS6Xp1_h8YFDIFt8Ui3HM3InFnm1YHDCmkaDh_gNZLs_7HOcR3TsqK5So9S6FDfevZ07V0roJQzb8q-yMyc30ketr2zUPWml266XVJB7L4S85fjpYt2rbmH7GE76ihAxWQPmdOWdjaXxgoVPNe4Bx2YgJNFtkegxyRltP6lH9y9arcdosdpAk_LBXK6PyYnwLJ6J5e1d6r0waf9wxF7XAZogfMaVEUZeG6NiWtk6hv96Fc68tLBqZfiHXM6YB4rxleDIce99hPj5Qb_M6jsMm_QMgjtrQnCIc_SyTcS2ozialgv81pAk-Juslf7NScr5Rn3salJPoEJyHS3J6j9HUE332twDoabdDwEiDTVmULR09MZ8QmZMB3Hu77SeVaaaGvvsBltoQtfb9K8pE-rL_cqKDwa5d96B-k4uW2AKF50" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=rqqqlhPBZocsTVCUdwGYzL6h4fwislMT-HHXlhWo49fRWDVXPLqUyNYGl_YBX9Vwx6lqQ_TZkr0U5WAAye-fWuqIE-L_2vyjeoYzFg_-Nv64le22eWlPWLWQk5NtHBYgqPAE9i24yujSm1u4hBxOBiQPT8FI11is5xzAYbeeo1UifWbfw4_HBkFKESaeLph80&amp;t=ffffffff8a2a40b3" type="text/javascript"></script>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl04$seamless_script_manager', 'mainForm', [], [], [], 90, '');
+//]]>
+</script>
+
+<script type="text/javascript">
+    try{
+        function SeamlessEndRequestHandler(sender, args) {
+            try {
+                var dataItems = args.get_dataItems();
+                if(dataItems.ctl04_seamless_script_manager)
+                    document.getElementById('__SEAMLESSVIEWSTATE').value = dataItems.ctl04_seamless_script_manager;
+            }
+            catch (e) { }
+        }
+
+        Sys.WebForms.PageRequestManager.getInstance().add_endRequest(SeamlessEndRequestHandler);
+    }
+    catch (e) { }
+</script>
+
+    
+    
+    <div hidden="">
+        <span id="new-window-0">opens in new tab or window </span>
+    </div>
+    <div class="overlay-container"></div>
+    
+    <div class="background-container">
+        <div class="page-container">
+            <!-- OC Layout Element GROUP TEMPLATE -->
+            <!--groupTemplateStart--><header>
+            <div class="toolbar-outer-container">
+  <div class="toolbar-inner-container clearfix">
+    <div class="toolbar-item toolbar-quicklinks loaded"><div class="toolbar-item-list-heading visuallyhidden">Quick Links: </div>
+	<button type="button" aria-controls="toolbar-quicklinks-drop-down" aria-expanded="false" class="toolbar-button toolbar-button-quicklinks js-element"><span>Quick Links</span><i></i></button>	
+	<div id="toolbar-quicklinks-drop-down" class="toolbar-drop-down toolbar-quicklinks-drop-down clearfix">
+		<ul>
+		  <li><a href="https://www.cityofpaloalto.org/Residents/My-Neighborhood" class="oc-icon-b oc-i-search link-type-internal opens-in-new-tab" target="_blank" aria-describedby="new-window-0"><span>Search near me</span></a></li><li><a href="https://www.cityofpaloalto.org/About/Contact-Us" class="oc-icon-b oc-i-contact-us link-type-internal"><span>Contact us</span></a></li><li><a href="https://www.cityofpaloalto.org/Residents/Services/Report-an-Issue" class="oc-icon-b oc-i-mobile link-type-internal"><span>PA311</span></a></li><li><a href="https://www.cityofpaloalto.org/Departments/City-Manager/Latest-News/Sign-Up-for-City-Newsletters" class="oc-icon-b oc-i-subscribe link-type-internal"><span>Subscribe</span></a></li><li><a href="https://www.cityofpaloalto.org/Home/Website-Feedback" class="oc-icon-b oc-i-subscribe link-type-internal"><span>Website Feedback</span></a></li><li><a href="https://www.cityofpaloalto.org/Departments/City-Clerk/City-Records" class="oc-icon-b oc-i-search link-type-internal"><span>Document Search</span></a></li>
+		</ul>
+	</div>
+</div><div class="toolbar-item toolbar-language notranslate toolbar-display-dropdown"><div class="no-js-element">
+			<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English<span class="visuallyhidden"> Select this as your preferred language</span></a><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="en">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness?oc_lang=zh-CN" class="lang-item lang-zh-cn" data-translate-to="zh-cn" lang="en">Chinese (Simplified)<span class="visuallyhidden"> Select this as your preferred language</span></a>
+		</div>
+	<button type="button" aria-controls="toolbar-language-drop-down" aria-expanded="false" class="toolbar-button toolbar-button-language js-element">  
+        <span class="current-language">English</span>
+		<i></i>
+	<span class="visuallyhidden"> is your current preferred language.</span></button>
+	<div id="toolbar-language-drop-down" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix">
+		<ul>
+		    <li></li><li><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="en">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness?oc_lang=zh-CN" class="lang-item lang-zh-cn" data-translate-to="zh-cn" lang="en">Chinese (Simplified)<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+        </ul>
+	</div></div>
+  </div>
+</div>
+            <div class="header-outer-container">
+    <div class="header-container header-layout-2  clearfix">
+			<div class="header-site-logo">
+				<a href="https://www.cityofpaloalto.org/Home" lang="en-US">
+					<span class="visuallyhidden">
+					City of Palo Alto - Home - Logo
+					</span>
+				</a>
+			</div>
+		    <div class="header-website-settings">
+                <button id="btn-mob-nav" aria-controls="nav" aria-expanded="false" class="not-pressed" aria-label="Menu">
+                    <i></i><span class="side-menu-btn-text">Menu</span>
+                </button>
+        	</div>
+			
+			<div class="header-search-control-container" id="header-search" role="search" aria-label="Sitewide search">
+				<div class="search-inner-container">
+					<div class="sc-search-panel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl07_btnSearch')">
+	<label for="ctl07_txtSearch" id="ctl07_lblSearch" class="sc-search-label">Search</label><input name="ctl07$txtSearch" type="text" id="ctl07_txtSearch" class="sc-search-text" placeholder="Search . Find . Connect" autocomplete="off"><input type="submit" name="ctl07$btnSearch" value="Search" id="ctl07_btnSearch" class="sc-search-button">
+</div>
+					<div role="status" id="predictiveResults"></div>
+				</div>
+			</div>
+    </div>
+</div>
+<div class="navigation-outer-container">
+	<div id="nav" role="navigation" class="navigation-container navigation-container-option-1" data-menu-type="horizontal" aria-label="primary">
+        <div class="grid">
+            <div class="col-xs-12">                
+                <ul class="sf-menu mega-menu sf-js-enabled sf-arrows level-1 sf-desktop" id="sc-main-menu" aria-describedby="horizontal-menu-description" style="touch-action: pan-y;"><li class="nav-section-quarters-1   first-item nav-item-seq-1">
+<a href="https://www.cityofpaloalto.org/About" class="nav-level-1 nav-has-children sf-with-ul" target="">
+	<i class="item-icon"></i><span class="item-text">About</span>
+</a>
+<button class="mobnav-subarrow" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="second-level-container ch-6" aria-label="
+	About
+ Sub-menu" style="display: none;">
+
+          
+            <li class="second-level-item  "><a href="https://www.cityofpaloalto.org/About/Get-Involved" class="nav-has-children opens-in-new-tab" target="_blank" aria-describedby="new-window-0">Get Involved</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Get Involved Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Get-Involved/Council-Agendas-Minutes" target="_self">Council Agendas &amp; Minutes</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Get-Involved/Open-City-Hall" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Open City Hall</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Get-Involved/Volunteering" target="_self">Volunteering</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/About/Getting-Around" class="nav-has-children" target="_self">Getting Around</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Getting Around Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Getting-Around/Parking" target="_self">Parking</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Getting-Around/Palo-Alto-Link" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Palo Alto Link</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/About/Holiday-Closures" class="" target="">Holiday Closures</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/About/City-Calendar" class="" target="_self">City Calendar</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/About/Visiting" class="nav-has-children" target="">Things to Do in Palo Alto</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Things to Do in Palo Alto Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Visiting/Visit-the-Palo-Alto-Art-Center" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Visit the Palo Alto Art Center</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Visiting/Visit-the-Palo-Alto-Junior-Museum-Zoo" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Visit the Palo Alto Junior Museum &amp; Zoo</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Visiting/Explore-Stanford-University" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Explore Stanford University</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Visiting/Explore-Outdoor-Recreation" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Explore Outdoor Recreation</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Visiting/Visit-Palo-Alto-Libraries" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Visit Palo Alto Libraries</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Visiting/Attend-a-Local-Community-Event" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Attend a Local Community Event</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Visiting/Explore-Gamble-Garden" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Explore Gamble Garden</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Visiting/Find-Transportation" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Find Transportation</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Visiting/Find-Parking" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Find Parking</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/About/Contact-Us" class="nav-has-children" target="">Contact Us</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Contact Us Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/About/Contact-Us/Career-Opportunities" target="_self">Career Opportunities</a></li></ul></li></ul></li>
+          
+            <li class="nav-section-quarters-1   nav-item-seq-2">
+<a href="https://www.cityofpaloalto.org/City-Hall" class="nav-level-1 nav-has-children sf-with-ul" target="">City Hall</a>
+<button class="mobnav-subarrow" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="second-level-container ch-16" aria-label="City Hall Sub-menu" style="display: none;">
+
+          
+            <li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Accessibility" class="nav-has-children" target="">Accessibility</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Accessibility Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Accessibility/Report-ADA-Grievance" target="">Report an Americans Disabilities Act (ADA) Grievance</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Boards-Commissions" class="nav-has-children" target="">Boards and Commissions</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Boards and Commissions Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Boards-Commissions/Architectural-Review-Board" target="">Architectural Review Board (ARB)</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Boards-Commissions/Historic-Resources-Board" target="">Historic Resources Board (HRB)</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Boards-Commissions/Human-Relations-Commission" target="">Human Relations Commission</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Boards-Commissions/Parks-and-Recreation-Commission" target="">Parks and Recreation Commission</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Boards-Commissions/Planning-and-Transportation-Commission" target="">Planning and Transportation Commission (PTC)</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Boards-Commissions/Public-Art-Commission" target="">Public Art Commission</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Boards-Commissions/Utilities-Advisory-Commission" target="">Utilities Advisory Commission</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Boards-Commissions/Storm-Water-Management-Oversight-Committee" target="">Stormwater Management Oversight Committee</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Boards-Commissions/Boards-and-Commission-Recruitment" target="">Boards and Commissions Recruitment</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/City-Budget" class="" target="">City Budget</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Council-Appointed-Officers" class="nav-has-children" target="">Council Appointed Officers</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Council Appointed Officers Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Council-Appointed-Officers/City-Attorney" target="_self">City Attorney</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Council-Appointed-Officers/City-Auditor" target="_self">City Auditor</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Council-Appointed-Officers/City-Clerk" target="_self">City Clerk</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Council-Appointed-Officers/City-Manager" target="_self">City Manager</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Form-of-Government" class="" target="">Form of Government</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Hot-Topics" class="nav-has-children" target="">Hot Topics</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Hot Topics Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Hot-Topics/Airplane-Noise" target="">Regional SFO Airport Coordination/Airplane Noise</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Hot-Topics/Castilleja-School" target="">Castilleja School</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Hot-Topics/Charleston-Arastradero-Corridor-Project" target="_self">Charleston / Arastradero Corridor Project</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Hot-Topics/Connecting-Palo-Alto" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Connecting Palo Alto</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Hot-Topics/Coronavirus" target="_self">Coronavirus</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Hot-Topics/Fiscal-Sustainability-A-Community-Conversation" target="">Fiscal Sustainability: A Community Conversation</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Hot-Topics/Race-Equity" target="">Race &amp; Equity</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Hot-Topics/Sustainability-and-Climate-Action" target="_self">Sustainability and Climate Action</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Hot-Topics/Wireless-Communication-Facilities" target="">Wireless Communication Facilities</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Hot-Topics/VA-Diesel-Spill-Community-Updates" target="_self">VA Diesel Spill Community Updates</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Hot-Topics/Housing" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Housing</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Hot-Topics/Palo-Alto-Community-Survey" target="_self">Palo Alto Community Survey</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Intergovernmental-Affairs" class="" target="_self">Intergovernmental Affairs</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/City-Council" class="nav-has-children" target="">City Council</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="City Council Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/City-Council/Council-Agendas-Minutes" target="">Meeting Agendas and Minutes</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/City-Council/CitySchool-Liaison-Committee" target="">City/School Liaison Committee</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/City-Council/Finance-Committee" target="">Finance Committee</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/City-Council/Policy-and-Services-Committee" target="">Policy and Services Committee</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/City-Council/Other-Sub-Committees" target="_self">Other Sub-Committees</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Muni-Code-City-Charter" class="opens-in-new-tab" target="_blank" aria-describedby="new-window-0">Muni Code &amp; City Charter</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/News-Press-Releases" class="" target="_self">News &amp; Press Releases</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Open-Town-Hall-Forum" class="opens-in-new-tab" target="_blank" aria-describedby="new-window-0">Open Town Hall Forum</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Phone-Directory" class="" target="">Phone Directory</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Sustainability" class="nav-has-children" target="">Sustainability</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Sustainability Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Sustainability/SCAP" target="">Sustainability and Climate Action Plan (S/CAP)</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Sustainability/Get-Involved" target="">Get Involved with Sustainability</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Sustainability/Goals-and-Progress" target="">Sustainability Goals and Progress</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Sustainability/Energy" target="">Energy</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Sustainability/Electric-Vehicles" target="">Electric Vehicles</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Sustainability/Mobility" target="">Mobility</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Sustainability/Water" target="">Water</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Sustainability/Climate-Adaptation" target="">Climate Adaptation and Sea Level Rise</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Sustainability/Natural-Environment" target="">Natural Environment</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Sustainability/Zero-Waste" target="">Zero Waste</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Sustainability/Planet-Protection-Pledge" target="">Planet Protection Pledge</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Services" class="" target="_self">Services</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Community-Engagement" class="" target="_self">Community Engagement</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Housing" class="nav-has-children" target="">Housing</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Housing Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Housing/Affordable-Housing" target="">Affordable Housing</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Housing/Tenant-Landlord-Resources" target="">Tenant &amp; Landlord Resources</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Housing/Housing-Policies-Projects" target="_self">Housing Policies &amp; Projects</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Housing/Services-for-the-Unhoused" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Services for the Unhoused</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Housing/Information-Referral" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Community Support Services</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/City-Hall/Housing/Accessory-Dwelling-Units" target="_self">Accessory Dwelling Units</a></li></ul></li></ul></li>
+          
+            <li class="nav-section-quarters-2 nav-active-path  nav-item-seq-3">
+<a href="https://www.cityofpaloalto.org/Departments" class="nav-level-1 nav-has-children sf-with-ul" target="">Departments</a>
+<button class="mobnav-subarrow" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="second-level-container ch-16" aria-label="Departments Sub-menu" style="display: none;">
+
+          
+            <li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Administrative-Services" class="nav-has-children" target="">Administrative Services</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Administrative Services Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Administrative-Services/Bid-Opportunities" target="">Bid Opportunities</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Administrative-Services/City-Budget" target="">City Budget</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Administrative-Services/Budget-Adjustments-and-Monitoring" target="">Budget Adjustments and Monitoring</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Administrative-Services/Financial-Reporting" target="">Financial Reporting</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Administrative-Services/Annual-Report-on-Developer-Impact-Fees" target="">Annual Report on Developer Impact Fees</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Administrative-Services/Purchasing-Contract-Administration" target="">Purchasing &amp; Contract Administration</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Attorney" class="nav-has-children" target="">City Attorney</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="City Attorney Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Attorney/Meet-the-City-Attorney" target="">Meet the City Attorney</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Attorney/Resources" target="">Resources</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Attorney/Frequently-Asked-Questions" target="">City Attorney's Office Frequently Asked Questions</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Auditor" class="nav-has-children" target="">City Auditor</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="City Auditor Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Auditor/Reports-and-Publications-Archive" target="">Reports and Publications (Archive)</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Auditor/Standards-and-Practices" target="">Standards and Practices</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Auditor/Reports-and-Publications" target="">Reports and Publications</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Clerk" class="nav-has-children" target="">City Clerk</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="City Clerk Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Clerk/Boards-and-Commissions" target="">Boards and Commissions</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Clerk/City-Council" target="">City Council</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Clerk/City-Meeting-Groups" target="">City Meeting Groups</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Clerk/City-Council-Committees" target="">City Council Committees</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Clerk/City-Records" target="">City Records</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Clerk/Clerk-Services" target="">Clerk Services</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Clerk/Municipal-Elections" target="">Municipal Elections</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Clerk/Gifts-to-the-City" target="">Gifts to the City</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Community-Services" class="nav-has-children" target="">Community Services</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Community Services Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Community-Services/Activities-Programs" target="">Activities &amp; Programs</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Community-Services/Arts-Sciences" target="">Arts &amp; Sciences</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Community-Services/Facility-Rentals" target="">Facility Rentals</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Community-Services/Baylands-Golf-Links" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Baylands Golf Links</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Community-Services/Human-Services" target="">Human Services</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Community-Services/Open-Space-Parks" target="">Open Space &amp; Parks</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Community-Services/Community-Services-News" target="">Community Services News</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Community-Services/Meetings-and-Events" target="">Community Services Meetings and Events</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Community-Services/TEEN-Services" target="">Teen Services</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Community-Services/Support-Parks-and-Recreation" target="">Support Palo Alto Parks, Recreation, and Open Space</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Manager" class="nav-has-children" target="">City Manager</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="City Manager Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Manager/Meet-the-Team" target="">Meet the Team</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Manager/Connect-With-Us" target="">Connect With Us</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Manager/Latest-News" target="">Latest News</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Manager/Contact-Us" target="">Contact the Office of the City Manager</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Manager/City-Policy-Initiatives" target="">City Policy Initiatives</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Manager/Visiting-Delegations" target="">Visiting Delegations</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/City-Manager/Community-Engagement" target="">Community Engagement</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Human-Resources" class="nav-has-children" target="">Human Resources</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Human Resources Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Human-Resources/Your-Human-Resources-Team" target="">Your Human Resources Team</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Human-Resources/Job-Descriptions" target="_self">Job Descriptions</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Human-Resources/Labor-Agreements-and-Salary-Schedules" target="">Labor Agreements and Salary Schedules</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Human-Resources/Retiree-Resources" target="">Retiree Resources</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Human-Resources/Palo-Alto-Careers" target="">Careers with the City of Palo Alto</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Human-Resources/Diversity-Equity-Inclusion-City-Demographics" target="">Workforce Demographic Dashboard</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Fire" class="nav-has-children" target="">Fire</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Fire Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Fire/Regional-Fire-Status-Online-Resources" target="">Regional Fire Status &amp; Online Resources</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Fire/Operations" target="">Fire Operations</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Fire/Fire-Administration" target="">Fire Administration</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Fire/Career-Opportunities" target="">Career Opportunities</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Fire/Fire-News" target="">Fire News</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Fire/Palo-Alto-FireMed" target="">Palo Alto FireMed</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Fire/Knox-Box-Services" target="">Knox Box Services</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Fire/Frequently-Asked-Questions" target="">Fire Department Staffing &amp; Response FAQs</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Library" class="nav-has-children" target="">Library</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Library Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Library/Library-Advisory-Commission-Disbanded" target="">Library Advisory Commission (Disbanded)</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Library/Palo-Alto-Reads-2023" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Palo Alto Reads 2023</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Information-Technology" class="nav-has-children" target="">Information Technology</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Information Technology Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Information-Technology/IT-Strategy" target="">IT Strategy</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Information-Technology/Delivering-Value" target="">Delivering Value</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Information-Technology/Open-Data-Portal" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Open Data</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Information-Technology/SB272-Enterprise-System-Inventory" target="">SB272 - Enterprise System Inventory</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Information-Technology/Cybersecurity-Home" target="">Cybersecurity Resources</a></li></ul></li><li class="second-level-item nav-active-path "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services" class="nav-has-children" target="">Emergency Services</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Emergency Services Sub-menu">
+          
+            <li class="third-level-item nav-active-path nav-active-page"><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness" target="">Emergency Preparedness</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Volunteers" target="">Emergency Volunteers</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Plans-and-Information" target="">Plans and Information</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/OES-Executive-Summary" target="">Palo Alto Office of Emergency Services: Executive Summary</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Flood-Information-and-Winter-Storm-Preparedness" target="">Flood Information and Winter Storm Preparedness</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Business-Assistance-Center" target="_self">Business Assistance Center</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Citizens-Corps-Council-CCC" target="">Citizen Corps Council (CCC)</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Transportation" class="nav-has-children" target="">Transportation</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Transportation Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Transportation/Bicycling-Walking" target="">Bicycling &amp; Walking</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Transportation/Safe-Routes-to-School" target="">Safe Routes to School</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Transportation/Traffic-Operations-and-Safety" target="">Traffic Operations and Safety</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Transportation/Transportation-Projects" target="">Transportation Projects</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Transportation/Parking" target="">Parking</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Transportation/Transportation-News" target="">Transportation News</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Transportation/Transportation-Resources" target="">Transportation Resources</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Transportation/Apply-for-a-Wide-Load-Permit" target="">Apply for a Wide Load Permit</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Transportation/Neighborhood-Petition-Request-for-Traffic-Calming" target="">Neighborhood Petition Request for Traffic Calming</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Transportation/Palo-Alto-Link" target="">Palo Alto Link</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services" class="nav-has-children" target="">Planning &amp; Development</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Planning &amp; Development Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Development-Services" target="">Development Services</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Current-Planning" target="">Current Planning</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Historic-Preservation" target="">Historic Preservation</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Historic-Resources-Board-HRB" target="">Historic Resources Board (HRB)</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Architectural-Review-Board-ARB" target="">Architectural Review Board (ARB)</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Planning-and-Transportation-Commission-PTC" target="">Planning and Transportation Commission (PTC)</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Directors-Hearing" target="">Director's Hearing</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Planning-and-Development-Services-Staff-Directory" target="">Planning and Development Services Staff Directory</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Planning-Development-Administration-Feedback" target="">Planning Development &amp; Administration Feedback</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Development-Center-Feedback" target="">Development Center Feedback</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Inspection-Services-Feedback" target="">Inspection Services Feedback</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Area-Plans-and-Studies" target="">Area Plans and Studies</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Housing-Policies-Projects" target="">Housing Policies &amp; Projects</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Accessory-Dwelling-Units" target="">Accessory Dwelling Units</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Housing" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Housing</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Report-Unpermitted-Construction" target="">Report Unpermitted Construction</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Police" class="nav-has-children" target="">Police</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Police Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Police/Accountability" target="">Accountability</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Police/Animal-Control" target="">Animal Control Division</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Police/Contact-Directory" target="">Contact Directory</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Police/Community-Involvement" target="">Community Involvement</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Police/Crime-Prevention-Tips" target="">Crime Prevention Tips</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Police/Online-Reporting" target="">Online Reporting</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Police/Public-Information-Portal" target="">Public Information Portal</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Police/Recruitment" target="">Recruitment</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Public-Works" class="nav-has-children" target="">Public Works</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Public Works Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Public-Works/Engineering-Services" target="">Engineering Services</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Public-Works/Public-Services" target="">Public Services</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Public-Works/Palo-Alto-Airport" target="">Palo Alto Airport</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Public-Works/Watershed-Protection" target="">Watershed Protection</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Public-Works/Zero-Waste" target="">Zero Waste</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Public-Works/Meetings-and-Events" target="">Meetings and Events</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Utilities" class="nav-has-children" target="">Utilities</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Utilities Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Utilities/Customer-Service" target="">Customer Service</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Utilities/Residents" target="">Residents</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Utilities/Business" target="">Business</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Utilities/Electrification" target="">Electrification</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Utilities/Utilities-Services-Safety" target="">Utilities Services &amp; Safety</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Utilities/Utilities-Workshops-and-Webinars" target="">Utilities Workshops and Webinars</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Utilities/Utilities-News" target="">Utilities News</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Utilities/Utilities-Advisory-Commission" target="">Utilities Advisory Commission</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Departments/Utilities/Water" target="">Water</a></li></ul></li></ul></li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-4">
+<a href="https://www.cityofpaloalto.org/Residents" class="nav-level-1 nav-has-children sf-with-ul" target="">Residents</a>
+<button class="mobnav-subarrow" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="second-level-container ch-10" aria-label="Residents Sub-menu" style="display: none;">
+
+          
+            <li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Residents/City-Budget" class="" target="_self">City Budget</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Community-Engagement" class="" target="_self">Community Engagement</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Getting-Around" class="nav-has-children" target="">Getting Around</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Getting Around Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Getting-Around/Parking" target="_self">Parking</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Getting-Around/Palo-Alto-Link" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Palo Alto Link</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Residents/My-Neighborhood" class="nav-has-children" target="">My Neighborhood</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="My Neighborhood Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/My-Neighborhood/Childrens-Theater" target="_self">Children's Theater</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/My-Neighborhood/Community-Centers" target="_self">Community Centers</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/My-Neighborhood/Palo-Alto-Junior-Museum-Zoo" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Palo Alto Junior Museum &amp; Zoo</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/My-Neighborhood/Library" target="_self">Library</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/My-Neighborhood/Open-Spaces-and-Parks" target="">Open Spaces &amp; Parks</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/My-Neighborhood/Palo-Alto-Art-Center" target="_self">Palo Alto Art Center</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/My-Neighborhood/Public-Art-Program" target="_self">Public Art Program</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Projects" class="" target="">Projects</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Public-Safety" class="nav-has-children" target="">Public Safety</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Public Safety Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Public-Safety/Fire-Department" target="_self">Fire Department</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Public-Safety/Office-of-Emergency-Services" target="_self">Office of Emergency Services</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Public-Safety/Police-Department" target="_self">Police Department</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Public-Safety/Storm-Update" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Storm Update</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Public-Safety/Creek-Monitor-Camera" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Creek Monitor &amp; Camera</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Public-Safety/Coronavirus-COVID-19" target="">Coronavirus (COVID-19)</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Public-Safety/Be-Well" target="">Community Health &amp; Wellbeing</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Recreation" class="nav-has-children" target="_self">Recreation</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Recreation Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Recreation/Baylands-Golf-Links" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Baylands Golf Links</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Recreation/Foothills-Nature-Preserve-Annual-Pass" target="_self">Foothills Nature Preserve Annual Pass</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Recreation/Open-Spaces-Parks" target="_self">Open Spaces &amp; Parks</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Recreation/Register-for-Activities-Classes" target="_self">Register for Activities &amp; Classes</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Services" class="nav-has-children" target="">Services</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Services Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Services/Human-Services" target="_self">Human Services</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Services/Renter-Resources" target="_self">Renter Resources</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Services/City-Service-Feedback" target="_self">City Service Feedback</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Services/Website-Feedback" target="_self">Website Feedback</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Housing" class="opens-in-new-tab" target="_blank" aria-describedby="new-window-0">Housing</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Residents/Be-Well" class="" target="_self">Be Well</a></li></ul></li>
+          
+            <li class="nav-section-quarters-3   nav-item-seq-5">
+<a href="https://www.cityofpaloalto.org/Business" class="nav-level-1 nav-has-children sf-with-ul" target="">Business</a>
+<button class="mobnav-subarrow" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="second-level-container ch-7" aria-label="Business Sub-menu" style="display: none;">
+
+          
+            <li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Business/Business-Resources" class="nav-has-children" target="">Business Resources</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Business Resources Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/Business-Resources/Business-Assistance-Center" target="_self">Business Assistance Center</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/Business-Resources/Business-Services-Contact-Us" target="">Business Services- Contact Us</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/Business-Resources/Minimum-Wage" target="">Minimum Wage</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/Business-Resources/Palo-Alto-Business-Associations" target="">Palo Alto Business Associations</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/Business-Resources/Special-Event-Permit-Application" target="">Special Event Permit Application</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/Business-Resources/Stanford-Research-Park" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Stanford Research Park</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Business/Doing-Business-with-the-City-Bid-Opportunities" class="" target="_self">Doing Business with the City  (Bid Opportunities)</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Business/Existing-Business" class="nav-has-children" target="">Existing Business</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Existing Business Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/Existing-Business/Licenses-and-Permits" target="">Licenses and Permits</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/Existing-Business/Planning-Development-Services" target="_self">Planning &amp; Development Services</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Business/Business-Registry-and-Tax" class="nav-has-children" target="">Business Registry and Tax</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="Business Registry and Tax Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/Business-Registry-and-Tax/Business-Tax-Ordinance" target="">Business Tax Ordinance</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/Business-Registry-and-Tax/Business-Tax-Calculator" target="">Business Tax Calculator</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/Business-Registry-and-Tax/Business-Tax-Frequently-Asked-Questions" target="">Business Tax Frequently Asked Questions</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/Business-Registry-and-Tax/Business-Tax-Implementation-2023" target="">Business Tax Implementation 2023</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Business/New-Business" class="nav-has-children" target="">New Business</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="New Business Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/New-Business/Licenses-and-Permits" target="">Licenses and Permits</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Business/City-Services" class="nav-has-children" target="">City Services</a><button class="mobnav-subarrow-child" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="third-level-container" aria-label="City Services Sub-menu">
+          
+            <li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/City-Services/City-Service-Feedback" target="_self">City Service Feedback</a></li><li class="third-level-item  "><a href="https://www.cityofpaloalto.org/Business/City-Services/Website-Feedback" target="_self">Website Feedback</a></li></ul></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/Business/Comprehensive-Economic-Development-Strategy" class="" target="">Comprehensive Economic Development Strategy</a></li></ul></li>
+          
+            <li class="nav-section-quarters-3   nav-item-seq-6">
+<a href="https://www.cityofpaloalto.org/I-Want-To" class="nav-level-1 nav-has-children sf-with-ul" target="">I Want To...</a>
+<button class="mobnav-subarrow" aria-expanded="false"><i></i><span class="visuallyhidden opensubmenu text">Sub-menu</span></button>
+<ul class="second-level-container ch-33" aria-label="I Want To... Sub-menu" style="display: none;">
+
+          
+            <li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Register-for-Activities-Classes" class="" target="_self">Register for Activities &amp; Classes</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Apply-for-a-City-Job" class="" target="_self">Apply for a Job with the City</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Apply-for-City-Bids" class="" target="_self">Apply for City Bids</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Apply-to-Volunteer" class="" target="_self">Apply to Volunteer</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Experience-the-Art-Center" class="" target="_self">Experience the Art Center</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Submit-Building-Permit" class="" target="_self">Submit Building Permit</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Request-Business-Assistance" class="" target="_self">Request Business Assistance</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Find-A-Community-Respite-Center" class="" target="">Find a Community Respite Center</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Access-Council-Agendas-Minutes" class="" target="_self">Access Council Agendas &amp; Minutes</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/View-the-Creek-Monitor" class="" target="_self">View the Creek Monitor</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Sign-up-for-Emergency-Alerts" class="opens-in-new-tab" target="_blank" aria-describedby="new-window-0">Sign up for Emergency Alerts</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Visit-Palo-Alto-Junior-Museum-Zoo" class="opens-in-new-tab" target="_blank" aria-describedby="new-window-0">Visit Palo Alto Junior Museum &amp; Zoo</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Visit-the-Library" class="" target="_self">Visit the Library</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Check-for-Utility-Outage" class="" target="_self">Check for Utility Outage</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Submit-a-Service-Request" class="" target="_self">Submit a Service Request</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Locate-Parking" class="" target="_self">Locate Parking</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Visit-Open-Spaces-Parks" class="" target="_self">Visit Open Spaces &amp; Parks</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Read-the-Police-Report-Log" class="" target="_self">Read the Police Report Log</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Experience-Public-Art" class="" target="_self">Experience Public Art</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Visit-the-Cubberley-Theatre" class="" target="_self">Visit the Cubberley Theatre</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Submit-a-Public-Records-Request" class="" target="_self">Submit a Public Records Request</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Visit-the-Childrens-Theatre" class="" target="_self">Visit the Children's Theatre</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Learn-about-Uplift-Local" class="opens-in-new-tab" target="_blank" aria-describedby="new-window-0">Learn about Uplift Local</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Get-Utility-Assistance" class="" target="_self">Get Utility Assistance</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Learn-about-Zero-Waste-Programs" class="" target="_self">Learn about Zero Waste Programs</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Pay-a-Utilities-Bill" class="" target="_self">Pay a Utilities Bill</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Provide-Feedback-on-City-Services" class="" target="_self">Provide Feedback on City Services</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Submit-Website-Feedback" class="" target="_self">Submit Website Feedback</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Access-Palo-Alto-311" class="opens-in-new-tab" target="_blank" aria-describedby="new-window-0">Access Palo Alto 311</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Learn-about-Zero-Waste" class="opens-in-new-tab" target="_blank" aria-describedby="new-window-0">Learn about Zero Waste</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Pay-a-Parking-Citation" class="opens-in-new-tab" target="_blank" aria-describedby="new-window-0">Pay a Parking Citation</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Be-Well" class="" target="_self">Be Well</a></li><li class="second-level-item  "><a href="https://www.cityofpaloalto.org/I-Want-To/Get-a-Library-Card" class="" target="_self">Get a Library Card</a></li></ul></li>
+          
+            </ul><div class="visuallyhidden list_help" id="horizontal-menu-description"><p>Select the Escape key to close the menu. Focus will then be set to the first menu item.</p></div>
+            </div>
+        </div>
+    </div>
+</div>
+            </header>
+            <div class="content-outer-container">
+                <div id="main" role="main" class="main-outer-container clearfix">
+                        
+                        <div class="content-main-container">
+                            <div class="grid">
+					            <div class="col-xs-12">
+						            <nav id="breadcrumbs-container" aria-label="Breadcrumbs">
+							            <span class="visuallyhidden">You Are Here : </span>
+<span role="list">
+<span role="listitem">
+	<a href="https://www.cityofpaloalto.org/Home" lang="en-US">Home</a>
+	<span class="nav-separator" role="presentation">/</span>
+</span>
+          <span role="listitem"><a href="https://www.cityofpaloalto.org/Departments">Departments</a><span class="nav-separator" role="presentation">/</span></span><span role="listitem">
+	<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services">
+		Emergency Services
+	</a>
+	<span class="nav-separator" role="presentation">/</span>
+</span>
+<span class="current-page" role="listitem">Emergency Preparedness</span>
+          </span>
+						            </nav>
+					            </div>
+                      <div class="col-xs-12">
+                                                <div class="featured-section-header-outer clearfix"><div class="featured-section-header-inner clearfix"><div class="featured-section-header-logo"><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services" class="featured-section-header-logo-link"><picture>
+  <source media="(min-width:992px)" srcset="/files/ocwebsite/53df05c8-63e4-487b-891d-74bb4470cc1a/OES_LOGO.png?w=100">
+        <source media="(min-width:768px)" srcset="/files/ocwebsite/53df05c8-63e4-487b-891d-74bb4470cc1a/OES_LOGO.png?w=100">
+        <source srcset="/files/ocwebsite/53df05c8-63e4-487b-891d-74bb4470cc1a/OES_LOGO.png?w=100">
+            <img src="/files/ocwebsite/53df05c8-63e4-487b-891d-74bb4470cc1a/OES_LOGO.png?w=100" alt="">
+        </picture><span class="featured-section-header-logo-text">Office of Emergency Services</span></a></div><div class="section-menu-btn js-element">
+		    <button aria-controls="nav" aria-expanded="false" class="not-pressed"><i></i><span class="section-menu-btn-text"><span class="visuallyhidden">Open side </span>Menu</span></button>
+		    </div></div></div><div class="section-nav-outer-container clearfix"><div id="section-nav" role="navigation" class="navigation-container" aria-label="secondary"><ul class="featured-section-menu" id="fs-menu"><li class="nav-active-path nav-active-page nav-item-seq-1">
+<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness" class="nav-level-1 nav-has-children" target="">Emergency Preparedness</a>
+<button class="fs-nav-subarrow"><i></i><span class="visuallyhidden text">Sub-menu</span></button>
+<ul>
+          
+          <li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness/Stay-Informed" class="nav-has-children">Stay Informed</a><button class="fs-nav-subarrow"><i></i><span class="visuallyhidden text">Sub-menu</span></button>
+<ul>
+          
+          <li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness/Stay-Informed/AlertSCC-FAQ">AlertSCC FAQ</a></li></ul></li><li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness/Be-Prepared-Individuals-and-Families" class="">Be Prepared: Individuals and Families</a></li><li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness/Be-Prepared-Faith-Communities" class="">Be Prepared: Faith Communities</a></li></ul></li>
+          
+          <li class="  nav-item-seq-2">
+<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Volunteers" class="nav-level-1 nav-has-children" target="">Emergency Volunteers</a>
+<button class="fs-nav-subarrow"><i></i><span class="visuallyhidden text">Sub-menu</span></button>
+<ul>
+          
+          <li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Volunteers/NPCBPC" class="">Palo Alto Neighborhood and Block Preparedness Coordinator Program</a></li><li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Volunteers/CERT" class="">Community Emergency Response Team</a></li><li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Volunteers/Auxiliary-Communications-Services" class="">Auxiliary Communications Services</a></li></ul></li>
+          
+          <li class="  nav-item-seq-3">
+<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Plans-and-Information" class="nav-level-1 nav-has-children" target="">Plans and Information</a>
+<button class="fs-nav-subarrow"><i></i><span class="visuallyhidden text">Sub-menu</span></button>
+<ul>
+          
+          <li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Plans-and-Information/Palo-Alto-Threats-and-Hazards" class="nav-has-children">Palo Alto Threats and Hazards</a><button class="fs-nav-subarrow"><i></i><span class="visuallyhidden text">Sub-menu</span></button>
+<ul>
+          
+          <li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Plans-and-Information/Palo-Alto-Threats-and-Hazards/Earthquake-Preparedness">Take Steps to Be Ready for the Next Big Earthquake</a></li></ul></li><li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Plans-and-Information/Local-Hazard-Mitigation-Plan" class="">Local Hazard Mitigation Plan</a></li></ul></li>
+          
+          <li class="  nav-item-seq-4">
+<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/OES-Executive-Summary" class="nav-level-1 nav-has-children" target="">Palo Alto Office of Emergency Services: Executive Summary</a>
+<button class="fs-nav-subarrow"><i></i><span class="visuallyhidden text">Sub-menu</span></button>
+<ul>
+          
+          <li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/OES-Executive-Summary/MEOC-Mobile-Emergency-Operations-Center" class="">MEOC: Mobile Emergency Operations Center</a></li><li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/OES-Executive-Summary/DCV-Directors-Command-Vehicle" class="">DCV: Director's Command Vehicle</a></li><li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/OES-Executive-Summary/MSV-MEOC-Support-Vehicle" class="">MSV: MEOC Support Vehicle</a></li><li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/OES-Executive-Summary/UTV-Utility-Terrain-Vehicle" class="">UTV: Utility Terrain Vehicle</a></li><li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/OES-Executive-Summary/SGT-Solar-Generator-Trailer" class="nav-has-children">Solar Generator Trailer</a><button class="fs-nav-subarrow"><i></i><span class="visuallyhidden text">Sub-menu</span></button>
+<ul>
+          
+          <li class=" "><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/OES-Executive-Summary/SGT-Solar-Generator-Trailer/SGT-Image-Gallery">SGT Image Gallery</a></li></ul></li></ul></li>
+          
+          <li class="  nav-item-seq-5">
+<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Flood-Information-and-Winter-Storm-Preparedness" class="nav-level-1 " target="">Flood Information and Winter Storm Preparedness</a>
+</li>
+          
+          <li class="  nav-item-seq-6">
+<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Business-Assistance-Center" class="nav-level-1 " target="_self">Business Assistance Center</a>
+</li>
+          
+          <li class="  nav-item-seq-7">
+<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Citizens-Corps-Council-CCC" class="nav-level-1 " target="">Citizen Corps Council (CCC)</a>
+</li>
+          
+          </ul></div></div> </div>
+					            <div class="col-xs-12">
+						            <div class="main-inner-container">
+                                        <div class="grid">							
+								            <div class="col-lg-4">								
+									            <div id="sub-navigation-outter-container" role="navigation" aria-label="Section Navigation">
+									            &nbsp;
+									            <div id="sub-navigation-container">
+                                <p class="sub-nav-header" role="heading" aria-level="2" id="in-this-section">
+	In This Section
+</p>
+<ul><li class="nav-level-1 nav-active-path nav-active-page nav-has-children">
+	<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness" target="">Emergency Preparedness</a>
+	<ul><li class="nav-level-2   nav-has-children">
+	<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness/Stay-Informed" target="">Stay Informed</a>
+	
+</li><li class="nav-level-2   ">
+	<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness/Be-Prepared-Individuals-and-Families" target="">Be Prepared: Individuals and Families</a>
+	
+</li><li class="nav-level-2   ">
+	<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness/Be-Prepared-Faith-Communities" target="">Be Prepared: Faith Communities</a>
+	
+</li></ul>
+</li><li class="nav-level-1   nav-has-children">
+	<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Volunteers" target="">Emergency Volunteers</a>
+	
+</li><li class="nav-level-1   nav-has-children">
+	<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Plans-and-Information" target="">Plans and Information</a>
+	
+</li><li class="nav-level-1   nav-has-children">
+	<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/OES-Executive-Summary" target="">Palo Alto Office of Emergency Services: Executive Summary</a>
+	
+</li><li class="nav-level-1   ">
+	<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Flood-Information-and-Winter-Storm-Preparedness" target="">Flood Information and Winter Storm Preparedness</a>
+	
+</li><li class="nav-level-1   ">
+	<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Business-Assistance-Center" target="_self">Business Assistance Center</a>
+	
+</li><li class="nav-level-1   ">
+	<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Citizens-Corps-Council-CCC" target="">Citizen Corps Council (CCC)</a>
+	
+</li></ul>
+									            </div>
+									            </div>
+								            </div>
+								            <div class="col-xs-12 col-lg-8">
+							                <div id="main-content" class="main-container clearfix">
+							                  
+                                <!-- OC Layout Element Conent Template -->
+							                  <!--normalTemplateStart--><h1 class="oc-page-title ">Emergency Preparedness</h1>
+
+      
+<p>Preparing for a disaster is an important part of keeping you, families, local businesses, schools, faith communities, senior citizens, those with access and functional needs, and all of Palo Alto safe.</p>
+<p>Planning and preparing for this eventuality may save your life, minimize property damage, and reduce economic loss. Palo Alto has over 65,000 residents, but only 40-50 first responders on duty at any given time. Learning and preparing to be self-sufficient for at least 14 days will help you make it through a large disaster.</p>
+<h2>Know Your Hazards&nbsp;</h2>
+<p><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Plans-and-Information/Palo-Alto-Threats-and-Hazards" target="_self"><img alt="Thira Icons" src="/files/assets/public/v/1/oes/thira_icons_d_654.jpg?w=654&amp;h=385" style="width: 654px; height: 385px;"></a></p>
+<p>The City of Palo Alto residents, businesses, schools, faith communities, and special populations face potential hazards from natural, intentional, and unintentional causes.&nbsp;<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Plans-and-Information/Palo-Alto-Threats-and-Hazards" target="_self">Familiarize yourself with the threats and hazards facing Palo Alto</a>.
+</p>
+<section id="page-content" role="main" aria-label="main content area">&nbsp;</section>
+<h2>Stay Informed</h2>
+<p>
+The Office of Emergency Services provides multiple options to receive public warnings and emergency alerts. Contact us or stay connected if you're interested in following Palo Alto Public Safety.</p>
+<p><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness/Stay-Informed" target="_self">Sign up for alerts, stay connected, contact us.</a></p>
+<h2>Be Prepared</h2>
+<ul>
+    <li><strong>Individuals &amp; Families.&nbsp;&nbsp;</strong><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness/Be-Prepared-Individuals-and-Families" target="_self">Learn how to prepare</a>&nbsp;for the range of hazards that exist in Palo Alto.&nbsp; We offer steps to know your hazards, make a plan, build a kit and stay informed.&nbsp;</li>
+</ul>
+<p><a href="https://paloalto.prelive.opencities.com/Departments/Office-of-Emergency-Services/Emergency-Preparedness/Be-Prepared-Individuals-and-Families" target="_self"><img alt="family with emergency supplies" src="/files/assets/public/v/1/oes/preparedness/preparedness_individualsfam_200bw.jpg?w=200&amp;h=200" title="Get Prepared" style="width: 200px; height: 200px;"></a></p>
+<p><strong><a target="_self">
+</a></strong></p>
+<hr>
+<strong><a target="_self">
+</a></strong>
+<ul>
+    <li><strong>Businesses.&nbsp;</strong><a href="https://www.ready.gov/business" target="_self">FEMA's Ready.Gov</a>&nbsp;provides helpful resources to help you plan for and recover from emergencies that may impact your business.&nbsp;&nbsp;</li>
+</ul>
+<p><a href="https://www.ready.gov/business" target="_self"><img alt="business park" src="/files/assets/public/v/1/oes/preparedness/be_prepared_businesses_a_125.jpg?w=125&amp;h=125" style="width: 125px; height: 125px;"></a></p>
+<p><strong><a target="_self">
+</a></strong></p>
+<hr>
+<strong><a target="_self">
+</a></strong>
+<ul>
+    <li><strong>Schools.&nbsp;</strong>Whether in day care, K-12, or college, school preparedness helps to keep students and staff safe. The&nbsp;<a href="https://www.caloes.ca.gov/office-of-the-director/operations/planning-preparedness-prevention/planning-preparedness/school-emergency-planning-safety/" target="_self">State of California has established basic standards for emergency preparedness</a>&nbsp;that all school leaders can use.&nbsp;&nbsp;</li>
+</ul>
+<p><a href="https://www.caloes.ca.gov/office-of-the-director/operations/planning-preparedness-prevention/planning-preparedness/school-emergency-planning-safety/" target="_self"><img alt="palo alto high school" src="/files/assets/public/v/1/oes/preparedness/paly_a_125.jpg?w=125&amp;h=125" style="width: 125px; height: 125px;"></a></p>
+<p><strong><a target="_self">
+</a></strong></p>
+<hr>
+<strong><a target="_self">
+</a></strong>
+<ul>
+    <li><strong>Faith Communities.</strong>&nbsp;<a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Preparedness/Be-Prepared-Faith-Communities" target="_self">Faith-based preparedness</a>&nbsp;is important during emergencies so that staff and congregants know what to do.&nbsp;<strong></strong>Faith-based organizations can also play an important role in a disaster to help the community during and after the emergency.</li>
+</ul>
+<p><a href="https://paloalto.prelive.opencities.com/Departments/Office-of-Emergency-Services/Emergency-Preparedness/Be-Prepared-Faith-Communities" target="_self"><img alt="religious images" src="/files/assets/public/v/1/oes/preparedness/be_prepared_faith_based_125.jpg?w=125&amp;h=125" style="width: 125px; height: 125px;"></a></p>
+<p><strong><a target="_self">
+</a></strong></p>
+<hr>
+<strong><a target="_self">
+</a></strong>
+<ul>
+    <li><strong>Seniors.&nbsp;&nbsp;</strong>If you are an older adult living in the community, you may face some challenges during an emergency. For example, you may have mobility problems, or chronic health conditions, or you may not have any family or friends nearby to support you. Support services that are usually available, such as help from caregivers or in-home health care and meal delivery services, may be unavailable for a period of time. In addition, older adults may experience challenges that come with advanced age, such as hearing or vision problems or cognitive impairment, which may make it difficult to access, understand, and respond to emergency instructions.</li>
+</ul>
+<ul>
+    <li>You or the person you care for can be prepared for emergency situations by creating a plan, reviewing or practicing it regularly, and keeping an emergency supply kit.&nbsp;&nbsp;<a href="https://www.ready.gov/seniors" target="_self">FEMA's Ready.gov for Seniors</a>&nbsp;and the&nbsp;<a href="https://www.cdc.gov/aging/publications/features/older-adult-emergency.html">CDC's Emergency Preparedness for Older Adults</a>&nbsp;are helpful resources.&nbsp; &nbsp;</li>
+</ul>
+<p><img alt="older aged couple using their computers" src="/files/assets/public/v/1/oes/preparedness/be_prepared_seniors_125.jpg?w=125&amp;h=125" style="width: 125px; height: 125px;"></p>
+<p><strong><a target="_self">
+</a></strong></p>
+<hr>
+<strong><a target="_self">
+</a></strong>
+<ul>
+    <li><strong>Access &amp; Functional Needs.&nbsp;</strong>&nbsp;Those with disabilities or special needs can be most at risk during emergency situations.&nbsp; It is so important to plan ahead&nbsp;to ensure you have assistive devices, supplies, a transportation plan, and more when the situation calls for it.&nbsp;&nbsp;<a href="https://www.ready.gov/disability" target="_self">Start your emergency planning now</a>.</li>
+</ul>
+<p><img alt="chart of accessibility symbols" src="/files/assets/public/v/1/oes/preparedness/be_prepared_afn_125.jpg?w=125&amp;h=125" style="width: 125px; height: 125px;"></p>
+<p>&nbsp;</p>
+<h2>Preparedness Brochures Translated: Chinese, Korean, Russian, and Spanish</h2>
+<p>You can now download our emergency preparedness brochures in four languages: Chinese (Simplified), Korean, Russian, and Spanish.</p>
+<p>
+</p>
+<div data-type="0" data-title-level="2" class="oc-wysiwyg-container">
+<div class="oc-wysiwyg-container-panel">
+
+
+</div>
+<div class="oc-wysiwyg-container-panel">
+
+
+</div>
+<div class="oc-wysiwyg-container-panel">
+
+
+</div>
+<div class="oc-wysiwyg-container-panel">
+
+
+</div>
+<div class="accordion-list-container"><div class="accordion-list-item-container multi-accrodion"><div class="accordion-item-header"><a data-accordion-all-device="true" data-open="false" class="accordion-trigger contains-heading  accordion-closed" role="button" data-accordion-use-cookie="true" data-accordion-body="#accord-1-1" aria-controls="accord-1-1" aria-expanded="false" tabindex="0"><i></i><span class="visuallyhidden">(show below)</span><h2 class="item-text">Be Prepared - Threats and Hazards Brochure (PDF)</h2><span class="visuallyhidden">(show below)</span></a></div><div class="accordion-item-body multi-accordion-body clearfix rs_skip" id="accord-1-1" style="display: none;"><div class="oc-wysiwyg-container-panel-content">
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/cpa_be_prepared_brochure_2018-chinese-v1.pdf" target="_self" title="Be Prepared - Threats and Hazards - Chinese Simplified" class="document ext-pdf"><i></i>普通话<span class="file-info">(PDF,&nbsp;3MB)</span></a></p>
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/cpa_be_prepared_brochure_2018-korean-v1.pdf" target="_self" title="Be Prepared - Threats and Hazards - Korean" class="document ext-pdf"><i></i>한국어<span class="file-info">(PDF,&nbsp;3MB)</span></a></p>
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/cpa_be_prepared_brochure_2018_russian_v2.pdf" target="_self" title="Be Prepared - Threats and Hazards - Russian" class="document ext-pdf"><i></i>Pусский<span class="file-info">(PDF,&nbsp;176KB)</span></a></p>
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/cpa_be_prepared_brochure_2018-spanish-v2.pdf" target="_self" title="Be Prepared - Threats and Hazards - Spanish" class="document ext-pdf"><i></i>Español<span class="file-info">(PDF,&nbsp;336KB)</span></a></p>
+<p><br>
+</p>
+</div></div></div><div class="accordion-list-item-container multi-accrodion"><div class="accordion-item-header"><a data-accordion-all-device="true" data-open="false" class="accordion-trigger contains-heading  accordion-closed" role="button" data-accordion-use-cookie="true" data-accordion-body="#accord-1-2" aria-controls="accord-1-2" aria-expanded="false" tabindex="0"><i></i><span class="visuallyhidden">(show below)</span><h2 class="item-text">Earthquake Preparedness Brochure (PDF)</h2><span class="visuallyhidden">(show below)</span></a></div><div class="accordion-item-body multi-accordion-body clearfix rs_skip" id="accord-1-2" style="display: none;"><div class="oc-wysiwyg-container-panel-content">
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/cpa_emergency_prep_april_insert_chinese_v2.pdf" target="_self" title="Earthquake Preparedness - Chinese Simplified" class="document ext-pdf"><i></i>普通话&nbsp;<span class="file-info">(PDF,&nbsp;357KB)</span></a></p>
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/cpa_emergency_prep_april_insert_korean_v2.pdf" target="_self" title="Earthquake Preparedness - Korean" class="document ext-pdf"><i></i>한국어<span class="file-info">(PDF,&nbsp;262KB)</span></a></p>
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/cpa_emergency_prep_april_insert_russian_v2.pdf" target="_self" title="Earthquake Preparedness - Russian" class="document ext-pdf"><i></i>Pусский<span class="file-info">(PDF,&nbsp;214KB)</span></a></p>
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/cpa_emergency_prep_april_insert_spanish_v2.pdf" target="_self" title="Earthquake Preparedness - Spanish" class="document ext-pdf"><i></i>Español&nbsp;<span class="file-info">(PDF,&nbsp;202KB)</span></a></p>
+<p><br>
+</p>
+</div></div></div><div class="accordion-list-item-container multi-accrodion"><div class="accordion-item-header"><a data-accordion-all-device="true" data-open="false" class="accordion-trigger contains-heading  accordion-closed" role="button" data-accordion-use-cookie="true" data-accordion-body="#accord-1-3" aria-controls="accord-1-3" aria-expanded="false" tabindex="0"><i></i><span class="visuallyhidden">(show below)</span><h2 class="item-text">Severe Storm Tips Brochure (PDF)</h2><span class="visuallyhidden">(show below)</span></a></div><div class="accordion-item-body multi-accordion-body clearfix rs_skip" id="accord-1-3" style="display: none;"><div class="oc-wysiwyg-container-panel-content">
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/rwq_storm_tips_nov_insert_chinese_v2.pdf" target="_self" title="Severe Storm Tips - Chinese Simplified" class="document ext-pdf"><i></i>普通话<span class="file-info">(PDF,&nbsp;301KB)</span></a>&nbsp;</p>
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/rwq_storm_tips_nov_insert_korean_v2.pdf" target="_self" title="Severe Storm Tips - Korean" class="document ext-pdf"><i></i>한국어<span class="file-info">(PDF,&nbsp;212KB)</span></a></p>
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/rwq_storm_tips_nov_insert_russian_v2.pdf" target="_self" title="Severe Storm Tips - Russian" class="document ext-pdf"><i></i>Pусский<span class="file-info">(PDF,&nbsp;185KB)</span></a></p>
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/rwq_storm_tips_nov_insert_spanish_v2.pdf" target="_self" title="Severe Storm Tips - Spanish" class="document ext-pdf"><i></i>Español&nbsp;<span class="file-info">(PDF,&nbsp;171KB)</span></a></p>
+<p><br>
+</p>
+</div></div></div><div class="accordion-list-item-container multi-accrodion"><div class="accordion-item-header"><a data-accordion-all-device="true" data-open="false" class="accordion-trigger contains-heading  accordion-closed" role="button" data-accordion-use-cookie="true" data-accordion-body="#accord-1-4" aria-controls="accord-1-4" aria-expanded="false" tabindex="0"><i></i><span class="visuallyhidden">(show below)</span><h2 class="item-text">Palo Alto Emergency Services Volunteer Brochure (PDF)</h2><span class="visuallyhidden">(show below)</span></a></div><div class="accordion-item-body multi-accordion-body clearfix rs_skip" id="accord-1-4" style="display: none;"><div class="oc-wysiwyg-container-panel-content">
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/cpa_esv_brochure_chinese-v1.pdf" target="_self" title="ESV - Chinese Simplified" class="document ext-pdf"><i></i>普通话&nbsp;<span class="file-info">(PDF,&nbsp;2MB)</span></a></p>
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/cpa_esv_brochure_korean-v1.pdf" target="_self" title="ESV - Korean" class="document ext-pdf"><i></i>한국어<span class="file-info">(PDF,&nbsp;2MB)</span></a></p>
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/cpa_esv_brochure_russian_v2.pdf" target="_self" title="ESV - Russian" class="document ext-pdf"><i></i>Pусский<span class="file-info">(PDF,&nbsp;2MB)</span></a></p>
+<p><a href="/files/assets/public/v/1/oes/office-of-emergency-services/cpa_esv_brochure_spanish-v3.pdf" target="_self" title="ESV - Spanish" class="document ext-pdf"><i></i>Español&nbsp;<span class="file-info">(PDF,&nbsp;348KB)</span></a></p>
+<p><br>
+</p>
+</div></div></div></div></div>
+<p>&nbsp;</p>
+<h2>Get Involved</h2>
+<p><a href="https://www.cityofpaloalto.org/Departments/Emergency-Services/Emergency-Volunteers" target="_self">PALO ALTO's ESV PROGRAM</a>.&nbsp; Are you a Palo Alto resident who wants to be involved in your neighborhood?&nbsp; Do you feel that you can help your neighbors?&nbsp; Learn more about our Emergency Services Volunteer program.</p>
+<p>&nbsp;<img alt="palo alto esv logo" src="/files/assets/public/v/1/oes/esv-sites/palo_alto_emergency_services_volunteer_250_1.png?w=250&amp;h=250" style="width: 200px; height: 200px;">
+</p>
+<div>
+</div>
+<div id="page-last-updated"></div>
+      
+
+
+<!--normalTemplateEnd-->
+                                
+                                
+                                
+							                </div>
+							                </div>
+							             </div>
+						            </div>
+						            </div>
+                        
+					                  </div>
+                        </div>
+                        <div class="back-to-top-container text-center">
+                            <a href="#body-top" id="back-to-top" style="right: -50px;"><i></i><span class="js-visuallyhidden">Back to top</span></a>
+                        </div>
+                </div>
+            </div><!--groupTemplateEnd-->
+            <footer>
+                
+                    <div class="footer-outer-container footer-first-row">
+                        <div class="footer-container clearfix">
+                            <div class="grid grid-pad">
+                                <div class="col-xs-12 col-s-12 col-m-6 col-lg-3">
+	
+	<div><img alt="Logo for City of Palo Alto." src="/files/content/public/v/1/site-footer/footer-widgets/logo/pa_vertical-logo-white.png"></div>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-3">
+	<h3 class="footer-title">City Hall</h3>
+	<p>250 Hamilton Avenue<br>
+Palo Alto, CA 94301</p>
+<p>General City Information<br>
+<a href="tel:6503292100">(650) 329-2100</a></p>
+<p><a href="https://www.cityofpaloalto.org/Home/City-Service-Feedback">City Service Feedback</a></p>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-3">
+	<h3 class="footer-title">Quick Links</h3>
+	
+	<ul class="footer-links without-icons ">  <li>
+<a href="https://www.cityofpaloalto.org/About" target="_self">About</a>
+</li>
+          <li>
+<a href="https://www.cityofpaloalto.org/City-Hall" target="_self">City Hall</a>
+</li>
+          <li>
+<a href="https://www.cityofpaloalto.org/Residents/Services" target="_self">Services</a>
+</li>
+          <li>
+<a href="https://www.cityofpaloalto.org/I-Want-To" target="_self">I Want To...</a>
+</li>
+           </ul>
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-3">
+	<h3 class="footer-title">Connect</h3>
+	
+	<ul class="footer-links with-icons social-media-links">  <li class="footer-link-facebook">
+	<a href="https://www.facebook.com/cityofpaloalto/" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">
+<i></i>Facebook
+</a>
+</li>
+          <li class="footer-link-twitter">
+	<a href="https://twitter.com/cityofpaloalto" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">
+<i></i>Twitter
+</a>
+</li>
+          <li class="footer-link-instagram">
+	<a href="https://www.instagram.com/cityofpaloalto/" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">
+<i></i>Instagram
+</a>
+</li>
+          <li class="footer-link-medium">
+	<a href="https://medium.com/@PaloAltoConnect" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">
+<i></i>Medium
+</a>
+</li>
+           </ul>
+	
+</div>
+                            </div>
+                        </div>
+                    </div>
+                
+                <div class="footer-outer-container footer-second-row">
+                    <div class="footer-container clearfix">
+                        <div class="grid grid-pad footer-secondary-links">
+                            <div class="col-xs-12 col-m-7">
+                                
+                                    <div><a href="https://www.cityofpaloalto.org/City-Hall/Accessibility" target="_self">Accessibility Statement</a>&nbsp;| <a href="https://www.cityofpaloalto.org/Home/Website-Terms-of-Use" target="_self">Terms of Use</a>&nbsp;| <a href="https://www.cityofpaloalto.org/Sitemap" target="_self">Sitemap</a>&nbsp;| <a href="https://www.cityofpaloalto.org/Home/Website-Feedback" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Submit Website Feedback</a></div>
+                                
+                            </div>
+                            <div class="col-xs-12 col-m-5 powered-by">
+                                <div class="right">
+                                    © 2025 City of Palo Alto&nbsp;|&nbsp;<span class="powered-by">Powered by <a href="https://granicus.com/solution/govaccess/opencities/" target="_blank" aria-describedby="new-window-0" class="opens-in-new-tab">Granicus</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="/files/oc-resources/b9015858-988c-48a4-9473-7c193df083e4/JsTextSnippets.js?ocsvclang=en-US" type="text/javascript"></script><script></script>
+    
+    <p class="publish-on small-text pa-last-updated">
+Last updated on January 06, 2025</p>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_15203522.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+<!-- LinkedIn -->
+<script type="text/javascript">
+_linkedin_partner_id = "1731588";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1731588&fmt=gif" />
+</noscript>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-31165406-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G4NQGK6D25');
+  gtag('config', 'UA-31165406-1');
+  gtag('config', 'AW-11258407109');
+</script>
+    
+    </form><iframe allow="join-ad-interest-group" data-tagging-id="G-G4NQGK6D25" data-load-time="1739252834792" height="0" width="0" src="https://td.doubleclick.net/td/ga/rul?tid=G-G4NQGK6D25&amp;gacid=824594697.1739252835&amp;gtm=45je5280v878820264za200&amp;dma=0&amp;gcd=13l3l3l3l1l1&amp;npa=0&amp;pscdl=noapi&amp;aip=1&amp;fledge=1&amp;frm=0&amp;tag_exp=102067808~102482433~102539968~102558064~102587591~102605417&amp;z=774693328" style="display: none; visibility: hidden;"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-11258407109" data-load-time="1739252834810" height="0" width="0" src="https://td.doubleclick.net/td/rul/11258407109?random=1739252834798&amp;cv=11&amp;fst=1739252834798&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5280v9165911377za200&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=102015664~102067808~102482433~102539968~102558064~102587591~102605417&amp;u_w=1280&amp;u_h=720&amp;url=https%3A%2F%2Fwww.cityofpaloalto.org%2FDepartments%2FEmergency-Services%2FEmergency-Preparedness&amp;ref=https%3A%2F%2Fnews.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Emergency%20Preparedness%20%E2%80%93%20City%20of%20Palo%20Alto%2C%20CA&amp;npa=0&amp;pscdl=noapi&amp;auid=1581005679.1739252835&amp;uaa=arm&amp;uab=64&amp;uafvl=HeadlessChrome%3B131.0.6778.33%7CChromium%3B131.0.6778.33%7CNot_A%2520Brand%3B24.0.0.0&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=15.3.0&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config" style="display: none; visibility: hidden;"></iframe><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe>
+
+<div id="oc-aria-status" role="status" aria-live="polite" aria-atomic="true" class="visuallyhidden">Ready</div></body></html>
